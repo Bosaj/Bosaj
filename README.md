@@ -26,11 +26,6 @@ Prodigy InfoTech (Nov 2024 – Dec 2024, Remote)
 - Developed and tuned supervised models (logistic regression, SVM, decision trees)  
 - Worked on cardiovascular disease risk prediction  
 
-**Sport Leader**  
-DECATHLON MOROCCO (Aug 2024 – Oct 2024, Oujda)  
-- Managed customer relations & inventory  
-- Led sports workshops following safety standards  
-
 **Intern**  
 ELEAT Center (May 2023 – Jul 2023, Oujda)  
 - Trained teams in MS Office (Word, Excel, PowerPoint)  
@@ -79,8 +74,6 @@ Baccalaureate in Physical Sciences, Honors (Sep 2017 – Jul 2019)
 
 - **Club Motatawi3 El-Alfia** – Volunteer management & event logistics (Apr 2024 – Present)  
 - **Ambassadors of Good Association** – Community development coordinator (Sep 2023 – Present)  
-- **Marrakech Earthquake Relief** – Humanitarian aid coordination (Sep 2023)  
-- **CRTS Oujda** – Blood donation awareness campaigns (Aug 2023)  
 
 ---
 
