@@ -1,16 +1,14 @@
-# 👋 Hi there, I'm Oussama ELHADJI (Bosaj)
+# 👋 Hi there, I'm Oussama ELHADJI
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-oussama--elhadji-blue?logo=linkedin)](https://linkedin.com/in/oussama-elhadji)  
 [![Website](https://img.shields.io/badge/Portfolio-bosaj.vercel.app-lightgrey)](https://bosaj.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-oussousselhadji@gmail.com-red?logo=gmail)](mailto:oussousselhadji@gmail.com)
+[![Email](https://img.shields.io/badge/Email-oussousselhadji@gmail.com-red?logo=gmail)](mailto:oussousselhadji@gmail.com)  
+[![GitHub followers](https://img.shields.io/github/followers/Bosaj?label=Follow&style=social)](https://github.com/Bosaj)
 
 ---
 
-## 🧑‍🎓 About Me
-
-I’m an Artificial Intelligence Engineering student at **ENIAD (Mohammed First University)**, with a strong foundation in physics.  
-Passionate about cutting-edge AI applications, open-source, and community service.
-
+## 🧑‍🎓 About Me  
+I’m an Artificial Intelligence Engineering student at **ENIAD (Mohammed First University)** with a strong foundation in physics. Passionate about innovative AI applications, open-source, and community service.  
 - 📍 Oujda, Morocco  
 - 🎓 State Engineer’s Degree in AI (Dec 2023 – Present)  
 - 🔭 Currently looking for year-end internships to deepen my AI/ML expertise  
@@ -22,51 +20,44 @@ Passionate about cutting-edge AI applications, open-source, and community servic
 ## 💼 Professional Experience
 
 **Machine Learning Intern**  
-Prodigy InfoTech (Nov 2024 – Dec 2024, Remote)  
-- Developed and tuned supervised models (logistic regression, SVM, decision trees)  
-- Worked on cardiovascular disease risk prediction  
+*Prodigy InfoTech* (Nov 2024 – Dec 2024, Remote)  
+- Developed and tuned supervised models including logistic regression, SVM, and decision trees  
+- Focused on cardiovascular disease risk prediction
 
 **Intern**  
-ELEAT Center (May 2023 – Jul 2023, Oujda)  
+*ELEAT Center* (May 2023 – Jul 2023, Oujda)  
 - Trained teams in MS Office (Word, Excel, PowerPoint)  
-- Enhanced digital-literacy standards
+- Enhanced digital literacy standards
 
 ---
 
 ## 🔧 Technical Skills
 
-| Domain             | Tools & Technologies                         |
-|--------------------|-----------------------------------------------|
-| **Languages**      | Python · Java · C++ · PHP · SQL · JavaScript  |
-| **Web Dev**        | HTML · CSS · React                            |
-| **AI & Data Sci**  | Pandas · NumPy · Scikit-learn · TensorFlow    |
-| **Databases**      | MySQL · SQLite                                |
-| **Tools**          | Git · VS Code · LaTeX · Excel · Canva         |
-
----
-
-## 📚 Education
-
-**ENIAD, Mohammed First University**  
-State Engineer’s Degree – Artificial Intelligence (Dec 2023 – Ongoing)
-
-**Faculty of Sciences, Oujda**  
-Bachelor in Physical Sciences (Sep 2022 – Ongoing)  
-DEUG in Physical Sciences, Honors (Sep 2019 – Feb 2022)
-
-**Zineb Ennafzaouia High School**  
-Baccalaureate in Physical Sciences, Honors (Sep 2017 – Jul 2019)
+| Domain            | Tools & Technologies                          |
+|-------------------|-----------------------------------------------|
+| **Languages**     | Python · Java · C++ · PHP · SQL · JavaScript  |
+| **Web Dev**       | HTML · CSS · React                            |
+| **AI & Data Sci** | Pandas · NumPy · Scikit-learn · TensorFlow    |
+| **Databases**     | MySQL · SQLite                                |
+| **Tools**         | Git · VS Code · LaTeX · Excel · Canva         |
 
 ---
 
 ## 🚀 Projects
 
-- **Stroke Risk Prediction** – Supervised learning for cardiovascular risk (Python, Scikit-learn)  
-- **Smart Irrigation System** – TinyML moisture detection & automation (Arduino)  
-- **Nuclear Fusion by Inertial Confinement** – Final-year scientific research project  
-- **Personalized Treatment Suggestion** – ML model for treatment success prediction (Genetic & clinical data)
+### [Stroke Risk Prediction](https://github.com/Bosaj/stroke-risk-prediction)  
+Supervised learning model for cardiovascular risk prediction using Python and Scikit-learn.
 
-👉 Check out my repositories below for details!
+### [Smart Irrigation System](https://github.com/Bosaj/smart-irrigation-system)  
+TinyML-based moisture detection and automation system implemented with Arduino.
+
+### Nuclear Fusion by Inertial Confinement  
+Final-year scientific research project applying physics for fusion energy research.
+
+### Personalized Treatment Suggestion  
+ML model combining genetic and clinical data to predict treatment success.
+
+👉 Check out my [repositories](https://github.com/Bosaj?tab=repositories) for full details!
 
 ---
 
@@ -77,14 +68,21 @@ Baccalaureate in Physical Sciences, Honors (Sep 2017 – Jul 2019)
 
 ---
 
+## 📊 GitHub Stats
+
+![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bosaj&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bosaj&hide=plaintext&layout=compact&theme=radical)
+
+---
+
 ## 📫 How to Reach Me
 
 - ✉️ Email: [oussousselhadji@gmail.com](mailto:oussousselhadji@gmail.com)  
-- 📘 LinkedIn: [linkedin.com/in/oussama-elhadji](https://linkedin.com/in/oussama-elhadji)  
+- 🔗 LinkedIn: [linkedin.com/in/oussama-elhadji](https://linkedin.com/in/oussama-elhadji)  
 - 🐙 GitHub: [github.com/Bosaj](https://github.com/Bosaj)  
 
 ---
 
 > “Stay curious, keep learning, and build things that matter.”  
 > – Oussama ELHADJI
-
