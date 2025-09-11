@@ -19,15 +19,40 @@ I’m an Artificial Intelligence Engineering student at **ENIAD (Mohammed First 
 
 ## 💼 Professional Experience
 
-**Machine Learning Intern**  
-*Prodigy InfoTech* (Nov 2024 – Dec 2024, Remote)  
-- Developed and tuned supervised models including logistic regression, SVM, and decision trees  
-- Focused on cardiovascular disease risk prediction
+**AI Engineering Intern**  
+[CDG Capital](https://www.linkedin.com/company/256516/) · Internship  
+Jul 2025 – Present · Rabat, Morocco (Hybrid)  
+- Developing and deploying AI solutions for financial analytics  
+- Collaborating with engineering and product teams  
 
-**Intern**  
-*ELEAT Center* (May 2023 – Jul 2023, Oujda)  
-- Trained teams in MS Office (Word, Excel, PowerPoint)  
-- Enhanced digital literacy standards
+**AI Developer Intern**  
+Teknologiate · Internship  
+Jul 2025 · Casablanca, Morocco (Remote)  
+- Built intelligent software components for client projects  
+- Exposure to AI lifecycle in real-world business contexts  
+
+**Machine Learning Intern**  
+Prodigy InfoTech · Internship  
+Nov 2024 – Dec 2024 · Remote  
+- Developed supervised models (logistic regression, SVM, decision trees)  
+- Led cardiovascular risk prediction initiative  
+
+**Sport Leader**  
+Decathlon Maroc · Full-time  
+Aug 2024 – Oct 2024 · Oujda, Morocco (On-site)  
+- Customer service, sports management, inventory, risk management  
+- Skills: Teamwork, logistics, health & safety compliance  
+
+**Volunteer, National Volunteer Program**  
+Ministère de la Jeunesse, de la Culture et de la Communication · Internship  
+Aug 2023 · Oujda, Morocco  
+- Completed 21-day program focused on problem-solving and team collaboration  
+- Organized community development and cultural events  
+
+**Learning Apprentice**  
+Motatawi3 National Volunteer Program  
+Jul 2023 · Selouane, Morocco  
+- Developed leadership and team-building skills in public sector context  
 
 ---
 
@@ -43,7 +68,24 @@ I’m an Artificial Intelligence Engineering student at **ENIAD (Mohammed First 
 
 ---
 
+## 📚 Education
+
+**ENIAD, Mohammed First University**  
+State Engineer’s Degree – Artificial Intelligence (Dec 2023 – Ongoing)  
+
+**Faculty of Sciences, Oujda**  
+Bachelor in Physical Sciences (Sep 2022 – Ongoing)  
+DEUG in Physical Sciences, Honors (Sep 2019 – Feb 2022)  
+
+**Zineb Ennafzaouia High School**  
+Baccalaureate in Physical Sciences, Honors (Sep 2017 – Jul 2019)  
+
+---
+
 ## 🚀 Projects
+
+### [Chatbot Éducatif pour l’ENIAD](https://github.com/ennajari/ENIAD-ASSISTANT)  
+Un chatbot intelligent basé sur l'intelligence artificielle conçu pour fournir des informations sur les études et les services scolaires à l'ENIAD. Utilise RAG pour des réponses précises et offre une interface multimodale en français et anglais.
 
 ### [Stroke Risk Prediction](https://github.com/Bosaj/stroke-risk-prediction)  
 Supervised learning model for cardiovascular risk prediction using Python and Scikit-learn.
@@ -53,9 +95,6 @@ TinyML-based moisture detection and automation system implemented with Arduino.
 
 ### Nuclear Fusion by Inertial Confinement  
 Final-year scientific research project applying physics for fusion energy research.
-
-### Personalized Treatment Suggestion  
-ML model combining genetic and clinical data to predict treatment success.
 
 👉 Check out my [repositories](https://github.com/Bosaj?tab=repositories) for full details!
 
