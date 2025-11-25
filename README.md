@@ -109,9 +109,9 @@ Final-year scientific research project applying physics for fusion energy resear
 
 ## 📊 GitHub Stats
 
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bosaj&show_icons=true&theme=radical)
+![Oussama's GitHub stats](https://github-readme-stats-yimura.vercel.app/api?username=Bosaj&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bosaj&hide=plaintext&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-yimura.vercel.app/api/top-langs/?username=Bosaj&hide=plaintext&layout=compact&theme=radical)
 
 ---
 
