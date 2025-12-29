@@ -124,58 +124,78 @@ text
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Chatbot Éducatif ENIAD
-<a href="https://github.com/ennajari/ENIAD-ASSISTANT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ennajari&repo=ENIAD-ASSISTANT&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&hide_border=true" />
-</a>
+### 🤖 [Chatbot Éducatif ENIAD](https://github.com/ennajari/ENIAD-ASSISTANT)
 
-**Intelligent chatbot** using RAG architecture for ENIAD educational services. Multimodal interface in French & English.
+Intelligent chatbot using RAG architecture for ENIAD educational services. Multimodal interface in French & English.
 
-`Python` `NLP` `RAG` `AI` `Multilingual`
+![Stars](https://img.shields.io/github/stars/ennajari/ENIAD-ASSISTANT?style=social)
+![Forks](https://img.shields.io/github/forks/ennajari/ENIAD-ASSISTANT?style=social)
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00ADD8?style=flat&logo=ai&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ❤️ Stroke Risk Prediction
-<a href="https://github.com/Bosaj/stroke-risk-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bosaj&repo=stroke-risk-prediction&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&hide_border=true" />
-</a>
+### ❤️ [Stroke Risk Prediction](https://github.com/Bosaj/stroke-risk-prediction)
 
-**ML model** for cardiovascular risk prediction using ensemble methods and supervised learning.
+ML model for cardiovascular risk prediction using ensemble methods and supervised learning algorithms.
 
-`Python` `Scikit-learn` `Pandas` `ML`
+![Stars](https://img.shields.io/github/stars/Bosaj/stroke-risk-prediction?style=social)
+![Forks](https://img.shields.io/github/forks/Bosaj/stroke-risk-prediction?style=social)
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💧 Smart Irrigation System
-<a href="https://github.com/Bosaj/smart-irrigation-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bosaj&repo=smart-irrigation-system&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&hide_border=true" />
-</a>
+### 💧 [Smart Irrigation System](https://github.com/Bosaj/smart-irrigation-system)
 
-**TinyML-based** moisture detection and automation for efficient water management.
+TinyML-based moisture detection and automation system for efficient water management in agriculture.
 
-`Arduino` `TinyML` `IoT` `Embedded`
+![Stars](https://img.shields.io/github/stars/Bosaj/smart-irrigation-system?style=social)
+![Forks](https://img.shields.io/github/forks/Bosaj/smart-irrigation-system?style=social)
+
+**Tech Stack:**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0066CC?style=flat&logo=internetofthings&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚛️ Nuclear Fusion Research
-**Final-year scientific research** project applying advanced physics principles for fusion energy research.
 
-`Research` `Physics` `Energy` `Innovation`
+Final-year scientific research project applying advanced physics principles for fusion energy research.
 
-<br>
+**Focus Areas:**
+- Inertial Confinement Fusion
+- Energy Physics Applications
+- Scientific Methodology
 
-**[📂 Explore All Repositories →](https://github.com/Bosaj?tab=repositories)**
+**Tech Stack:**
+![Research](https://img.shields.io/badge/Research-FFA116?style=flat&logo=academia&logoColor=white)
+![Physics](https://img.shields.io/badge/Physics-3C873A?style=flat&logo=atom&logoColor=white)
+![Energy](https://img.shields.io/badge/Energy-FF9900?style=flat&logo=lightning&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**[📂 View All Projects →](https://github.com/Bosaj?tab=repositories)** | **[⭐ Star My Repos](https://github.com/Bosaj?tab=repositories)** | **[🤝 Let's Collaborate](mailto:oussousselhadji@gmail.com)**
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
