@@ -1,213 +1,301 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Oussama%20ELHADJI&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20Engineering%20Student%20|%20Machine%20Learning%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+Solutions+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%93%8A;Contributing+to+Open+Source+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=300&text=OUSSAMA%20ELHADJI&fontSize=60&fontColor=gradient&fontAlignY=50&desc=Artificial%20Intelligence%20Engineer%20|%20ML%20Innovator%20|%20Open%20Source%20Contributor&descSize=16&descAlignY=65&animation=fadeIn" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bosaj&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/Bosaj?label=Followers&style=for-the-badge&color=blue)](https://github.com/Bosaj?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Bosaj&label=Repositories&query=$.public_repos&style=for-the-badge&color=success)](https://github.com/Bosaj?tab=repositories)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=100&lines=AI+Engineering+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%9A%80;Open+Source+Advocate+%E2%9C%A8" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oussama--elhadji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-elhadji)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bosaj.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://bosaj.vercel.app)
-[![Email](https://img.shields.io/badge/Email-oussousselhadji@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussousselhadji@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bosaj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat&logo=github&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00D9FF?style=flat" alt="focus"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/oussama-elhadji"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Bosaj"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧑‍🎓 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+class AIEngineer:
+def init(self):
+self.name = "Oussama ELHADJI"
+self.role = "AI Engineering Student"
+self.university = "ENIAD (Mohammed First University)"
+self.location = "Oujda, Morocco 🇲🇦"
+self.current_focus = ["Machine Learning", "NLP", "Computer Vision"]
+self.hobbies = ["Photography 📸", "Taekwondo 🥋", "Open Source 💻"]
 
-I'm an **Artificial Intelligence Engineering student** at **ENIAD (Mohammed First University)** with a strong foundation in physics and a passion for developing innovative AI solutions [file:1][file:2].
+text
+def say_hi(self):
+    print("Thanks for dropping by! Let's build something amazing together.")
+me = AIEngineer()
+me.say_hi()
 
-- 🎓 Pursuing State Engineer's Degree in AI (Dec 2023 – Present)
-- 📍 Based in Oujda, Morocco
-- 🔭 Currently looking for **year-end internships** to deepen my AI/ML expertise
-- 💼 AI Engineering Intern @ **CDG Capital** (Jul 2025 – Present)
-- 🌱 Learning: Advanced NLP, Computer Vision & MLOps
-- 💡 Passionate about open-source and community service
-- ⚡ Fun fact: Amateur photographer & taekwondo athlete
+text
 
-<br clear="right"/>
+### Quick Facts 🎯
 
----
+- 🎓 **State Engineer's Degree in AI** (Dec 2023 – Present)
+- 💼 **AI Engineering Intern** @ [CDG Capital](https://www.linkedin.com/company/256516/) (Jul 2025 – Present)
+- 🔭 **Open to**: Internships, Collaborations, and AI/ML Projects
+- 🌱 **Currently Learning**: Advanced NLP, MLOps, and Computer Vision
+- ⚡ **Fun Fact**: I combine physics knowledge with AI to solve complex problems!
 
-## 💼 Professional Experience
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 Current Roles
+## 💼 Professional Journey
 
-**AI Engineering Intern** • [CDG Capital](https://www.linkedin.com/company/256516/)  
-*Jul 2025 – Present • Rabat, Morocco (Hybrid)*
-- Developing and deploying AI solutions for financial analytics
-- Collaborating with engineering and product teams on ML pipelines
+Current:
+Position: AI Engineering Intern
+Company: CDG Capital
+Location: Rabat, Morocco (Hybrid)
+Duration: Jul 2025 – Present
+Focus:
+- Developing AI solutions for financial analytics
+- Building ML pipelines for production deployment
+- Collaborating with cross-functional engineering teams
 
-### 📌 Previous Experience
+Previous:
 
-<details>
-<summary><b>AI Developer Intern</b> • Teknologiate • <i>Jul 2025</i></summary>
-<br>
-• Built intelligent software components for client projects<br>
-• Gained exposure to AI lifecycle in real-world business contexts
-</details>
+Company: Teknologiate
+Role: AI Developer Intern
+Duration: Jul 2025
+Highlights: Built intelligent software components for client projects
 
-<details>
-<summary><b>Machine Learning Intern</b> • Prodigy InfoTech • <i>Nov 2024 – Dec 2024</i></summary>
-<br>
-• Developed supervised models (logistic regression, SVM, decision trees)<br>
-• Led cardiovascular risk prediction initiative with high accuracy
-</details>
+Company: Prodigy InfoTech
+Role: Machine Learning Intern
+Duration: Nov 2024 – Dec 2024
+Highlights: Developed cardiovascular risk prediction models
 
-<details>
-<summary><b>Sport Leader</b> • Decathlon Maroc • <i>Aug 2024 – Oct 2024</i></summary>
-<br>
-• Customer service, sports management, and inventory control<br>
-• Demonstrated teamwork, logistics, and health & safety compliance
-</details>
+Company: Decathlon Maroc
+Role: Sport Leader
+Duration: Aug 2024 – Oct 2024
+Highlights: Customer service, sports management, inventory control
 
----
+text
 
-## 🔧 Tech Stack & Skills
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🤖 AI/ML & Data Science
 
-### Web Development
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web Technologies
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
-### 🤖 [Chatbot Éducatif pour l'ENIAD](https://github.com/ennajari/ENIAD-ASSISTANT)
-Un chatbot intelligent basé sur l'IA conçu pour fournir des informations sur les études à l'ENIAD. Utilise RAG pour des réponses précises avec interface multimodale en français et anglais.
+<table>
+<tr>
+<td width="50%">
 
-**Tech:** `Python` `NLP` `RAG` `AI` `Multilingual`
+### 🤖 Chatbot Éducatif ENIAD
+<a href="https://github.com/ennajari/ENIAD-ASSISTANT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ennajari&repo=ENIAD-ASSISTANT&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&hide_border=true" />
+</a>
 
-### ❤️ [Stroke Risk Prediction](https://github.com/Bosaj/stroke-risk-prediction)
-Supervised learning model for cardiovascular risk prediction using ensemble methods.
+**Intelligent chatbot** using RAG architecture for ENIAD educational services. Multimodal interface in French & English.
 
-**Tech:** `Python` `Scikit-learn` `Pandas` `Machine Learning`
+`Python` `NLP` `RAG` `AI` `Multilingual`
 
-### 💧 [Smart Irrigation System](https://github.com/Bosaj/smart-irrigation-system)
-TinyML-based moisture detection and automation system for efficient water management.
+</td>
+<td width="50%">
 
-**Tech:** `Arduino` `TinyML` `IoT` `Embedded Systems`
+### ❤️ Stroke Risk Prediction
+<a href="https://github.com/Bosaj/stroke-risk-prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bosaj&repo=stroke-risk-prediction&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&hide_border=true" />
+</a>
 
-### ⚛️ Nuclear Fusion by Inertial Confinement
-Final-year scientific research project applying advanced physics principles for fusion energy research.
+**ML model** for cardiovascular risk prediction using ensemble methods and supervised learning.
 
-**Tech:** `Research` `Physics` `Energy`
+`Python` `Scikit-learn` `Pandas` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💧 Smart Irrigation System
+<a href="https://github.com/Bosaj/smart-irrigation-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bosaj&repo=smart-irrigation-system&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&hide_border=true" />
+</a>
+
+**TinyML-based** moisture detection and automation for efficient water management.
+
+`Arduino` `TinyML` `IoT` `Embedded`
+
+</td>
+<td width="50%">
+
+### ⚛️ Nuclear Fusion Research
+**Final-year scientific research** project applying advanced physics principles for fusion energy research.
+
+`Research` `Physics` `Energy` `Innovation`
+
+<br>
+
+**[📂 Explore All Repositories →](https://github.com/Bosaj?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-👉 **Explore more in my [repositories](https://github.com/Bosaj?tab=repositories)**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bosaj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=Bosaj&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosaj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Bosaj&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
 
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bosaj&custom_title=Oussama's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6e96&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
-## 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌍 Community Impact
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bosaj&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+| Organization | Role | Duration |
+|:---:|:---:|:---:|
+| **Club Motatawi3 El-Alfia** | Volunteer Management & Events | Apr 2024 – Present |
+| **Ambassadors of Good** | Community Development Coordinator | Sep 2023 – Present |
+| **Ministère de la Jeunesse** | National Volunteer Program | Aug 2023 |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+## 🎓 Education Timeline
+
+timeline
+title Academic Journey
+2017-2019 : Baccalaureate in Physical Sciences
+: Zineb Ennafzaouia High School
+: Honors
+2019-2022 : DEUG in Physical Sciences
+: Faculty of Sciences, Oujda
+: Honors
+2022-Present : Bachelor in Physical Sciences
+: Faculty of Sciences, Oujda
+2023-Present : State Engineer's Degree in AI
+: ENIAD, Mohammed First University
+
+text
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📬 Let's Connect & Collaborate!
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bosaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosaj&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+### 🌟 I'm Open To:
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bosaj&theme=tokyonight&hide_border=true&background=0D1117" />
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/internship.png" width="50"/>
+      <br><b>Internships</b>
+      <br><sub>AI/ML Opportunities</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="50"/>
+      <br><b>Collaborations</b>
+      <br><sub>Research & Projects</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="50"/>
+      <br><b>Open Source</b>
+      <br><sub>Contributing Together</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/chat.png" width="50"/>
+      <br><b>Discussions</b>
+      <br><sub>Tech & Innovation</sub>
+    </td>
+  </tr>
+</table>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bosaj&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+### 🔗 Connect With Me
+
+<a href="https://linkedin.com/in/oussama-elhadji" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:oussousselhadji@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://bosaj.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Bosaj" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+📍 **Based in Oujda, Oriental, Morocco**
 
 </div>
 
----
-
-## 🌐 Community & Volunteering
-
-<img align="right" alt="Community" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-
-**Club Motatawi3 El-Alfia**  
-*Volunteer Management & Event Logistics* • Apr 2024 – Present
-
-**Ambassadors of Good Association**  
-*Community Development Coordinator* • Sep 2023 – Present
-
-**National Volunteer Program**  
-*Ministère de la Jeunesse, de la Culture et de la Communication* • Aug 2023
-
-<br clear="right"/>
-
----
-
-## 📫 Let's Connect!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 💬 Open For
+### 💭 Philosophy
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **Internship Opportunities** • **AI/ML Collaborations** • **Open Source Projects** • **Research Discussions**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote"/>
 
----
+### ⚡ Motto
 
-### 🌐 Find Me Online
+**"Learn • Build • Deploy • Iterate"**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/oussama-elhadji)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Bosaj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel)](https://bosaj.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:oussousselhadji@gmail.com)
+<br>
 
-📍 **Oujda, Oriental, Morocco**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote I Live By
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Stay%20curious,%20keep%20learning,%20and%20build%20things%20that%20matter.)
-
-**"Code • Learn • Build • Repeat"**
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-<sub>⭐ From [Bosaj](https://github.com/Bosaj) with 💙</sub>
+<sub>⭐ **Star my repos if you find them interesting!** | Made with 💙 by [Oussama ELHADJI](https://github.com/Bosaj)</sub>
 
 </div>
