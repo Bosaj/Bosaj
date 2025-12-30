@@ -598,45 +598,27 @@ BI & Analytics      ██████████████░░░░░░
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="60"/>
-      <h3>Club Motatawi3</h3>
-      <b>Management Team Member</b>
-      <p>📅 Apr 2024 – Present</p>
-      <p>Volunteer activity organization<br>Event logistics & coordination</p>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/000000/charity.png" width="60"/>
-      <h3>Good Ambassadors</h3>
-      <b>Coordinator</b>
-      <p>📅 Sep 2023 – Present</p>
-      <p>Community development projects<br>Volunteer supervision</p>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/000000/earthquake.png" width="60"/>
-      <h3>Marrakech Relief</h3>
-      <b>Humanitarian Coordinator</b>
-      <p>📅 Sep 2023</p>
-      <p>Earthquake relief efforts<br>Donation organization & delivery</p>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/000000/blood-donation.png" width="60"/>
-      <h3>CRTS Oujda</h3>
-      <b>Awareness Coordinator</b>
-      <p>📅 Aug 2023</p>
-      <p>Blood donation campaigns<br>Public awareness initiatives</p>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/000000/government-building.png" width="60"/>
-      <h3>National Volunteer</h3>
-      <b>Ministry Program</b>
-      <p>📅 Aug 2023</p>
-      <p>Cultural & social events<br>Logistics support</p>
-    </td>
-  </tr>
-</table>
+### 🤝 Active Community Involvement
+
+**Management Team Member** • Club Motatawi3 El-Alfia  
+📅 Apr 2024 – Present  
+*Volunteer activity organization and event logistics coordination*
+
+**Coordinator** • Good Ambassadors Association, Oujda  
+📅 Sep 2023 – Present  
+*Community development projects and volunteer supervision*
+
+**Humanitarian Coordinator** • Marrakech Earthquake Relief  
+📅 Sep 2023  
+*Organized and delivered donations to earthquake-affected areas*
+
+**Awareness Coordinator** • Regional Blood Transfusion Center (CRTS) Oujda  
+📅 Aug 2023  
+*Led blood donation awareness campaigns and public health initiatives*
+
+**Volunteer** • Ministry of Youth, Culture and Communication  
+📅 Aug 2023  
+*Cultural and social event logistics support*
 
 </div>
 
@@ -647,29 +629,20 @@ BI & Analytics      ██████████████░░░░░░
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/football.png" width="70"/>
-      <h3>⚽ Sports</h3>
-      <p><b>Football</b><br>Football League 2014 Participant</p>
-      <p><b>Weightlifting</b><br>Fitness & Strength Training</p>
-      <p><b>Taekwondo 🥋</b><br>Yellow Belt 8th KEUP<br>ID: N°0020793 (Feb 2017)</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/camera.png" width="70"/>
-      <h3>📸 Photography</h3>
-      <p><b>Amateur Photographer</b><br>Instagram: <a href="https://instagram.com/catcher_sama">@catcher_sama</a></p>
-      <p>Visual storytelling<br>Nature & Urban Photography</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/video-editing.png" width="70"/>
-      <h3>🎬 Content Creation</h3>
-      <p><b>Video Editing</b><br>Reels Production</p>
-      <p>Creative Design<br>Digital Storytelling</p>
-    </td>
-  </tr>
-</table>
+### ⚽ Sports & Athletics
+
+**🏃 Football** • Football League 2014 Participant  
+**🏋️ Weightlifting** • Fitness & Strength Training  
+**🥋 Taekwondo** • Yellow Belt 8th KEUP • Certificate ID: N°0020793 (Feb 2017)
+
+### 📸 Creative Pursuits
+
+**Photography** • Amateur Photographer  
+Instagram: [@catcher_sama](https://instagram.com/catcher_sama)  
+*Nature & Urban Photography • Visual Storytelling*
+
+**🎬 Content Creation** • Video Editing & Reels Production  
+*Creative Design • Digital Storytelling*
 
 </div>
 
