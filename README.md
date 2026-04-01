@@ -23,6 +23,7 @@
   <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://github.com/Bosaj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://gitlab.com/Bosaj"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
   <a href="https://www.instagram.com/catcher_sama"><img src="https://img.shields.io/badge/Photography-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
@@ -57,7 +58,7 @@ class AIEngineer:
             "BI Tools": ["Power BI", "Talend", "MySQL"],
             "Web": ["React", "FastAPI", "HTML5", "CSS3"],
             "Languages": ["Python", "Java", "C++", "JavaScript"],
-            "Tools": ["Git", "VS Code", "Docker", "LaTeX"]
+            "Tools": ["Git", "GitHub", "GitLab", "VS Code", "Docker", "LaTeX"]
         }
     
     def current_status(self):
@@ -140,7 +141,7 @@ me.say_hi()
 - Building a Power BI dashboard for real-time flow health monitoring
 - Developing a Teams chatbot for ALM-related queries and incident alerts
 
-**Tech Stack:** Power Automate • Azure DevOps • SharePoint • Power BI • Microsoft Teams • Claude API • Power Platform CLI
+**Tech Stack:** Power Automate • Azure DevOps • GitLab • SharePoint • Power BI • Microsoft Teams • Claude API • Power Platform CLI
 
 </details>
 
@@ -296,6 +297,7 @@ me.say_hi()
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
