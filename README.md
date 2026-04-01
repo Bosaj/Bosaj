@@ -3,37 +3,27 @@
 <!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=OUSSAMA%20EL%20HADJI&fontSize=45&animation=twinkling&fontAlignY=35&desc=🚀%20AI%20Engineering%20Student%20|%20🤖%20ML%20Innovator%20|%20✨%20Building%20The%20Future&descSize=14&descAlignY=55" />
 
-<!-- Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=AI+Engineering+Student+%F0%9F%8E%93;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Building+Production-Ready+AI+Solutions;From+Physics+to+Artificial+Intelligence" alt="Typing SVG" />
-</a>
-
-<!-- Profile Stats -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Bosaj&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Bosaj?label=Stars&style=flat-square&logo=github&color=00d9ff" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00d9ff?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Oujda%2C%20Morocco%20🇲🇦-success?style=flat-square" alt="Location" />
+<!-- Typing Effect — isolated in its own block to prevent overlap -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=AI+Engineering+Student+%F0%9F%8E%93;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Building+Production-Ready+AI+Solutions;From+Physics+to+Artificial+Intelligence" alt="Typing SVG" />
 </p>
 
-<!-- Social Links -->
-<p>
-  <a href="https://linkedin.com/in/oussama-elhadji">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:oussousselhadji@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://bosaj.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Bosaj">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/catcher_sama">
-    <img src="https://img.shields.io/badge/Photography-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<!-- Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bosaj&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00d9ff?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Oujda%2C%20Morocco%20🇲🇦-success?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Status" />
+</p>
+
+<!-- Social Links — each on its own line inside p tag prevents rendering conflicts -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/oussama-elhadji"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://github.com/Bosaj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.instagram.com/catcher_sama"><img src="https://img.shields.io/badge/Photography-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -72,8 +62,8 @@ class AIEngineer:
     
     def current_status(self):
         return {
-            "position": "AI Engineering Intern @ CDG Capital",
-            "learning": ["Advanced NLP", "MLOps", "RAG Systems"],
+            "position": "AI Engineer PFE Intern @ Circet Morocco",
+            "learning": ["Power Automate ALM", "Azure DevOps", "RAG Systems"],
             "interests": ["Photography 📸", "Taekwondo 🥋", "Open Source"],
             "available_for": [
                 "End-of-Study Internships",
@@ -104,7 +94,7 @@ me.say_hi()
   </tr>
   <tr>
     <td>💼 <b>Current Role</b></td>
-    <td>AI Engineering Intern @ CDG Capital (Jul 2025 – Sep 2025)</td>
+    <td>AI Engineer PFE Intern @ Circet Morocco • Power Automate ALM Framework</td>
   </tr>
   <tr>
     <td>🌱 <b>Learning</b></td>
@@ -134,6 +124,27 @@ me.say_hi()
 ## 💼 Professional Experience
 
 <details open>
+<summary><b>⚡ AI Engineer Intern (PFE) • Circet Morocco &nbsp;🟢 Current</b></summary>
+
+<br>
+
+📅 **March 2026 – Present** | 📍 Casablanca, Morocco
+
+**Project:** ALM (Application Lifecycle Management) Framework for Power Automate
+
+**Key Achievements:**
+- Designing and implementing a full ALM pipeline for Power Automate flows (Dev → Test → Prod)
+- Building automated CI/CD pipelines using Azure DevOps for flow deployment and version control
+- Developing a centralized logging system (FlowLogger) with SharePoint integration
+- Integrating AI components: Claude API for intelligent error analysis & anomaly detection
+- Building a Power BI dashboard for real-time flow health monitoring
+- Developing a Teams chatbot for ALM-related queries and incident alerts
+
+**Tech Stack:** Power Automate • Azure DevOps • SharePoint • Power BI • Microsoft Teams • Claude API • Power Platform CLI
+
+</details>
+
+<details>
 <summary><b>🚀 AI Engineering Intern • CDG Capital</b></summary>
 
 <br>
@@ -174,6 +185,23 @@ me.say_hi()
 </details>
 
 <details>
+<summary><b>🏋️ Sport Leader • DECATHLON MOROCCO</b></summary>
+
+<br>
+
+📅 **Aug 2024 – Oct 2024** | 📍 Oujda, Morocco (On-site)
+
+**Key Responsibilities:**
+- Managed customer relations and sports product consultation
+- Handled inventory control and merchandising operations
+- Conducted sports workshops and safety training
+- Ensured compliance with health & safety standards
+
+**Skills:** Customer Service • Logistics • Merchandising • Team Leadership • Communication
+
+</details>
+
+<details>
 <summary><b>📊 Machine Learning Intern • Prodigy InfoTech</b></summary>
 
 <br>
@@ -191,23 +219,6 @@ me.say_hi()
 **Certification:** Certificate ID: PIT/NOV24/20689
 
 **Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Data Analysis
-
-</details>
-
-<details>
-<summary><b>🏋️ Sport Leader • DECATHLON MOROCCO</b></summary>
-
-<br>
-
-📅 **Aug 2024 – Oct 2024** | 📍 Oujda, Morocco (On-site)
-
-**Key Responsibilities:**
-- Managed customer relations and sports product consultation
-- Handled inventory control and merchandising operations
-- Conducted sports workshops and safety training
-- Ensured compliance with health & safety standards
-
-**Skills:** Customer Service • Logistics • Merchandising • Team Leadership • Communication
 
 </details>
 
@@ -287,7 +298,7 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -486,15 +497,44 @@ BI & Analytics      ██████████████░░░░░░
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bosaj&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<!-- Row 1: Stats Card (github-profile-summary-cards — separate service, not rate-limited like github-readme-stats) + Streak -->
+<img width="49%" height="195px"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bosaj&theme=tokyonight"
+  alt="GitHub Stats" />
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.demolab.com/?user=Bosaj&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e" alt="GitHub Streak" />
+<!-- Streak Stats -->
+<img width="49%" height="195px"
+  src="https://streak-stats.demolab.com/?user=Bosaj&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e"
+  alt="GitHub Streak" />
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosaj&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+<!-- Row 2: Most Commit Language + Repos Per Language -->
+<img width="49%" height="195px"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bosaj&theme=tokyonight"
+  alt="Most Used Languages" />
 
-<img width="49%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Bosaj&theme=radical&no-frame=true&no-bg=false&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+<img width="49%" height="195px"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bosaj&theme=tokyonight"
+  alt="Repos Per Language" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bosaj&custom_title=Contribution%20Timeline&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6e96&area=true&hide_border=true" alt="Contribution Graph" />
+<!-- Row 3: Profile Details (full-width summary) -->
+<img width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bosaj&theme=tokyonight"
+  alt="Profile Details" />
+
+<!-- Trophies — github-profile-trophy.vercel.app is unreliable; replaced with guaranteed shields.io achievement badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Commits-409%2B-gold?style=for-the-badge&labelColor=0d1117" alt="Commits" />
+  <img src="https://img.shields.io/badge/🥇%20Repositories-10%2B-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Repos" />
+  <img src="https://img.shields.io/badge/🎖️%20Internships-3%20Completed-success?style=for-the-badge&labelColor=0d1117" alt="Internships" />
+  <img src="https://img.shields.io/badge/📜%20Certifications-6%2B-ff6e96?style=for-the-badge&labelColor=0d1117" alt="Certifications" />
+  <img src="https://img.shields.io/badge/🌍%20Volunteer%20Roles-5%2B-orange?style=for-the-badge&labelColor=0d1117" alt="Volunteer" />
+  <img src="https://img.shields.io/badge/🎓%20Dual%20Degrees-In%20Progress-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Degrees" />
+</p>
+
+<!-- Activity Graph — full width -->
+<img width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Bosaj&custom_title=Contribution%20Timeline&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6e96&area=true&hide_border=true"
+  alt="Contribution Graph" />
 
 </div>
 
@@ -555,39 +595,39 @@ BI & Analytics      ██████████████░░░░░░
   </tr>
   <tr>
     <td><b>Data Science Fundamentals with Python and SQL</b></td>
-    <td>IBM</td>
+    <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" /></td>
     <td>Oct 2025</td>
-    <td>7NO5QXMVDTS1</td>
+    <td><code>7NO5QXMVDTS1</code></td>
   </tr>
   <tr>
     <td><b>Google Data Analytics Professional Certificate</b></td>
-    <td>Google</td>
+    <td><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" /></td>
     <td>Oct 2025</td>
-    <td>E5EZMU8R0DRZ</td>
+    <td><code>E5EZMU8R0DRZ</code></td>
   </tr>
   <tr>
     <td><b>Generative AI: Prompt Engineering Basics</b></td>
-    <td>IBM</td>
+    <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" /></td>
     <td>Apr 2025</td>
-    <td>8JVS8LHEI0AX</td>
+    <td><code>8JVS8LHEI0AX</code></td>
   </tr>
   <tr>
     <td><b>Machine Learning Internship Certificate</b></td>
-    <td>Prodigy InfoTech</td>
+    <td><img src="https://img.shields.io/badge/Prodigy_InfoTech-6B2FAE?style=flat-square&logoColor=white" /></td>
     <td>Dec 2024</td>
-    <td>PIT/NOV24/20689</td>
+    <td><code>PIT/NOV24/20689</code></td>
   </tr>
   <tr>
     <td><b>Career Essentials in Generative AI</b></td>
-    <td>Microsoft & LinkedIn</td>
+    <td><img src="https://img.shields.io/badge/Microsoft_&_LinkedIn-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></td>
     <td>Apr 2024</td>
-    <td>Verified</td>
+    <td>Verified ✅</td>
   </tr>
   <tr>
     <td><b>MIATHON 2nd Edition Participation</b></td>
-    <td>Moroccan House of AI</td>
+    <td><img src="https://img.shields.io/badge/Moroccan_House_of_AI-00897B?style=flat-square&logoColor=white" /></td>
     <td>Jul 2024</td>
-    <td>Verified</td>
+    <td>Verified ✅</td>
   </tr>
 </table>
 
@@ -746,7 +786,7 @@ Instagram: [@catcher_sama](https://instagram.com/catcher_sama)
 
 ### 💭 Philosophy & Inspiration
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
+> *"The best way to predict the future is to invent it."* — Alan Kay
 
 ### ⚡ Development Motto
 
@@ -800,6 +840,6 @@ Instagram: [@catcher_sama](https://instagram.com/catcher_sama)
 
 **🤝 Let's connect and build something amazing together!**
 
-*Last Updated: December 2025 • Proudly Built in Morocco 🇲🇦*
+*Last Updated: April 2026 • Proudly Built in Morocco 🇲🇦*
 
 </div>
