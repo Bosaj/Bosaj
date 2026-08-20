@@ -469,10 +469,10 @@ Where the first-principles thinking started: a final-year analysis of **nuclear 
     <th>🏆 Achievement</th>
   </tr>
   <tr>
-    <td>Dec 2023 – Present</td>
+    <td>Dec 2023 –  Jul 2026</td>
     <td><b>State Engineer's Degree in Artificial Intelligence</b></td>
     <td>ENIAD — Mohammed First University</td>
-    <td>In Progress</td>
+    <td>⭐⭐ <b>Very Good Honors</b></td>
   </tr>
   <tr>
     <td>Sep 2022 – Present</td>
