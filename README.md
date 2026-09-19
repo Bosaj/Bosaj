@@ -488,21 +488,21 @@ Enterprise .NET C# academic portal and institutional management platform built f
       <a href="https://github.com/Bosaj?tab=achievements">
         <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="75" alt="Achievement: Pull Shark" /><br/>
         <b>Pull Shark</b><br/>
-        <sub>50+ Merged PRs</sub>
+        <sub>🥈 Silver (x3) • 128 Merged PRs</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Bosaj?tab=achievements">
         <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="75" alt="Achievement: Quickdraw" /><br/>
         <b>Quickdraw</b><br/>
-        <sub>Rapid issue resolution</sub>
+        <sub>⚡ Rapid issue resolution</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Bosaj?tab=achievements">
         <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="75" alt="Achievement: Pair Extraordinaire" /><br/>
         <b>Pair Extraordinaire</b><br/>
-        <sub>Co-authored contributions</sub>
+        <sub>🥈 Silver (x3) • 78 Co-authored PRs</sub>
       </a>
     </td>
   </tr>
