@@ -468,6 +468,87 @@ Enterprise .NET C# academic portal and institutional management platform built f
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
+## 🏆 GitHub Achievements & Cloud Architecture Badges
+
+<div align="center">
+
+<table>
+  <tr>
+    <th colspan="4">🎖️ Official GitHub Achievements</th>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/Bosaj?tab=achievements">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="75" alt="Achievement: YOLO" /><br/>
+        <b>YOLO</b><br/>
+        <sub>Merged without review</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Bosaj?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="75" alt="Achievement: Pull Shark" /><br/>
+        <b>Pull Shark</b><br/>
+        <sub>50+ Merged PRs</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Bosaj?tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="75" alt="Achievement: Quickdraw" /><br/>
+        <b>Quickdraw</b><br/>
+        <sub>Rapid issue resolution</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Bosaj?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="75" alt="Achievement: Pair Extraordinaire" /><br/>
+        <b>Pair Extraordinaire</b><br/>
+        <sub>Co-authored contributions</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <th colspan="3">☁️ Production Cloud & Infrastructure Stack</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" /><br/>
+      <sub>Compute • BigQuery • Cloud Run</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
+      <sub>Containerization • Multi-stage builds</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /><br/>
+      <sub>Cloud PaaS • Auto-Deploy CI/CD</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br/>
+      <sub>Cloud PostgreSQL • Realtime DB</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
+      <sub>Automated Test & Deployment Pipelines</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastMCP" /><br/>
+      <sub>Model Context Protocol Agentic Cloud</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
 ## 🤝 Community & Volunteering
 
 <div align="center">
