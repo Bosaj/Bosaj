@@ -479,35 +479,35 @@ Enterprise .NET C# academic portal and institutional management platform built f
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/galaxy-brain-default-39fdd9224d40.png" width="70" alt="Achievement: Galaxy Brain" /><br/>
+        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="70" alt="Achievement: Galaxy Brain" /><br/>
         <b>Galaxy Brain</b><br/>
         <sub>🥇 Gold (x4)<br/>32 Accepted Answers</sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70" alt="Achievement: Pair Extraordinaire" /><br/>
+        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Gold.png" width="70" alt="Achievement: Pair Extraordinaire" /><br/>
         <b>Pair Extraordinaire</b><br/>
         <sub>🥇 Gold (x4)<br/>78 Co-authored PRs</sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Achievement: Pull Shark" /><br/>
+        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="70" alt="Achievement: Pull Shark" /><br/>
         <b>Pull Shark</b><br/>
         <sub>🥈 Silver (x3)<br/>128 Merged PRs</sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="Achievement: YOLO" /><br/>
+        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="70" alt="Achievement: YOLO" /><br/>
         <b>YOLO</b><br/>
         <sub>Merged without review</sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="70" alt="Achievement: Quickdraw" /><br/>
+        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="70" alt="Achievement: Quickdraw" /><br/>
         <b>Quickdraw</b><br/>
         <sub>Rapid issue resolution</sub>
       </a>
