@@ -1,30 +1,30 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=OUSSAMA%20EL%20HADJI&fontSize=45&animation=twinkling&fontAlignY=35&desc=🚀%20AI%20Engineer%20|%20🤖%20From%20Plasma%20Physics%20to%20Production%20AI%20|%20✨%20Building%20Systems%20That%20Think&descSize=14&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=OUSSAMA%20EL%20HADJI&fontSize=45&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20%26%20Automation%20Engineer%20%40%20Circet%20Morocco%20%7C%20⚛️%20Ex-Physics%20%7C%20🚀%20Enterprise%20AI%20Systems&descSize=14&descAlignY=55" />
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=I+started+in+physics.+Now+I+build+AI.;Machine+Learning+%7C+NLP+%7C+RAG+%7C+MLOps;I+make+systems+that+survive+the+real+world;Reasoning+from+first+principles%2C+one+system+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI+%26+Automation+Engineer+%40+Circet+Morocco;From+Plasma+Physics+to+Production+AI;Machine+Learning+%7C+Agentic+RAG+%7C+Power+Automate+ALM;Building+Enterprise+Systems+That+Survive+the+Real+World;Reasoning+from+first+principles%2C+one+system+at+a+time" alt="Typing SVG" />
 </p>
 
-<!-- Profile Stats -->
+<!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bosaj&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00d9ff?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-AI%20%26%20Automation%20Engineer-00d9ff?style=flat-square&logo=circet" alt="Role" />
+  <img src="https://img.shields.io/badge/Company-Circet%20Morocco-FF6B00?style=flat-square" alt="Company" />
   <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco%20🇲🇦-success?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Status" />
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/oussama-elhadji"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://github.com/Bosaj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://gitlab.com/Bosaj"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
-  <a href="https://www.instagram.com/catcher_sama"><img src="https://img.shields.io/badge/Photography-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://gitlab.com/Bosaj" target="_blank"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
+  <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Photography-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -32,65 +32,63 @@
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 About Me
+## 👤 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding">
 
-Hi, I'm **Oussama** — an AI engineering student who got here the long way around, through **physics**.
+Hi, I'm **Oussama EL HADJI** — an **AI & Automation Engineer at Circet Morocco**.
 
-Before neural networks, there were plasma equations and quantum states. Studying physics — including a final-year project on **nuclear fusion by inertial confinement** — taught me something no framework can: how to reason from first principles, distrust any number I haven't measured, and stay calm in front of a problem nobody has solved yet.
+My engineering foundation was built through **physics**. Before neural networks and generative AI, I worked with plasma equations and quantum mechanics. My academic physics background — including research in **Inertial Confinement Fusion (ICF)** — taught me to reason from first principles, rigorously validate data, and approach unsolved problems with extreme discipline.
 
-Today I point that same instinct at AI. I don't just want a model that works — I want to know **why** it works, where it breaks, and whether it will hold up when real users and real data hit it. That's the difference between a demo and a system, and it's the kind of work I care about.
-
-Right now I'm building **production AI and automation** at Circet Morocco, writing my engineering thesis, and shipping side projects that turn messy, human problems — documents, data, broken workflows — into systems that reason reliably.
+Today, I apply that mindset to **enterprise AI engineering, intelligent automation, NLP, and MLOps**. Having recently completed my 6-month PFE engineering internship at **Circet Morocco** (March – August 2026), I officially transitioned into a full-time **AI & Automation Engineer** role starting **September 01, 2026**, designing production ALM frameworks, intelligent agent workflows, and AI automation pipelines.
 
 <br clear="right"/>
 
-### 🧭 The journey so far
+### 🛣️ The Journey
 
 ```mermaid
 graph LR
-    A[⚛️ Physics<br/>First Principles] --> B[📊 Data Science<br/>Patterns in Noise]
-    B --> C[🤖 Machine Learning<br/>Models That Learn]
-    C --> D[🧠 NLP & RAG<br/>Systems That Reason]
-    D --> E[🚀 Production AI<br/>Systems That Last]
+    A[⚛️ Physics<br/>First Principles] --> B[📊 Data Science<br/>Pattern Recognition]
+    B --> C[🤖 Machine Learning<br/>Predictive Models]
+    C --> D[🧠 NLP & RAG<br/>Cognitive Systems]
+    D --> E[💼 AI & Automation Engineer<br/>Circet Morocco]
     style A fill:#3C873A,stroke:#fff,color:#fff
     style B fill:#F2C811,stroke:#fff,color:#000
     style C fill:#EE4C2C,stroke:#fff,color:#fff
     style D fill:#00B4D8,stroke:#fff,color:#fff
-    style E fill:#9B5DE5,stroke:#fff,color:#fff
+    style E fill:#FF6B00,stroke:#fff,color:#fff
 ```
 
-### 🎯 Quick Highlights
+### 📌 Quick Highlights
 
 <table>
   <tr>
+    <td>🏢 <b>Current Role</b></td>
+    <td><b>AI & Automation Engineer @ Circet Morocco</b> (Full-time, Sep 01, 2026 – Present)</td>
+  </tr>
+  <tr>
     <td>🎓 <b>Education</b></td>
-    <td>State Engineer's Degree in AI (ENIAD) • Bachelor in Physics</td>
+    <td><b>State Engineer's Degree in Artificial Intelligence</b> — ENIAD (Very Good Honors) 🎓</td>
   </tr>
   <tr>
-    <td>💼 <b>Current Role</b></td>
-    <td>AI Engineer PFE Intern @ Circet Morocco • Power Automate ALM Framework</td>
+    <td>💼 <b>PFE Internship</b></td>
+    <td>AI & Automation Engineering Intern @ Circet Morocco (March 04 – August 31, 2026)</td>
   </tr>
   <tr>
-    <td>🌱 <b>Learning</b></td>
-    <td>Advanced NLP • MLOps • RAG Architecture • Agentic Systems</td>
+    <td>🚀 <b>Core Specializations</b></td>
+    <td>Enterprise AI, Agentic Workflows, Power Automate ALM, RAG Architecture, Computer Vision</td>
   </tr>
   <tr>
-    <td>🔭 <b>Open To</b></td>
-    <td>End-of-Study & Entry-Level Roles • AI/ML Projects • Research Collaborations</td>
+    <td>⚡ <b>Engineering Edge</b></td>
+    <td>First-principles reasoning from physics applied to scalable, fault-tolerant AI production systems</td>
   </tr>
   <tr>
-    <td>⚡ <b>Unique Edge</b></td>
-    <td>A physicist's instinct for first principles, applied to building AI</td>
+    <td>🗣️ <b>Languages</b></td>
+    <td>Arabic (Native) 🇲🇦 • English (B2) 🇬🇧 • French (B1) 🇫🇷</td>
   </tr>
   <tr>
-    <td>🌍 <b>Languages</b></td>
-    <td>Arabic (Native) • English (B2) • French (B1)</td>
-  </tr>
-  <tr>
-    <td>📞 <b>Contact</b></td>
-    <td>+212 634960373 • oussousselhadji@gmail.com</td>
+    <td>📫 <b>Contact</b></td>
+    <td>+212 634960373 • <a href="mailto:oussousselhadji@gmail.com">oussousselhadji@gmail.com</a></td>
   </tr>
 </table>
 
@@ -100,22 +98,39 @@ graph LR
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>⚡ AI Engineer Intern (PFE) • Circet Morocco &nbsp;🟢 Current</b></summary>
+<summary><b>🤖 AI & Automation Engineer • Circet Morocco</b> &nbsp;<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> <i>Current Role</i></summary>
 
 <br>
 
-📅 **March 2026 – Present** | 📍 Casablanca, Morocco
+📅 **September 01, 2026 – Present** | 📍 Casablanca, Morocco (On-site / Hybrid)
 
-**The mission:** bring real software-engineering discipline to Power Automate — a low-code world that usually has none. I'm designing an **Application Lifecycle Management (ALM) framework** from the ground up.
+**Scope & Responsibilities:**
+- Transitioned into full-time **AI & Automation Engineer** following successful completion of PFE graduation project.
+- Leading enterprise-wide **AI Integration & Intelligent Automation** initiatives across telecom and network infrastructure operations.
+- Engineering end-to-end **Application Lifecycle Management (ALM)** pipelines for low-code automation workflows.
+- Architecting custom LLM integrations (Claude API, OpenAI) for automated failure diagnostics, root-cause analysis, and incident response.
 
-**What I'm building:**
-- A full **DEV → TEST → PROD** pipeline for Power Automate flows, with proper environment separation
-- Automated **CI/CD** on GitLab + **PowerShell** scripts for packaged, repeatable deployments
-- A centralized **FlowLogger** layer streaming run-level telemetry into SharePoint — turning invisible flows into something you can actually observe and debug
-- An **AI component** (Claude API) that reads failures and explains them in plain language, plus anomaly detection
-- A **Power BI** dashboard for real-time flow health, and a **Teams bot** for live incident alerts
+**Tech Stack:** Power Automate • GitLab CI/CD • PowerShell • Python • LLM APIs • SharePoint • Power BI • Microsoft Teams
 
-**Tech Stack:** Power Automate • GitLab CI/CD • PowerShell • SharePoint • Power BI • Microsoft Teams • Claude API • Power Platform CLI
+</details>
+
+<details open>
+<summary><b>🎓 AI & Automation Engineering Intern (PFE) • Circet Morocco</b></summary>
+
+<br>
+
+📅 **March 04, 2026 – August 31, 2026** (6 Months) | 📍 Casablanca, Morocco
+
+**Project:** Enterprise Application Lifecycle Management (ALM) Framework & AI Monitoring for Low-Code Workflows.
+
+**Key Achievements & Deliverables:**
+- Designed and engineered a complete **DEV ➔ TEST ➔ PROD** ALM pipeline for Power Automate flows with strict environment isolation.
+- Built automated **CI/CD** pipelines on GitLab coupled with robust **PowerShell** deployment scripts for package management.
+- Implemented a centralized **FlowLogger** telemetry layer streaming execution metrics into SharePoint for real-time observability.
+- Integrated an **AI Diagnostic Engine** (Claude API) to analyze flow execution logs, explain errors in natural language, and flag anomalies.
+- Deployed a **Power BI** executive health dashboard and automated **Teams bot** for real-time incident alerting.
+
+**Tech Stack:** Power Automate • GitLab CI/CD • PowerShell • SharePoint • Power BI • Teams Bot • Claude API • Power Platform CLI
 
 </details>
 
@@ -124,14 +139,14 @@ graph LR
 
 <br>
 
-📅 **Jul 2025 – Sep 2025** | 📍 Rabat, Morocco (Hybrid)
+📅 **July 2025 – September 2025** | 📍 Rabat, Morocco (Hybrid)
 
-**Project:** Intelligent agent for regulatory compliance analysis.
+**Project:** Intelligent NLP Agent for Regulatory Compliance Analysis & Control Plans.
 
-**What I did:**
-- Built an NLP system that reads dense financial regulations (OPCI, securitization) and extracts the rules that matter
-- Automated the generation of **control plans** straight from regulatory documents — work that used to be entirely manual
-- Worked alongside a multidisciplinary AI and engineering team in a real enterprise setting
+**Key Achievements:**
+- Engineered an NLP system to ingest complex legal/financial regulations (OPCI, securitization) and extract key compliance mandates.
+- Automated the generation of structured **Control Plans** directly from regulatory PDF documents, eliminating manual audit effort.
+- Collaborated in a cross-functional AI & banking analytics team in an enterprise environment.
 
 **Tech Stack:** Python • NLP • Machine Learning • Document Processing • Compliance Automation
 
@@ -144,16 +159,15 @@ graph LR
 
 <br>
 
-📅 **Jul 2025** | 📍 Casablanca, Morocco (Remote)
+📅 **July 2025** | 📍 Casablanca, Morocco (Remote)
 
-**Project:** AI avatar for a recruitment platform.
+**Project:** Intelligent AI Avatar & Interview System for HR Recruitment.
 
-**What I did:**
-- Designed and implemented an intelligent AI avatar for HR processes
-- Supported automated interview and candidate-selection systems
-- Integrated ML models into a real-world recruitment environment to make screening faster and fairer
+**Key Achievements:**
+- Designed and deployed an AI avatar interface for automated candidate screening and interview management.
+- Integrated ML scoring models into recruitment workflows to reduce bias and accelerate candidate evaluation.
 
-**Tech Stack:** Python • AI/ML • NLP • HR Technology
+**Tech Stack:** Python • AI/ML • NLP • Computer Vision • HR Tech
 
 </details>
 
@@ -162,82 +176,154 @@ graph LR
 
 <br>
 
-📅 **Nov 2024 – Dec 2024** | 📍 Remote
+📅 **November 2024 – December 2024** | 📍 Remote
 
-**Project:** Cardiovascular disease prediction system.
+**Project:** Predictive Medical Diagnostic Model for Cardiovascular Risk.
 
-**What I did:**
-- Built and compared supervised models (Logistic Regression, SVM, Decision Trees)
-- Designed the preprocessing and feature-engineering pipelines
-- Reached **92%+ accuracy** and shipped weekly documentation on schedule
+**Key Achievements:**
+- Developed and evaluated supervised ML classification models (Logistic Regression, SVM, Decision Trees, Random Forest).
+- Engineered data preprocessing and feature scaling pipelines, achieving **92%+ prediction accuracy**.
 
-**Certification:** PIT/NOV24/20689
+**Certification ID:** `PIT/NOV24/20689`
 
-**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Data Analysis
-
-</details>
-
-<details>
-<summary><b>🏋️ Sport Leader • Decathlon Morocco</b></summary>
-
-<br>
-
-📅 **Aug 2024 – Oct 2024** | 📍 Oujda, Morocco (On-site)
-
-Not an engineering role — but where I learned to read people, work a floor, and stay sharp under pressure.
-
-- Managed customer relations and sports-product consultation
-- Handled inventory control and merchandising
-- Ran sports workshops and safety training
-
-**Skills:** Customer Service • Logistics • Team Leadership • Communication
+**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib
 
 </details>
 
 <details>
-<summary><b>🤝 National Volunteer • Ministry of Youth, Culture & Communication</b></summary>
+<summary><b>🏃 Sport Leader • Decathlon Morocco</b></summary>
 
 <br>
 
-📅 **Aug 2023** | 📍 Nador – Selouane, Morocco
+📅 **August 2024 – October 2024** | 📍 Oujda, Morocco
 
-**Program:** National Volunteer Program "Motatawi3" (21-day intensive)
-
-- Social, cultural, and personal-development initiatives
-- Community engagement and event organization
-- Cultural-event logistics support
-
-</details>
-
-<details>
-<summary><b>💻 Intern • ELEAT Center</b></summary>
-
-<br>
-
-📅 **May 2023 – Jul 2023** | 📍 Oujda, Morocco
-
-**Training:** Microsoft Office Suite — professional development.
-
-**Skills Acquired:** Word • Excel • PowerPoint • Document Management
+- Customer advisory, team leadership, sports merchandising, and logistics management under high volume.
 
 </details>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Featured Projects & Engineering Showcase
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📰 Jaridtak / Gazette Digest</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/gazette-digest"><img src="https://img.shields.io/badge/Repo-gazette--digest-00D9FF?style=flat-square&logo=github" /></a>
+        <a href="https://gazette-digest.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel" /></a>
+      </p>
+
+Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette (الجريدة الرسمية / SGG)**.
+- **Features**: SGG PDF Scraper, Gemini 1.5 LLM summarization, Split-pane PDF viewer, Web Audio TTS, Economic Impact Matrix, MCP Server integration.
+- **Tech Stack**: TanStack Start, React 18, Supabase PostgreSQL, Google Gemini, MCP Protocol, Tailwind CSS.
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Dual Portfolio Hub</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/dual_portfolio_hub"><img src="https://img.shields.io/badge/Repo-dual__portfolio__hub-00D9FF?style=flat-square&logo=github" /></a>
+        <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Live-bosaj.vercel.app-brightgreen?style=flat-square&logo=vercel" /></a>
+      </p>
+
+Modern Dual-Persona Engineer Portfolio platform showcasing AI Engineering, Systems Architecture, and Physics background.
+- **Features**: Dynamic dark mode, glassmorphism, Framer Motion micro-animations, Vercel Edge performance.
+- **Tech Stack**: Next.js / Vite, React 18, TypeScript, Tailwind CSS, Vercel.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 360° AI Viewer with WebRover</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/AI-Powered-360-Degree-Product-Viewer-with-WebRover"><img src="https://img.shields.io/badge/Repo-WebRover--360-00D9FF?style=flat-square&logo=github" /></a>
+      </p>
+
+Autonomous agentic web browser and 360° interactive product inspection platform powered by vision LLMs and FastMCP.
+- **Features**: Autonomous visual navigation, multi-angle product extraction, FastMCP server tools.
+- **Tech Stack**: Python, FastMCP, WebRover, Computer Vision, React.
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📑 Compliance Control Plan Generator</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS"><img src="https://img.shields.io/badge/Repo-CheckPlan--Agents-00D9FF?style=flat-square&logo=github" /></a>
+      </p>
+
+Multi-Agent AI system for automated regulatory ingestion, compliance parsing, and audit control plan synthesis.
+- **Features**: Multi-agent CrewAI orchestration, vector RAG retrieval, automated Excel/PDF report generation.
+- **Tech Stack**: Python, CrewAI, LangChain, Qdrant, FastAPI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 Privacy-Preserving Federated Learning</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/federated-learning-loan-approval"><img src="https://img.shields.io/badge/Repo-Federated--Loan-00D9FF?style=flat-square&logo=github" /></a>
+      </p>
+
+Decentralized, privacy-preserving machine learning system for banking credit risk evaluation without sharing raw data.
+- **Features**: Flower federated framework, differential privacy, node aggregation, financial risk modeling.
+- **Tech Stack**: PyTorch, Flower, Scikit-learn, Python.
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔌 FastMCP Filesystem Server</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/filesystem-mcp-with-FastMCP-server"><img src="https://img.shields.io/badge/Repo-FastMCP--Server-00D9FF?style=flat-square&logo=github" /></a>
+      </p>
+
+High-performance Model Context Protocol (MCP) server for deep filesystem inspection, file operations, and agent tooling.
+- **Features**: FastMCP implementation, JSON-RPC protocol compliance, async tool handlers.
+- **Tech Stack**: Python, FastMCP, MCP Protocol, Asyncio.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 Deep Q-Network Schedule Optimizer</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/Optimisation-de-plannings-avec-DQN"><img src="https://img.shields.io/badge/Repo-DQN--Schedule--Optimizer-00D9FF?style=flat-square&logo=github" /></a>
+      </p>
+
+Reinforcement learning engine using Deep Q-Networks (DQN) for complex industrial planning and resource allocation.
+- **Features**: OpenAI Gym environment, experience replay, Q-value approximation, constraint optimization.
+- **Tech Stack**: PyTorch, Python, OpenAI Gym, NumPy.
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏛️ ENIAD Academic System (.NET C#)</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/eniad-csharp-dotnet-academic-project"><img src="https://img.shields.io/badge/Repo-ENIAD--DotNet-00D9FF?style=flat-square&logo=github" /></a>
+      </p>
+
+Enterprise .NET C# academic portal and institutional management platform built for ENIAD university operations.
+- **Features**: Student tracking, course registration, grading workflows, role-based access control.
+- **Tech Stack**: C# .NET, Entity Framework, SQL Server, ASP.NET.
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <a href="https://github.com/Bosaj?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/🔍_Explore_All_24%2B_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+  </a>
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 Tech Stack & Engineering Toolkit
 
 <div align="center">
 
-### 💻 Programming Languages
+### ⚙️ Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C# .NET](https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🤖 AI / ML & Data Science
+### 🤖 AI / ML, LLMs & Data Science
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -245,187 +331,26 @@ Not an engineering role — but where I learned to read people, work a floor, an
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🧠 NLP & GenAI
-
-![RAG](https://img.shields.io/badge/RAG-00B4D8?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Llama](https://img.shields.io/badge/Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
-### 🌐 Web & Backend
+### 🔄 Automation & Power Platform
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+
+### 🌐 Web & Databases
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📊 BI & Data Engineering
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ⚙️ DevOps & Tooling
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-</div>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects
-
-> The thread connecting them all: take something messy and human — documents, data, broken workflows — and make a system reason about it reliably.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤖 [ENIAD Educational Chatbot](https://github.com/ennajari/ENIAD-ASSISTANT)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Presented%20Jun%202025-success?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/ennajari/ENIAD-ASSISTANT?style=social" />
-</div>
-
-A multilingual campus assistant that doesn't just retrieve — it **understands**. Pairs a **RAG** pipeline with a **fine-tuned Llama 3**, so answers are both grounded and fluent.
-
-- RAG with a Qdrant vector database
-- Fine-tuned Llama 3 (Q-LoRA)
-- French / English support
-- FastAPI backend + React frontend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![RAG](https://img.shields.io/badge/RAG-00B4D8?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤝 [Multi-Agent Data Analytics](https://github.com/chakorabdellatif/Multi-Agent_System_CrewAI_Automate-Analyzing_Products_Dataset)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-May%202025-success?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/chakorabdellatif/Multi-Agent_System_CrewAI_Automate-Analyzing_Products_Dataset?style=social" />
-</div>
-
-A **crew of AI agents** that hands itself a dataset, explores it, runs the statistics, and writes up the findings — no human in the loop.
-
-- Autonomous data exploration
-- Multi-agent collaboration (CrewAI)
-- Statistical analysis & reporting
-- Automated visualization
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏦 [Regulatory Compliance Agent](https://github.com/CDG-CAPITAL-FINANCE/)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Jul–Sep%202025-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Enterprise-CDG%20Capital-0066CC?style=flat-square" />
-</div>
-
-Reads dense financial regulation (OPCI, securitization) the way an analyst would — then writes the **control plan** for you.
-
-- NLP-based document processing
-- Automated compliance-rule extraction
-- Control-plan generation
-- Built in a real enterprise setting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square)
-![AI](https://img.shields.io/badge/AI-00ADD8?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ❤️ [Stroke Risk Prediction](https://github.com/Bosaj/Stroke-Prediction-Project)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Bosaj/Stroke-Prediction-Project?style=social" />
-</div>
-
-A careful, comparative ML study on cardiovascular stroke risk — the kind of work where getting the evaluation right matters more than the headline number.
-
-- LogReg, SVM, Random Forests
-- ~92% accuracy with full EDA
-- Honest model comparison
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Scikit](https://img.shields.io/badge/Scikit-F7931E?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
-<sub>Team: ELHADJI • BAHAYA • GUAFFARI • SADOG · Supervisor: Dr. Asmae Bentaleb</sub>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📊 [Vehicle Trade BI](https://www.kaggle.com/datasets/techsalerator/importexport-trade-data-in-morocco)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Year-2025-yellow?style=flat-square" />
-</div>
-
-An end-to-end BI pipeline on Morocco's vehicle import/export data — from raw rows to a dashboard a decision-maker can actually use.
-
-- MySQL data-warehouse design
-- Talend ETL pipeline
-- Interactive Power BI dashboard
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚛️ Nuclear Fusion Research
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Defended%20Jul%202022-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Scientific%20Research-purple?style=flat-square" />
-</div>
-
-Where the first-principles thinking started: a final-year analysis of **nuclear fusion by inertial confinement**.
-
-- Inertial Confinement Fusion (ICF)
-- Plasma physics & energy transfer
-- Advanced physics modeling
-
-![Research](https://img.shields.io/badge/Research-FFA116?style=flat-square)
-![Physics](https://img.shields.io/badge/Physics-3C873A?style=flat-square)
-![Energy](https://img.shields.io/badge/Energy-FF9900?style=flat-square)
-
-</td>
-  </tr>
-</table>
-
-<div align="center">
-
-[![View All Projects](https://img.shields.io/badge/📂_View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bosaj?tab=repositories)
-[![Star Repositories](https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Bosaj?tab=repositories)
-[![Collaborate](https://img.shields.io/badge/🤝_Let's_Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussousselhadji@gmail.com)
 
 </div>
 
@@ -464,26 +389,26 @@ Where the first-principles thinking started: a final-year analysis of **nuclear 
 <table>
   <tr>
     <th>📅 Period</th>
-    <th>🎯 Degree</th>
-    <th>🏛️ Institution</th>
-    <th>🏆 Achievement</th>
+    <th>🎓 Degree / Qualification</th>
+    <th>🏫 Institution</th>
+    <th>🏆 Distinction / Result</th>
   </tr>
   <tr>
-    <td>Dec 2023 –  Jul 2026</td>
+    <td>Dec 2023 – Jul 2026</td>
     <td><b>State Engineer's Degree in Artificial Intelligence</b></td>
-    <td>ENIAD — Mohammed First University</td>
-    <td>⭐⭐ <b>Very Good Honors</b></td>
+    <td>ENIAD • Mohammed First University</td>
+    <td>🏅 <b>Very Good Honors</b></td>
   </tr>
   <tr>
     <td>Sep 2022 – Present</td>
     <td><b>Bachelor's Degree in Physical Sciences</b></td>
-    <td>Faculty of Sciences — Mohammed First University</td>
+    <td>Faculty of Sciences • Mohammed First University</td>
     <td>In Progress</td>
   </tr>
   <tr>
     <td>Sep 2019 – Feb 2022</td>
     <td><b>DEUG in Physical Sciences</b></td>
-    <td>Faculty of Sciences — Mohammed First University</td>
+    <td>Faculty of Sciences • Mohammed First University</td>
     <td>⭐ <b>Honors</b></td>
   </tr>
   <tr>
@@ -497,14 +422,14 @@ Where the first-principles thinking started: a final-year analysis of **nuclear 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Certifications
+## 📜 Professional Certifications
 
 <table>
   <tr>
     <th>📜 Certification</th>
-    <th>🏢 Provider</th>
+    <th>🏢 Issuer</th>
     <th>📅 Date</th>
-    <th>🔑 Credential ID</th>
+    <th>🆔 Credential ID</th>
   </tr>
   <tr>
     <td><b>Data Science Fundamentals with Python and SQL</b></td>
@@ -547,44 +472,42 @@ Where the first-principles thinking started: a final-year analysis of **nuclear 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌍 Community & Volunteering
+## 🤝 Community & Volunteering
 
 <div align="center">
 
-Engineering is what I do; **showing up for people** is who I am.
+<i>"Engineering is what I do; <b>showing up for people</b> is who I am."</i>
 
 </div>
 
-- **Management Team** · Club Motatawi3 El-Alfia — *Apr 2024 – Present* · Activity organization & event logistics
-- **Coordinator** · Good Ambassadors Association, Oujda — *Sep 2023 – Present* · Community development & volunteer supervision
-- **Humanitarian Coordinator** · Marrakech Earthquake Relief — *Sep 2023* · Organized and delivered donations to affected areas
-- **Awareness Coordinator** · Regional Blood Transfusion Center (CRTS), Oujda — *Aug 2023* · Led blood-donation campaigns
-- **Volunteer** · Ministry of Youth, Culture & Communication — *Aug 2023* · Cultural & social event support
+- **Management Team** • Club Motatawi3 El-Alfia • *Apr 2024 – Present* • Activity organization & event logistics
+- **Coordinator** • Good Ambassadors Association, Oujda • *Sep 2023 – Present* • Community development & volunteer supervision
+- **Humanitarian Coordinator** • Marrakech Earthquake Relief • *Sep 2023* • Organized and delivered critical donations to affected mountain villages
+- **Awareness Coordinator** • Regional Blood Transfusion Center (CRTS), Oujda • *Aug 2023* • Led regional blood donation campaigns
+- **Volunteer** • Ministry of Youth, Culture & Communication • *Aug 2023* • Social & cultural event support
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Beyond the Code
+## 📸 Beyond the Code
 
 <div align="center">
 
-I think better when I step away from the screen.
-
-🥋 **Taekwondo** — discipline and patience, one belt at a time
-🏋️ **Weightlifting** — the same compounding-progress mindset I bring to learning
-📸 **Photography** — I see the world in frames → [@catcher_sama](https://instagram.com/catcher_sama)
-🎬 **Content Creation** — visual storytelling and video editing
+🥋 **Taekwondo** • Discipline, patience, and focus under pressure  
+🏋️ **Weightlifting** • The compounding-progress mindset applied to physical health  
+📷 **Photography** • Framing the world through a lens • [@catcher_sama](https://instagram.com/catcher_sama)  
+🎬 **Content Creation** • Visual storytelling and digital media editing
 
 </div>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📬 Let's Build Something
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-I'm currently open to **end-of-study and entry-level AI engineering roles**, research collaborations, and interesting open-source work. If any of the above resonates, the door's open.
+I am open to **strategic AI collaborations, technical research, and open-source innovation**. Feel free to reach out!
 
 <p>
   <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Oussama%20EL%20HADJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -593,17 +516,17 @@ I'm currently open to **end-of-study and entry-level AI engineering roles**, res
 </p>
 
 <table>
-  <tr><td align="center"><b>📍 Based in</b></td><td>Casablanca / Oujda, Morocco 🇲🇦 · GMT+1</td></tr>
-  <tr><td align="center"><b>📞 Phone</b></td><td>+212 634960373</td></tr>
-  <tr><td align="center"><b>🌍 Languages</b></td><td>Arabic (Native) · English (B2) · French (B1)</td></tr>
+  <tr><td align="center">📍 <b>Based in</b></td><td>Casablanca / Oujda, Morocco 🇲🇦 • GMT+1</td></tr>
+  <tr><td align="center">📞 <b>Phone</b></td><td>+212 634960373</td></tr>
+  <tr><td align="center">🗣️ <b>Languages</b></td><td>Arabic (Native) • English (B2) • French (B1)</td></tr>
 </table>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=26&animation=twinkling&fontAlignY=65" />
 
-⭐ *If something here caught your eye, a star on my repos means a lot.*
+⭐ *If something here caught your eye, a star on my repositories means a lot.*
 
-*Built in Morocco 🇲🇦 — reasoning from first principles, one system at a time.*
+*Built in Morocco 🇲🇦 • reasoning from first principles, one system at a time.*
 
 </div>
