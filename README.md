@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=OUSSAMA%20EL%20HADJI&fontSize=45&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20%26%20Automation%20Engineer%20%40%20Circet%20Morocco%20%7C%20⚛️%20Ex-Physics%20%7C%20🚀%20Enterprise%20AI%20Systems&descSize=14&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=OUSSAMA%20EL%20HADJI&fontSize=45&animation=twinkling&fontAlignY=35&desc=AI%20and%20Automation%20Engineer%20%40%20Circet%20Morocco%20%7C%20Ex-Physics%20%7C%20Enterprise%20AI%20Systems&descSize=14&descAlignY=55" alt="Header Banner" />
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI+%26+Automation+Engineer+%40+Circet+Morocco;From+Plasma+Physics+to+Production+AI;Machine+Learning+%7C+Agentic+RAG+%7C+Power+Automate+ALM;Building+Enterprise+Systems+That+Survive+the+Real+World;Reasoning+from+first+principles%2C+one+system+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI%20and%20Automation%20Engineer%20%40%20Circet%20Morocco%3BFrom%20Plasma%20Physics%20to%20Production%20AI%3BMachine%20Learning%20%7C%20Agentic%20RAG%20%7C%20Power%20Automate%20ALM%3BBuilding%20Enterprise%20Systems%20That%20Survive%20the%20Real%20World%3BReasoning%20from%20first%20principles%2C%20one%20system%20at%20a%20time" alt="Typing SVG" />
 </p>
 
 <!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bosaj&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Role-AI%20%26%20Automation%20Engineer-00d9ff?style=flat-square&logo=circet" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-AI%20and%20Automation%20Engineer-00d9ff?style=flat-square" alt="Role" />
   <img src="https://img.shields.io/badge/Company-Circet%20Morocco-FF6B00?style=flat-square" alt="Company" />
-  <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco%20🇲🇦-success?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-success?style=flat-square" alt="Location" />
 </p>
 
 <!-- Social Links -->
@@ -24,13 +24,13 @@
   <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://github.com/Bosaj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://gitlab.com/Bosaj" target="_blank"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
-  <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Photography-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Instagram-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 👤 About Me
 
@@ -93,7 +93,7 @@ graph LR
 </table>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 💼 Professional Experience
 
@@ -202,7 +202,7 @@ graph LR
 </details>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 🛠️ Featured Projects & Engineering Showcase
 
@@ -211,8 +211,8 @@ graph LR
     <td width="50%" valign="top">
       <h3 align="center">📰 Jaridtak / Gazette Digest</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/gazette-digest"><img src="https://img.shields.io/badge/Repo-gazette--digest-00D9FF?style=flat-square&logo=github" /></a>
-        <a href="https://gazette-digest.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel" /></a>
+        <a href="https://github.com/Bosaj/gazette-digest"><img src="https://img.shields.io/badge/Repo-gazette--digest-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://gazette-digest.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </p>
 
 Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette (الجريدة الرسمية / SGG)**.
@@ -222,8 +222,8 @@ Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette
     <td width="50%" valign="top">
       <h3 align="center">💼 Dual Portfolio Hub</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/dual_portfolio_hub"><img src="https://img.shields.io/badge/Repo-dual__portfolio__hub-00D9FF?style=flat-square&logo=github" /></a>
-        <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Live-bosaj.vercel.app-brightgreen?style=flat-square&logo=vercel" /></a>
+        <a href="https://github.com/Bosaj/dual_portfolio_hub"><img src="https://img.shields.io/badge/Repo-dual__portfolio__hub-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Live-bosaj.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </p>
 
 Modern Dual-Persona Engineer Portfolio platform showcasing AI Engineering, Systems Architecture, and Physics background.
@@ -235,7 +235,7 @@ Modern Dual-Persona Engineer Portfolio platform showcasing AI Engineering, Syste
     <td width="50%" valign="top">
       <h3 align="center">🤖 360° AI Viewer with WebRover</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/AI-Powered-360-Degree-Product-Viewer-with-WebRover"><img src="https://img.shields.io/badge/Repo-WebRover--360-00D9FF?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Bosaj/AI-Powered-360-Degree-Product-Viewer-with-WebRover"><img src="https://img.shields.io/badge/Repo-WebRover--360-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 Autonomous agentic web browser and 360° interactive product inspection platform powered by vision LLMs and FastMCP.
@@ -245,7 +245,7 @@ Autonomous agentic web browser and 360° interactive product inspection platform
     <td width="50%" valign="top">
       <h3 align="center">📑 Compliance Control Plan Generator</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS"><img src="https://img.shields.io/badge/Repo-CheckPlan--Agents-00D9FF?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS"><img src="https://img.shields.io/badge/Repo-CheckPlan--Agents-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 Multi-Agent AI system for automated regulatory ingestion, compliance parsing, and audit control plan synthesis.
@@ -257,7 +257,7 @@ Multi-Agent AI system for automated regulatory ingestion, compliance parsing, an
     <td width="50%" valign="top">
       <h3 align="center">🔒 Privacy-Preserving Federated Learning</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/federated-learning-loan-approval"><img src="https://img.shields.io/badge/Repo-Federated--Loan-00D9FF?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Bosaj/federated-learning-loan-approval"><img src="https://img.shields.io/badge/Repo-Federated--Loan-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 Decentralized, privacy-preserving machine learning system for banking credit risk evaluation without sharing raw data.
@@ -267,7 +267,7 @@ Decentralized, privacy-preserving machine learning system for banking credit ris
     <td width="50%" valign="top">
       <h3 align="center">🔌 FastMCP Filesystem Server</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/filesystem-mcp-with-FastMCP-server"><img src="https://img.shields.io/badge/Repo-FastMCP--Server-00D9FF?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Bosaj/filesystem-mcp-with-FastMCP-server"><img src="https://img.shields.io/badge/Repo-FastMCP--Server-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 High-performance Model Context Protocol (MCP) server for deep filesystem inspection, file operations, and agent tooling.
@@ -279,7 +279,7 @@ High-performance Model Context Protocol (MCP) server for deep filesystem inspect
     <td width="50%" valign="top">
       <h3 align="center">🎯 Deep Q-Network Schedule Optimizer</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/Optimisation-de-plannings-avec-DQN"><img src="https://img.shields.io/badge/Repo-DQN--Schedule--Optimizer-00D9FF?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Bosaj/Optimisation-de-plannings-avec-DQN"><img src="https://img.shields.io/badge/Repo-DQN--Schedule--Optimizer-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 Reinforcement learning engine using Deep Q-Networks (DQN) for complex industrial planning and resource allocation.
@@ -289,7 +289,7 @@ Reinforcement learning engine using Deep Q-Networks (DQN) for complex industrial
     <td width="50%" valign="top">
       <h3 align="center">🏛️ ENIAD Academic System (.NET C#)</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/eniad-csharp-dotnet-academic-project"><img src="https://img.shields.io/badge/Repo-ENIAD--DotNet-00D9FF?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Bosaj/eniad-csharp-dotnet-academic-project"><img src="https://img.shields.io/badge/Repo-ENIAD--DotNet-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 Enterprise .NET C# academic portal and institutional management platform built for ENIAD university operations.
@@ -302,12 +302,12 @@ Enterprise .NET C# academic portal and institutional management platform built f
 <div align="center">
   <br>
   <a href="https://github.com/Bosaj?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/🔍_Explore_All_24%2B_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+    <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_24%2B_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
   </a>
 </div>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 💻 Tech Stack & Engineering Toolkit
 
@@ -355,7 +355,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
 </div>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 📊 GitHub Analytics
 
@@ -375,14 +375,10 @@ Enterprise .NET C# academic portal and institutional management platform built f
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bosaj&theme=tokyonight"
   alt="Repos Per Language" />
 
-<img width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Bosaj&custom_title=Contribution%20Timeline&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6e96&area=true&hide_border=true"
-  alt="Contribution Graph" />
-
 </div>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 🎓 Education
 
@@ -420,7 +416,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
 </table>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 📜 Professional Certifications
 
@@ -433,44 +429,44 @@ Enterprise .NET C# academic portal and institutional management platform built f
   </tr>
   <tr>
     <td><b>Data Science Fundamentals with Python and SQL</b></td>
-    <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Badge" /></td>
     <td>Oct 2025</td>
     <td><code>7NO5QXMVDTS1</code></td>
   </tr>
   <tr>
     <td><b>Google Data Analytics Professional Certificate</b></td>
-    <td><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Badge" /></td>
     <td>Oct 2025</td>
     <td><code>E5EZMU8R0DRZ</code></td>
   </tr>
   <tr>
     <td><b>Generative AI: Prompt Engineering Basics</b></td>
-    <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Badge" /></td>
     <td>Apr 2025</td>
     <td><code>8JVS8LHEI0AX</code></td>
   </tr>
   <tr>
     <td><b>Machine Learning Internship Certificate</b></td>
-    <td><img src="https://img.shields.io/badge/Prodigy_InfoTech-6B2FAE?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Prodigy_InfoTech-6B2FAE?style=flat-square&logoColor=white" alt="Prodigy Badge" /></td>
     <td>Dec 2024</td>
     <td><code>PIT/NOV24/20689</code></td>
   </tr>
   <tr>
     <td><b>Career Essentials in Generative AI</b></td>
-    <td><img src="https://img.shields.io/badge/Microsoft_&_LinkedIn-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Microsoft_&_LinkedIn-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Badge" /></td>
     <td>Apr 2024</td>
     <td>Verified ✅</td>
   </tr>
   <tr>
     <td><b>MIATHON 2nd Edition</b></td>
-    <td><img src="https://img.shields.io/badge/Moroccan_House_of_AI-00897B?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Moroccan_House_of_AI-00897B?style=flat-square&logoColor=white" alt="MIATHON Badge" /></td>
     <td>Jul 2024</td>
     <td>Verified ✅</td>
   </tr>
 </table>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 🤝 Community & Volunteering
 
@@ -487,7 +483,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
 - **Volunteer** • Ministry of Youth, Culture & Communication • *Aug 2023* • Social & cultural event support
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 📸 Beyond the Code
 
@@ -501,7 +497,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
 </div>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 ## 📫 Let's Connect & Collaborate
 
@@ -510,9 +506,9 @@ Enterprise .NET C# academic portal and institutional management platform built f
 I am open to **strategic AI collaborations, technical research, and open-source innovation**. Feel free to reach out!
 
 <p>
-  <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Oussama%20EL%20HADJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-oussousselhadji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bosaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Oussama%20EL%20HADJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-oussousselhadji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+  <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bosaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
 <table>
@@ -523,7 +519,7 @@ I am open to **strategic AI collaborations, technical research, and open-source 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=26&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer&text=Thanks%20for%20visiting%21&fontSize=26&animation=twinkling&fontAlignY=65" alt="Footer Banner" />
 
 ⭐ *If something here caught your eye, a star on my repositories means a lot.*
 
