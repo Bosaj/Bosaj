@@ -1,0 +1,5 @@
+
+# Security: Local Secrets
+.env
+.env.local
+.env.*.local
