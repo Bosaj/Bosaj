@@ -212,7 +212,7 @@ graph LR
       <h3 align="center">📰 Jaridtak / Gazette Digest</h3>
       <p align="center">
         <a href="https://github.com/Bosaj/gazette-digest"><img src="https://img.shields.io/badge/Repo-gazette--digest-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
-        <a href="https://gazette-digest.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+        <img src="https://img.shields.io/badge/Status-In%20Staging-orange?style=flat-square" alt="Status Badge" />
       </p>
 
 Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette (الجريدة الرسمية / SGG)**.
@@ -279,7 +279,7 @@ High-performance Model Context Protocol (MCP) server for deep filesystem inspect
     <td width="50%" valign="top">
       <h3 align="center">🎯 Deep Q-Network Schedule Optimizer</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/Optimisation-de-plannings-avec-DQN"><img src="https://img.shields.io/badge/Repo-DQN--Schedule--Optimizer-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps"><img src="https://img.shields.io/badge/Repo-DQN--Schedule--Optimizer-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 Reinforcement learning engine using Deep Q-Networks (DQN) for complex industrial planning and resource allocation.
