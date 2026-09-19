@@ -481,7 +481,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
       <a href="https://github.com/Bosaj?tab=achievements">
         <img src="https://github.githubassets.com/assets/galaxy-brain-default-39fdd9224d40.png" width="70" alt="Achievement: Galaxy Brain" /><br/>
         <b>Galaxy Brain</b><br/>
-        <sub>🥇 Gold (x4)<br/>16 Accepted Answers</sub>
+        <sub>🥇 Gold (x4)<br/>32 Accepted Answers</sub>
       </a>
     </td>
     <td align="center" width="20%">
