@@ -11,7 +11,7 @@
 <!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bosaj&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" />
+  <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" /></a>
   <img src="https://img.shields.io/badge/Role-AI%20and%20Automation%20Engineer-00d9ff?style=flat-square" alt="Role" />
   <img src="https://img.shields.io/badge/Company-Circet%20Morocco-FF6B00?style=flat-square" alt="Company" />
   <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-success?style=flat-square" alt="Location" />
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://github.com/Bosaj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow%20%40Bosaj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" /></a>&nbsp;
   <a href="https://gitlab.com/Bosaj" target="_blank"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
   <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Instagram-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -225,7 +225,7 @@ graph LR
     <td width="50%" valign="top">
       <h3 align="center">📰 Jaridtak / Gazette Digest</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/gazette-digest"><img src="https://img.shields.io/badge/Repo-gazette--digest-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Commercial-grey?style=flat-square" alt="Private Repository" />
         <img src="https://img.shields.io/badge/Status-In%20Staging-orange?style=flat-square" alt="Status Badge" />
       </p>
 
@@ -236,7 +236,7 @@ Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette
     <td width="50%" valign="top">
       <h3 align="center">💼 Dual Portfolio Hub</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/dual_portfolio_hub"><img src="https://img.shields.io/badge/Repo-dual__portfolio__hub-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Proprietary-grey?style=flat-square" alt="Private Repository" />
         <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Live-bosaj.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </p>
 
@@ -249,7 +249,7 @@ Modern Dual-Persona Engineer Portfolio platform showcasing AI Engineering, Syste
     <td width="50%" valign="top">
       <h3 align="center">🤖 360° AI Viewer with WebRover</h3>
       <p align="center">
-        <a href="https://github.com/ennajari/AI-Powered-360-Degree-Product-Viewer-with-WebRover"><img src="https://img.shields.io/badge/Repo-WebRover--360-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <img src="https://img.shields.io/badge/Code-Private%20Collaboration-orange?style=flat-square" alt="Private Collab" />
         <a href="https://github.com/ennajari" target="_blank"><img src="https://img.shields.io/badge/Collab-%40ennajari-FF6B00?style=flat-square&logo=github" alt="Collab Badge" /></a>
       </p>
 
