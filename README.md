@@ -32,20 +32,6 @@
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-```bash
-╭─ oussama@circet-enterprise ~
-╰─$ whoami
-❯ Oussama EL HADJI (Bosaj) — AI & Automation Engineer @ Circet Morocco
-╰─$ neofetch --engineer
-  OS       : Plasma Physics (Ex-Researcher) ➔ AI & Automation Engineering (State Engineer)
-  Host     : Circet Morocco • Enterprise AI Production Systems & Power Automate ALM
-  Focus    : Multi-Agent Systems (CrewAI) | Streaming NLP (Kafka/PySpark) | FastMCP Servers
-  Stack    : Python • TypeScript • PyTorch • Docker • FastMCP • LangChain • Next.js • Apache Kafka
-  Mission  : Reasoning from first principles to build resilient production AI systems
-╰─$ cat 2026_status.json
-  { "status": "Building enterprise AI automation", "collabs": "Open to high-impact AI/ML systems" }
-```
-
 ## 👤 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding">
@@ -568,16 +554,6 @@ Enterprise .NET C# academic portal and institutional management platform built f
 
 <br/>
 
-### 🐍 Contribution Activity Matrix
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bosaj/Bosaj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bosaj/Bosaj/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/Bosaj/Bosaj/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-</div>
-
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
@@ -623,6 +599,13 @@ I am open to **strategic AI collaborations, technical research, and open-source 
   <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-oussousselhadji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
   <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bosaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
+
+### 🐍 Contribution Activity Matrix
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bosaj/Bosaj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
 
 <table>
   <tr><td align="center">📍 <b>Based in</b></td><td>Casablanca / Oujda, Morocco 🇲🇦 • GMT+1</td></tr>
