@@ -32,6 +32,20 @@
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
+```bash
+╭─ oussama@circet-enterprise ~
+╰─$ whoami
+❯ Oussama EL HADJI (Bosaj) — AI & Automation Engineer @ Circet Morocco
+╰─$ neofetch --engineer
+  OS       : Plasma Physics (Ex-Researcher) ➔ AI & Automation Engineering (State Engineer)
+  Host     : Circet Morocco • Enterprise AI Production Systems & Power Automate ALM
+  Focus    : Multi-Agent Systems (CrewAI) | Streaming NLP (Kafka/PySpark) | FastMCP Servers
+  Stack    : Python • TypeScript • PyTorch • Docker • FastMCP • LangChain • Next.js • Apache Kafka
+  Mission  : Reasoning from first principles to build resilient production AI systems
+╰─$ cat 2026_status.json
+  { "status": "Building enterprise AI automation", "collabs": "Open to high-impact AI/ML systems" }
+```
+
 ## 👤 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding">
@@ -236,6 +250,7 @@ Modern Dual-Persona Engineer Portfolio platform showcasing AI Engineering, Syste
       <h3 align="center">🤖 360° AI Viewer with WebRover</h3>
       <p align="center">
         <a href="https://github.com/ennajari/AI-Powered-360-Degree-Product-Viewer-with-WebRover"><img src="https://img.shields.io/badge/Repo-WebRover--360-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://github.com/ennajari" target="_blank"><img src="https://img.shields.io/badge/Collab-%40ennajari-FF6B00?style=flat-square&logo=github" alt="Collab Badge" /></a>
       </p>
 
 Autonomous agentic web browser and 360° interactive product inspection platform powered by vision LLMs and FastMCP.
