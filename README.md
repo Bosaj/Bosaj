@@ -369,6 +369,13 @@ Enterprise .NET C# academic portal and institutional management platform built f
   src="https://streak-stats.demolab.com/?user=Bosaj&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e"
   alt="GitHub Streak" />
 
+<br/><br/>
+
+<!-- Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/Bosaj/Bosaj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+<br/><br/>
+
 <img width="49%" height="195px"
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bosaj&theme=tokyonight"
   alt="Most Used Languages" />
@@ -600,11 +607,7 @@ I am open to **strategic AI collaborations, technical research, and open-source 
   <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bosaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
-### 🐍 Contribution Activity Matrix
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bosaj/Bosaj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
 
 
 <table>
