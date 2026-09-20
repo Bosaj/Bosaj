@@ -235,7 +235,7 @@ Modern Dual-Persona Engineer Portfolio platform showcasing AI Engineering, Syste
     <td width="50%" valign="top">
       <h3 align="center">🤖 360° AI Viewer with WebRover</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/AI-Powered-360-Degree-Product-Viewer-with-WebRover"><img src="https://img.shields.io/badge/Repo-WebRover--360-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://github.com/ennajari/AI-Powered-360-Degree-Product-Viewer-with-WebRover"><img src="https://img.shields.io/badge/Repo-WebRover--360-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 Autonomous agentic web browser and 360° interactive product inspection platform powered by vision LLMs and FastMCP.
