@@ -24,6 +24,8 @@
   <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow%20%40Bosaj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" /></a>&nbsp;
   <a href="https://gitlab.com/Bosaj" target="_blank"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
+  <a href="https://huggingface.co/bosaj" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-Follow-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>&nbsp;
+
   <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Instagram-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
