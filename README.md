@@ -299,7 +299,7 @@ Reinforcement learning engine using Deep Q-Networks (DQN) for complex industrial
     <td width="50%" valign="top">
       <h3 align="center">🏛️ ENIAD Academic System (.NET C#)</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/eniad-csharp-dotnet-academic-project"><img src="https://img.shields.io/badge/Repo-ENIAD--DotNet-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://github.com/Bosaj/csharp-dotnet-enterprise-suite"><img src="https://img.shields.io/badge/Repo-CSharp--Enterprise-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 Enterprise .NET C# academic portal and institutional management platform built for ENIAD university operations.
@@ -444,23 +444,23 @@ Enterprise .NET C# academic portal and institutional management platform built f
 | Semester / Milestone | Module / Domain | Featured Repository | Technologies & Highlights |
 |---|---|---|---|
 | 🎓 **PFE (Semestre 10)** | **Enterprise Power Automate ALM & AI Monitoring** | [`GitLab/power-automate-alm`](https://gitlab.com/Bosaj/power-automate-alm) | **Circet Morocco Graduation PFE**: DEV-TEST-PROD ALM Pipelines, FlowLogger Telemetry, Claude AI Diagnostics |
-| **Semestre 9** | **Explainable AI (XAI)** | [`Bosaj/eniad-explainable-ai`](https://github.com/Bosaj/eniad-explainable-ai) | PDP, ALE, KernelSHAP, LIME, Grad-CAM, Saliency Maps |
+| **Semestre 9** | **Explainable AI (XAI)** | [`Bosaj/xai-model-interpretability-suite`](https://github.com/Bosaj/xai-model-interpretability-suite) | PDP, ALE, KernelSHAP, LIME, Grad-CAM, Saliency Maps |
 | **Semestre 9** | **DevOps & MLOps** | [`Bosaj/DevOpsML`](https://github.com/Bosaj/DevOpsML) | CI/CD Automation, Docker, MLflow, Automated Testing |
 | **Semestre 9** | **NLP & Language Models** | [`Bosaj/LANGUAGE-MODEL`](https://github.com/Bosaj/LANGUAGE-MODEL) | Tokenization, Transformers, Fine-Tuning, FastMCP |
 | **Semestre 9** | **Big Data Engineering** | [`Bosaj/Real-Time_Sentiment_Analysis_on_X`](https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X) | Apache Kafka, PySpark, Distributed Streaming, RoBERTa |
 | **Semestre 9** | **Advanced AI Workshops** | [`Bosaj/federated-learning-loan-approval`](https://github.com/Bosaj/federated-learning-loan-approval) | Federated Learning, PySyft, Privacy-Preserving ML |
 | 🏛️ **PFA (Semestre 8)** | **Financial Compliance AI Agents (CDG Capital)** | [`Bosaj/CHECK-PLAN-GENERATOR-AGENTS`](https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS) | **CDG Capital Graduation PFA**: LangGraph Multi-Agent, OCR PDF Parsing, Automated Excel Control Plans |
 | 🏛️ **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`Bosaj/ENIAD-ASSISTANT`](https://github.com/Bosaj/ENIAD-ASSISTANT) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
-| **Semestre 8** | **Knowledge Engineering & Ontologies** | [`Bosaj/eniad-semantic-ontologies`](https://github.com/Bosaj/eniad-semantic-ontologies) | Protégé, OWL 2, RDF, SWRL Rules, SPARQL |
-| **Semestre 8** | **Multi-Agent Systems & Agentic AI** | [`Bosaj/eniad-multi-agent-systems`](https://github.com/Bosaj/eniad-multi-agent-systems) | JADE (Java), FIPA ACL, LangChain, RAG Pipelines |
+| **Semestre 8** | **Knowledge Engineering & Ontologies** | [`Bosaj/semantic-web-knowledge-ontologies`](https://github.com/Bosaj/semantic-web-knowledge-ontologies) | Protégé, OWL 2, RDF, SWRL Rules, SPARQL |
+| **Semestre 8** | **Multi-Agent Systems & Agentic AI** | [`Bosaj/agentic-ai-multi-agent-systems`](https://github.com/Bosaj/agentic-ai-multi-agent-systems) | JADE (Java), FIPA ACL, LangChain, RAG Pipelines |
 | **Semestre 8** | **Deep Reinforcement Learning** | [`Bosaj/Optimisation-de-plannings-avec-DQN`](https://github.com/Bosaj/Optimisation-de-plannings-avec-DQN) | DQN, Gymnasium, Reward Shaping, Policy Gradients |
-| **Semestre 7** | **Agile Project Management & ML** | [`Bosaj/eniad-agile-scrum-project`](https://github.com/Bosaj/eniad-agile-scrum-project) | Scrum Ceremonies, Backlog, Deployable ML Service |
-| **Semestre 7** | **Mobile App Development** | [`Bosaj/eniad-android-mobile-suite`](https://github.com/Bosaj/eniad-android-mobile-suite) | Android SDK, Java, Multilingual (AR/FR/EN), Material UI |
-| **Semestre 7** | **Supervised Clinical Machine Learning** | [`Bosaj/Stroke-Prediction-Project`](https://github.com/Bosaj/Stroke-Prediction-Project) | Imbalanced Classification, SMOTE, XGBoost, Cross-Validation |
+| **Semestre 7** | **Agile Project Management & ML** | [`Bosaj/agile-scrum-ml-classification-service`](https://github.com/Bosaj/agile-scrum-ml-classification-service) | Scrum Ceremonies, Backlog, Deployable ML Service |
+| **Semestre 7** | **Mobile App Development** | [`Bosaj/native-android-multilingual-suite`](https://github.com/Bosaj/native-android-multilingual-suite) | Android SDK, Java, Multilingual (AR/FR/EN), Material UI |
+| **Semestre 7** | **Machine Learning 1 (ML1)** | [`Bosaj/Stroke-Prediction-Project`](https://github.com/Bosaj/Stroke-Prediction-Project) | Imbalanced Classification, SMOTE, XGBoost, Cross-Validation |
 | **Semestre 7** | **Deep Learning & Computer Vision** | [`Bosaj/Transfer-Learning-VGG16-Dog-Cat-Classification`](https://github.com/Bosaj/Transfer-Learning-VGG16-Dog-Cat-Classification) | Transfer Learning, Pretrained VGG16, Feature Extraction |
-| **Semestre 7** | **.NET Enterprise Applications** | [`Bosaj/eniad-csharp-dotnet-academic-project`](https://github.com/Bosaj/eniad-csharp-dotnet-academic-project) | C#, .NET Core, LINQ, Entity Framework |
-| **Semestre 6** | **Software Engineering & Interactive Systems (IHM)** | [`Bosaj/eniad-software-engineering-ihm`](https://github.com/Bosaj/eniad-software-engineering-ihm) | React & React Native IHM, UML Design Patterns, Operating Systems, Networks, Operational Research, Compilers |
-| **Semestre 5** | **Foundational Computing Laboratories** | [`Bosaj/eniad-foundational-computing-labs`](https://github.com/Bosaj/eniad-foundational-computing-labs) | Web Development, SQL/Oracle DB, OOP (Python, C++, Java), Electronique & Automatique |
+| **Semestre 7** | **.NET Enterprise Applications** | [`Bosaj/csharp-dotnet-enterprise-suite`](https://github.com/Bosaj/csharp-dotnet-enterprise-suite) | C#, .NET Core, LINQ, Entity Framework |
+| **Semestre 6** | **Software Engineering & Interactive Systems (IHM)** | [`Bosaj/interactive-systems-software-engineering`](https://github.com/Bosaj/interactive-systems-software-engineering) | React & React Native IHM, UML Design Patterns, Operating Systems, Networks, Operational Research, Compilers |
+| **Semestre 5** | **Foundational Computing Laboratories** | [`Bosaj/foundational-software-engineering-labs`](https://github.com/Bosaj/foundational-software-engineering-labs) | Web Development, SQL/Oracle DB, OOP (Python, C++, Java), Electronique & Automatique |
 | **Semestres 3 & 4** | **Scientific & Algorithmic Preparatory Foundations** | *Classes Préparatoires & FSO* | Advanced Mathematical Analysis, Linear Algebra, Numerical Methods, Algorithmic C/C++, General Physics & Thermodynamics |
 
 <!-- Gradient Divider -->
