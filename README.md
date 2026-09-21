@@ -73,8 +73,12 @@ graph LR
     <td><b>State Engineer's Degree in Artificial Intelligence</b> — ENIAD (Very Good Honors) 🎓</td>
   </tr>
   <tr>
-    <td>💼 <b>PFE Internship</b></td>
-    <td>AI & Automation Engineering Intern @ Circet Morocco (March 04 – August 31, 2026)</td>
+    <td>🎓 <b>PFE (Projet de Fin d'Études)</b></td>
+    <td><b>Enterprise Power Automate ALM & AI Monitoring @ Circet Morocco</b> (Mar – Aug 2026) ➔ Full-time Engineer</td>
+  </tr>
+  <tr>
+    <td>🏛️ <b>PFA (Projet de Fin d'Année)</b></td>
+    <td><b>AI Multi-Agent Financial Compliance & Control Plans @ CDG Capital</b> (Jul – Sep 2025)</td>
   </tr>
   <tr>
     <td>🚀 <b>Core Specializations</b></td>
@@ -136,23 +140,26 @@ graph LR
 
 </details>
 
-<details>
-<summary><b>🏦 AI Engineering Intern • CDG Capital</b></summary>
+<details open>
+<summary><b>🏦 Projet de Fin d'Année (PFA) • CDG Capital — AI & Compliance Engineering</b> &nbsp;<g-emoji class="g-emoji" alias="mortarboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji></summary>
 
 <br>
 
 📅 **July 2025 – September 2025** | 📍 Rabat, Morocco (Hybrid)
 
-**Project:** Intelligent NLP Agent for Regulatory Compliance Analysis & Control Plans.
+**Academic Milestone:** Official **Projet de Fin d'Année (PFA)** for the State Engineering Degree in Artificial Intelligence & Digital Systems (**ENIAD Berkane**) in partnership with **CDG Capital**.
 
-**Key Achievements:**
-- Engineered an NLP system to ingest complex legal/financial regulations (OPCI, securitization) and extract key compliance mandates.
-- Automated the generation of structured **Control Plans** directly from regulatory PDF documents, eliminating manual audit effort.
-- Collaborated in a cross-functional AI & banking analytics team in an enterprise environment.
+**Project:** Intelligent NLP & Multi-Agent Platform for Financial Regulatory Compliance Analysis & Automated Control Plan Generation.
 
-**Tech Stack:** Python • NLP • Machine Learning • Document Processing • Compliance Automation
+**Key Achievements & Deliverables:**
+- Architected an enterprise multi-agent system using **LangGraph**, **LangChain**, and OCR engines (**RapidOCR / PaddleOCR**) to ingest complex financial management regulations (*Règlements de Gestion*: OPCI, securitization funds) and extract strict compliance rules.
+- Automated the generation of structured, verifiable **Control Plans** exported directly to styled Excel spreadsheets (`.xlsx`), streamlining auditing workflows for depository control teams.
+- Engineered a high-performance **Spring Boot 3** API Gateway and reactive **Next.js 15** frontend for real-time compliance oversight.
+- Collaborated in a cross-functional AI & financial engineering team.
 
-**GitHub:** [CDG-CAPITAL-FINANCE](https://github.com/CDG-CAPITAL-FINANCE/)
+**Tech Stack:** Python • LangGraph • LangChain • Spring Boot 3 • Next.js 15 • RapidOCR • MongoDB • Docker • Financial Compliance
+
+**Primary Repository:** [`Bosaj/CHECK-PLAN-GENERATOR-AGENTS`](https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS) • [CDG-CAPITAL-FINANCE](https://github.com/CDG-CAPITAL-FINANCE/)
 
 </details>
 
@@ -434,23 +441,27 @@ Enterprise .NET C# academic portal and institutional management platform built f
   <a href="https://github.com/stars/Bosaj/lists/eniad-academic-projects" target="_blank"><img src="https://img.shields.io/badge/Curated_Playlist-16_Academic_Repositories-gold?style=for-the-badge&logo=github&logoColor=black" alt="Academic List" /></a>
 </p>
 
-| Semester | Module / Domain | Featured Repository | Technologies & Highlights |
+| Semester / Milestone | Module / Domain | Featured Repository | Technologies & Highlights |
 |---|---|---|---|
+| 🎓 **PFE (Semestre 10)** | **Enterprise Power Automate ALM & AI Monitoring** | [`GitLab/power-automate-alm`](https://gitlab.com/Bosaj/power-automate-alm) | **Circet Morocco Graduation PFE**: DEV-TEST-PROD ALM Pipelines, FlowLogger Telemetry, Claude AI Diagnostics |
 | **Semestre 9** | **Explainable AI (XAI)** | [`Bosaj/eniad-explainable-ai`](https://github.com/Bosaj/eniad-explainable-ai) | PDP, ALE, KernelSHAP, LIME, Grad-CAM, Saliency Maps |
 | **Semestre 9** | **DevOps & MLOps** | [`Bosaj/DevOpsML`](https://github.com/Bosaj/DevOpsML) | CI/CD Automation, Docker, MLflow, Automated Testing |
 | **Semestre 9** | **NLP & Language Models** | [`Bosaj/LANGUAGE-MODEL`](https://github.com/Bosaj/LANGUAGE-MODEL) | Tokenization, Transformers, Fine-Tuning, FastMCP |
 | **Semestre 9** | **Big Data Engineering** | [`Bosaj/Real-Time_Sentiment_Analysis_on_X`](https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X) | Apache Kafka, PySpark, Distributed Streaming, RoBERTa |
 | **Semestre 9** | **Advanced AI Workshops** | [`Bosaj/federated-learning-loan-approval`](https://github.com/Bosaj/federated-learning-loan-approval) | Federated Learning, PySyft, Privacy-Preserving ML |
+| 🏛️ **PFA (Semestre 8)** | **Financial Compliance AI Agents (CDG Capital)** | [`Bosaj/CHECK-PLAN-GENERATOR-AGENTS`](https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS) | **CDG Capital Graduation PFA**: LangGraph Multi-Agent, OCR PDF Parsing, Automated Excel Control Plans |
+| 🏛️ **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`Bosaj/ENIAD-ASSISTANT`](https://github.com/Bosaj/ENIAD-ASSISTANT) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
 | **Semestre 8** | **Knowledge Engineering & Ontologies** | [`Bosaj/eniad-semantic-ontologies`](https://github.com/Bosaj/eniad-semantic-ontologies) | Protégé, OWL 2, RDF, SWRL Rules, SPARQL |
 | **Semestre 8** | **Multi-Agent Systems & Agentic AI** | [`Bosaj/eniad-multi-agent-systems`](https://github.com/Bosaj/eniad-multi-agent-systems) | JADE (Java), FIPA ACL, LangChain, RAG Pipelines |
 | **Semestre 8** | **Deep Reinforcement Learning** | [`Bosaj/Optimisation-de-plannings-avec-DQN`](https://github.com/Bosaj/Optimisation-de-plannings-avec-DQN) | DQN, Gymnasium, Reward Shaping, Policy Gradients |
-| **Semestre 8** | **Applied AI Assistant** | [`Bosaj/ENIAD-ASSISTANT`](https://github.com/Bosaj/ENIAD-ASSISTANT) | Conversational AI, LLaMA-3.1 8B LoRA, Qwen, Next.js |
 | **Semestre 7** | **Agile Project Management & ML** | [`Bosaj/eniad-agile-scrum-project`](https://github.com/Bosaj/eniad-agile-scrum-project) | Scrum Ceremonies, Backlog, Deployable ML Service |
 | **Semestre 7** | **Mobile App Development** | [`Bosaj/eniad-android-mobile-suite`](https://github.com/Bosaj/eniad-android-mobile-suite) | Android SDK, Java, Multilingual (AR/FR/EN), Material UI |
 | **Semestre 7** | **Supervised Clinical Machine Learning** | [`Bosaj/Stroke-Prediction-Project`](https://github.com/Bosaj/Stroke-Prediction-Project) | Imbalanced Classification, SMOTE, XGBoost, Cross-Validation |
 | **Semestre 7** | **Deep Learning & Computer Vision** | [`Bosaj/Transfer-Learning-VGG16-Dog-Cat-Classification`](https://github.com/Bosaj/Transfer-Learning-VGG16-Dog-Cat-Classification) | Transfer Learning, Pretrained VGG16, Feature Extraction |
 | **Semestre 7** | **.NET Enterprise Applications** | [`Bosaj/eniad-csharp-dotnet-academic-project`](https://github.com/Bosaj/eniad-csharp-dotnet-academic-project) | C#, .NET Core, LINQ, Entity Framework |
-| **Semestre 5** | **Foundational Computing Laboratories** | [`Bosaj/eniad-foundational-computing-labs`](https://github.com/Bosaj/eniad-foundational-computing-labs) | Web Development, SQL/Oracle DB, OOP (Python, C++, Java) |
+| **Semestre 6** | **Software Engineering & Interactive Systems (IHM)** | [`Bosaj/eniad-software-engineering-ihm`](https://github.com/Bosaj/eniad-software-engineering-ihm) | React & React Native IHM, UML Design Patterns, Operating Systems, Networks, Operational Research, Compilers |
+| **Semestre 5** | **Foundational Computing Laboratories** | [`Bosaj/eniad-foundational-computing-labs`](https://github.com/Bosaj/eniad-foundational-computing-labs) | Web Development, SQL/Oracle DB, OOP (Python, C++, Java), Electronique & Automatique |
+| **Semestres 3 & 4** | **Scientific & Algorithmic Preparatory Foundations** | *Classes Préparatoires & FSO* | Advanced Mathematical Analysis, Linear Algebra, Numerical Methods, Algorithmic C/C++, General Physics & Thermodynamics |
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
