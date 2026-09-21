@@ -438,7 +438,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
 
 <p align="center">
   <a href="https://github.com/users/Bosaj/projects/36" target="_blank"><img src="https://img.shields.io/badge/Project_Board_v2-ENIAD_Academic_Curriculum-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Board v2" /></a>&nbsp;
-  <a href="https://github.com/stars/Bosaj/lists/eniad-academic-projects" target="_blank"><img src="https://img.shields.io/badge/Curated_Playlist-18_Academic_Repositories-gold?style=for-the-badge&logo=github&logoColor=black" alt="Academic List" /></a>
+  <a href="https://github.com/stars/Bosaj/lists/eniad-academic-projects" target="_blank"><img src="https://img.shields.io/badge/Curated_Playlist-19_Academic_Repositories-gold?style=for-the-badge&logo=github&logoColor=black" alt="Academic List" /></a>
 </p>
 
 | Semester / Milestone | Module / Domain | Featured Repository | Technologies & Highlights |
@@ -453,7 +453,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
 | 🏛️ **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`Bosaj/ENIAD-ASSISTANT`](https://github.com/Bosaj/ENIAD-ASSISTANT) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
 | **Semestre 8** | **Knowledge Engineering & Ontologies** | [`Bosaj/semantic-web-knowledge-ontologies`](https://github.com/Bosaj/semantic-web-knowledge-ontologies) | Protégé, OWL 2, RDF, SWRL Rules, SPARQL |
 | **Semestre 8** | **Multi-Agent Systems & Agentic AI** | [`Bosaj/agentic-ai-multi-agent-systems`](https://github.com/Bosaj/agentic-ai-multi-agent-systems) | JADE (Java), FIPA ACL, LangChain, RAG Pipelines |
-| **Semestre 8** | **Deep Reinforcement Learning** | [`Bosaj/Optimisation-de-plannings-avec-DQN`](https://github.com/Bosaj/Optimisation-de-plannings-avec-DQN) | DQN, Gymnasium, Reward Shaping, Policy Gradients |
+| **Semestre 8** | **Deep Reinforcement Learning** | [`Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps`](https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps) | DQN, Gymnasium, Reward Shaping, Policy Gradients |
 | **Semestre 7** | **Agile Project Management & ML** | [`Bosaj/agile-scrum-ml-classification-service`](https://github.com/Bosaj/agile-scrum-ml-classification-service) | Scrum Ceremonies, Backlog, Deployable ML Service |
 | **Semestre 7** | **Mobile App Development** | [`Bosaj/native-android-multilingual-suite`](https://github.com/Bosaj/native-android-multilingual-suite) | Android SDK, Java, Multilingual (AR/FR/EN), Material UI |
 | **Semestre 7** | **Machine Learning 1 (ML1)** | [`Bosaj/Stroke-Prediction-Project`](https://github.com/Bosaj/Stroke-Prediction-Project) | Imbalanced Classification, SMOTE, XGBoost, Cross-Validation |
