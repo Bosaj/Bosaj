@@ -438,7 +438,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
 
 <p align="center">
   <a href="https://github.com/users/Bosaj/projects/36" target="_blank"><img src="https://img.shields.io/badge/Project_Board_v2-ENIAD_Academic_Curriculum-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Board v2" /></a>&nbsp;
-  <a href="https://github.com/stars/Bosaj/lists/eniad-academic-projects" target="_blank"><img src="https://img.shields.io/badge/Curated_Playlist-16_Academic_Repositories-gold?style=for-the-badge&logo=github&logoColor=black" alt="Academic List" /></a>
+  <a href="https://github.com/stars/Bosaj/lists/eniad-academic-projects" target="_blank"><img src="https://img.shields.io/badge/Curated_Playlist-18_Academic_Repositories-gold?style=for-the-badge&logo=github&logoColor=black" alt="Academic List" /></a>
 </p>
 
 | Semester / Milestone | Module / Domain | Featured Repository | Technologies & Highlights |
