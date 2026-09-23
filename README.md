@@ -437,7 +437,7 @@ Enterprise .NET C# academic portal and institutional management platform built f
 > **State Engineer's Degree in Artificial Intelligence & Digital Systems** • Mohammed First University
 
 <p align="center">
-  <a href="https://github.com/users/Bosaj/projects/36" target="_blank"><img src="https://img.shields.io/badge/Project_Board_v2-ENIAD_Academic_Curriculum-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Board v2" /></a>&nbsp;
+  <a href="https://github.com/users/Bosaj/projects" target="_blank"><img src="https://img.shields.io/badge/Project_Board_v2-ENIAD_Academic_Curriculum-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Board v2" /></a>&nbsp;
   <a href="https://github.com/stars/Bosaj/lists/eniad-academic-projects" target="_blank"><img src="https://img.shields.io/badge/Curated_Playlist-19_Academic_Repositories-gold?style=for-the-badge&logo=github&logoColor=black" alt="Academic List" /></a>
 </p>
 
@@ -446,11 +446,11 @@ Enterprise .NET C# academic portal and institutional management platform built f
 | 🎓 **PFE (Semestre 10)** | **Enterprise Power Automate ALM & AI Monitoring** | [`GitLab/power-automate-alm`](https://gitlab.com/Bosaj/power-automate-alm) | **Circet Morocco Graduation PFE**: DEV-TEST-PROD ALM Pipelines, FlowLogger Telemetry, Claude AI Diagnostics |
 | **Semestre 9** | **Explainable AI (XAI)** | [`Bosaj/xai-model-interpretability-suite`](https://github.com/Bosaj/xai-model-interpretability-suite) | PDP, ALE, KernelSHAP, LIME, Grad-CAM, Saliency Maps |
 | **Semestre 9** | **DevOps & MLOps** | [`Bosaj/DevOpsML`](https://github.com/Bosaj/DevOpsML) | CI/CD Automation, Docker, MLflow, Automated Testing |
-| **Semestre 9** | **NLP & Language Models** | [`Bosaj/LANGUAGE-MODEL`](https://github.com/Bosaj/LANGUAGE-MODEL) | Tokenization, Transformers, Fine-Tuning, FastMCP |
+| **Semestre 9** | **NLP & Language Models** | [`Bosaj/LANGUAGE-MODEL`](https://github.com/CDG-CAPITAL-FINANCE/LANGUAGE-MODEL) | Tokenization, Transformers, Fine-Tuning, FastMCP |
 | **Semestre 9** | **Big Data Engineering** | [`Bosaj/Real-Time_Sentiment_Analysis_on_X`](https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X) | Apache Kafka, PySpark, Distributed Streaming, RoBERTa |
 | **Semestre 9** | **Advanced AI Workshops** | [`Bosaj/federated-learning-loan-approval`](https://github.com/Bosaj/federated-learning-loan-approval) | Federated Learning, PySyft, Privacy-Preserving ML |
 | 🏛️ **PFA (Semestre 8)** | **Financial Compliance AI Agents (CDG Capital)** | [`Bosaj/CHECK-PLAN-GENERATOR-AGENTS`](https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS) | **CDG Capital Graduation PFA**: LangGraph Multi-Agent, OCR PDF Parsing, Automated Excel Control Plans |
-| 🏛️ **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`Bosaj/ENIAD-ASSISTANT`](https://github.com/Bosaj/ENIAD-ASSISTANT) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
+| 🏛️ **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`Bosaj/ENIAD-ASSISTANT`](https://github.com/ennajari/ENIAD-ASSISTANT) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
 | **Semestre 8** | **Knowledge Engineering & Ontologies** | [`Bosaj/semantic-web-knowledge-ontologies`](https://github.com/Bosaj/semantic-web-knowledge-ontologies) | Protégé, OWL 2, RDF, SWRL Rules, SPARQL |
 | **Semestre 8** | **Multi-Agent Systems & Agentic AI** | [`Bosaj/agentic-ai-multi-agent-systems`](https://github.com/Bosaj/agentic-ai-multi-agent-systems) | JADE (Java), FIPA ACL, LangChain, RAG Pipelines |
 | **Semestre 8** | **Deep Reinforcement Learning** | [`Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps`](https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps) | DQN, Gymnasium, Reward Shaping, Policy Gradients |
