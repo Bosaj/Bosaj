@@ -85,6 +85,10 @@ graph LR
     <td>Enterprise AI, Agentic Workflows, Power Automate ALM, RAG Architecture, Computer Vision</td>
   </tr>
   <tr>
+    <td>🧪 <b>Engineering Standards</b></td>
+    <td><b>100% Automated Test Pass Rate</b> across 35 workspace repositories • Strict Typing • Bandit Security Auditing</td>
+  </tr>
+  <tr>
     <td>⚡ <b>Engineering Edge</b></td>
     <td>First-principles reasoning from physics applied to scalable, fault-tolerant AI production systems</td>
   </tr>
@@ -307,17 +311,72 @@ Enterprise .NET C# academic portal and institutional management platform built f
 - **Tech Stack**: C# .NET, Entity Framework, SQL Server, ASP.NET.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 KS-Ayoub-Car Enterprise Mobility</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/ks-ayoub-car"><img src="https://img.shields.io/badge/Repo-KS--Ayoub--Car-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <img src="https://img.shields.io/badge/Tests-146%20Passed-brightgreen?style=flat-square" alt="Tests" />
+      </p>
+
+Fullstack automotive rental and fleet management platform engineered with resilient transaction isolation and authentication.
+- **Features**: JWT auth, dynamic fleet catalog, automated invoicing, real-time booking calendar, 146 unit/integration tests.
+- **Tech Stack**: FastAPI, Next.js 16, React 19, SQLModel, PostgreSQL, Redis, Tailwind CSS v4.
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 XAI Model Interpretability Suite</h3>
+      <p align="center">
+        <a href="https://github.com/Bosaj/xai-model-interpretability-suite"><img src="https://img.shields.io/badge/Repo-XAI--Suite-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=flat-square" alt="Coverage" />
+      </p>
+
+Comprehensive Explainable AI library implementing state-of-the-art local and global model explainability algorithms.
+- **Features**: Partial Dependence Plots (PDP), Accumulated Local Effects (ALE), KernelSHAP, LIME 2D decision boundary sampling.
+- **Tech Stack**: Python, NumPy, Scikit-Learn, Matplotlib, LIME, SHAP.
+    </td>
+  </tr>
 </table>
 
 <div align="center">
   <br>
   <a href="https://github.com/Bosaj?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_24%2B_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+    <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_35%2B_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
   </a>
 </div>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+## 🛡️ Engineering Rigor, Testing & Quality Standards
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="33%">🧪 Verification & Testing</th>
+    <th width="33%">📐 Code Health & Type Safety</th>
+    <th width="33%">🔒 Security & Architecture</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • <b>100% Automated Test Pass Rate</b> across all 35 repositories<br/>
+      • <b>Multi-Framework Testing</b>: Pytest, Vitest, JUnit/Maven, Gradle, .NET xUnit<br/>
+      • Continuous end-to-end and integration regression suites
+    </td>
+    <td valign="top">
+      • Strict typing enforcement via <b>Mypy</b> & <b>TypeScript Strict Mode</b><br/>
+      • Pydantic v2 runtime data contract schemas<br/>
+      • Automated linting and formatting via <b>Ruff</b> and <b>Prettier</b>
+    </td>
+    <td valign="top">
+      • Automated vulnerability auditing with <b>Bandit</b> & CodeQL<br/>
+      • <b>Path Traversal Defenses</b> in FastMCP filesystem servers<br/>
+      • Strict environment isolation & zero-hardcoded secrets policy
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 💻 Tech Stack & Engineering Toolkit
 
@@ -361,6 +420,15 @@ Enterprise .NET C# academic portal and institutional management platform built f
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧪 Testing, Quality & Cloud MLOps
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
