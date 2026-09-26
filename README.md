@@ -595,37 +595,37 @@ Comprehensive Explainable AI library implementing state-of-the-art local and glo
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="70" alt="Achievement: Galaxy Brain" /><br/>
+        <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="78" alt="Achievement: Galaxy Brain" /><br/>
         <b>Galaxy Brain</b><br/>
-        <sub>🥇 Gold (x4)<br/>32 Accepted Answers</sub>
+        <sub>🥇 Gold (x4)<br/>32+ Accepted Answers</sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Gold.png" width="70" alt="Achievement: Pair Extraordinaire" /><br/>
-        <b>Pair Extraordinaire</b><br/>
-        <sub>🥇 Gold (x4)<br/>78 Co-authored PRs</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="70" alt="Achievement: Pull Shark" /><br/>
-        <b>Pull Shark</b><br/>
-        <sub>🥈 Silver (x3)<br/>128 Merged PRs</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="70" alt="Achievement: YOLO" /><br/>
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="78" alt="Achievement: YOLO" /><br/>
         <b>YOLO</b><br/>
-        <sub>Merged without review</sub>
+        <sub>Unlocked<br/>Merged without review</sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="70" alt="Achievement: Quickdraw" /><br/>
+        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="78" alt="Achievement: Pair Extraordinaire" /><br/>
+        <b>Pair Extraordinaire</b><br/>
+        <sub>Unlocked<br/>Co-authored PRs & Commits</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Bosaj?tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="78" alt="Achievement: Quickdraw" /><br/>
         <b>Quickdraw</b><br/>
-        <sub>Rapid issue resolution</sub>
+        <sub>Unlocked<br/>Rapid resolution &lt; 5m</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Bosaj?tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="78" alt="Achievement: Pull Shark" /><br/>
+        <b>Pull Shark</b><br/>
+        <sub>1,100+ Merged PRs<br/>Git Collaboration Master</sub>
       </a>
     </td>
   </tr>
@@ -635,34 +635,42 @@ Comprehensive Explainable AI library implementing state-of-the-art local and glo
 
 <table>
   <tr>
-    <th colspan="3">☁️ Production Cloud & Infrastructure Stack</th>
+    <th colspan="4">☁️ Production Cloud & Infrastructure Stack</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" /><br/>
-      <sub>Compute • BigQuery • Cloud Run</sub>
+      <sub>Compute • BigQuery • Cloud Run • Vertex AI</sub>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
-      <sub>Containerization • Multi-stage builds</sub>
+      <sub>Containerization • Multi-stage builds • Compose</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /><br/>
-      <sub>Cloud PaaS • Auto-Deploy CI/CD</sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
+      <sub>Automated Test & Deployment CI/CD Pipelines</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastMCP" /><br/>
+      <sub>Model Context Protocol • Agentic Cloud Tools</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br/>
-      <sub>Cloud PostgreSQL • Realtime DB</sub>
+      <sub>Cloud PostgreSQL • Realtime DB • pgvector</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
-      <sub>Automated Test & Deployment Pipelines</sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /><br/>
+      <sub>Production Cloud PaaS • Auto-Deploy CI/CD</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastMCP" /><br/>
-      <sub>Model Context Protocol Agentic Cloud</sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot 3" /><br/>
+      <sub>Enterprise Java 17 Microservices & Security</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br/>
+      <sub>Edge Network • Production Web Applications</sub>
     </td>
   </tr>
 </table>
