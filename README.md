@@ -618,7 +618,7 @@ Comprehensive Explainable AI library implementing state-of-the-art local and glo
       <a href="https://github.com/Bosaj?tab=achievements">
         <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="78" alt="Achievement: Pair Extraordinaire Gold" /><br/>
         <b>Pair Extraordinaire</b><br/>
-        <sub>🥇 Gold (x4)<br/>78 Co-authored PRs</sub>
+        <sub>🥇 Gold (x4)<br/>100+ Co-authored PRs</sub>
       </a>
     </td>
     <td align="center" width="20%">
