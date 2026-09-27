@@ -595,7 +595,14 @@ Comprehensive Explainable AI library implementing state-of-the-art local and glo
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="78" alt="Achievement: Galaxy Brain" /><br/>
+        <img src="https://github.githubassets.com/assets/pull-shark-gold-90985540b385.png" width="78" alt="Achievement: Pull Shark Gold x4" /><br/>
+        <b>Pull Shark</b><br/>
+        <sub>🥇 Gold (x4)<br/>1,100+ Merged PRs</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Bosaj?tab=achievements">
+        <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="78" alt="Achievement: Galaxy Brain Gold x4" /><br/>
         <b>Galaxy Brain</b><br/>
         <sub>🥇 Gold (x4)<br/>32+ Accepted Answers</sub>
       </a>
@@ -604,28 +611,21 @@ Comprehensive Explainable AI library implementing state-of-the-art local and glo
       <a href="https://github.com/Bosaj?tab=achievements">
         <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="78" alt="Achievement: YOLO" /><br/>
         <b>YOLO</b><br/>
-        <sub>Unlocked<br/>Merged without review</sub>
+        <sub>Unlocked (Single-Tier)<br/>Merged without review</sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
         <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="78" alt="Achievement: Pair Extraordinaire" /><br/>
         <b>Pair Extraordinaire</b><br/>
-        <sub>Unlocked<br/>Co-authored PRs & Commits</sub>
+        <sub>Unlocked (Base Tier)<br/>Co-authored PRs</sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/Bosaj?tab=achievements">
         <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="78" alt="Achievement: Quickdraw" /><br/>
         <b>Quickdraw</b><br/>
-        <sub>Unlocked<br/>Rapid resolution &lt; 5m</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="78" alt="Achievement: Pull Shark" /><br/>
-        <b>Pull Shark</b><br/>
-        <sub>1,100+ Merged PRs<br/>Git Collaboration Master</sub>
+        <sub>Unlocked (Single-Tier)<br/>Rapid resolution &lt; 5m</sub>
       </a>
     </td>
   </tr>
