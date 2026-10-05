@@ -86,7 +86,7 @@ graph LR
   </tr>
   <tr>
     <td>🧪 <b>Engineering Standards</b></td>
-    <td><b>100% Automated Test Pass Rate</b> across 35 workspace repositories • Strict Typing • Bandit Security Auditing</td>
+    <td><b>100% Automated Test Pass Rate</b> across all maintained repositories • Strict Typing • Bandit Security Auditing • SLSA Build Attestations</td>
   </tr>
   <tr>
     <td>⚡ <b>Engineering Edge</b></td>
@@ -163,7 +163,7 @@ graph LR
 
 **Tech Stack:** Python • LangGraph • LangChain • Spring Boot 3 • Next.js 15 • RapidOCR • MongoDB • Docker • Financial Compliance
 
-**Primary Repository:** [`Bosaj/CHECK-PLAN-GENERATOR-AGENTS`](https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS) • [CDG-CAPITAL-FINANCE](https://github.com/CDG-CAPITAL-FINANCE/)
+**Primary Repository:** `CDG-CAPITAL-FINANCE/CHECK-PLAN-GENERATOR-AGENTS` *(private, organization-owned)* • [CDG-CAPITAL-FINANCE](https://github.com/CDG-CAPITAL-FINANCE/)
 
 </details>
 
@@ -199,6 +199,8 @@ graph LR
 
 **Certification ID:** `PIT/NOV24/20689`
 
+**Internship Tasks:** [`PRODIGY_ML_01`](https://github.com/Bosaj/PRODIGY_ML_01) (house price regression, [live](https://bosaj.github.io/PRODIGY_ML_01/)) • [`PRODIGY_ML_02`](https://github.com/Bosaj/PRODIGY_ML_02) (K-means customer segmentation, [live](https://bosaj.github.io/PRODIGY_ML_02/))
+
 **Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib
 
 </details>
@@ -225,12 +227,12 @@ graph LR
       <h3 align="center">📰 Jaridtak / Gazette Digest</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Commercial-grey?style=flat-square" alt="Private Repository" />
-        <img src="https://img.shields.io/badge/Status-In%20Staging-orange?style=flat-square" alt="Status Badge" />
+        <a href="https://jaridtak.lovable.app"><img src="https://img.shields.io/badge/Live-jaridtak.lovable.app-brightgreen?style=flat-square" alt="Live Demo" /></a>
       </p>
 
-Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette (الجريدة الرسمية / SGG)**.
-- **Features**: SGG PDF Scraper, Gemini 1.5 LLM summarization, Split-pane PDF viewer, Web Audio TTS, Economic Impact Matrix, MCP Server integration.
-- **Tech Stack**: TanStack Start, React 18, Supabase PostgreSQL, Google Gemini, MCP Protocol, Tailwind CSS.
+Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette (الجريدة الرسمية / Bulletin Officiel)**.
+- **Features**: SGG PDF crawler, Gemini 2.0 Flash summarization, Gemini text-to-speech, split-pane PDF viewer, Economic Impact Matrix, MCP server integration.
+- **Tech Stack**: TanStack Start, React, TypeScript, Supabase PostgreSQL, Google Gemini, MCP Protocol, Tailwind CSS, shadcn/ui.
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 Dual Portfolio Hub</h3>
@@ -239,9 +241,9 @@ Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette
         <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Live-bosaj.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
       </p>
 
-Modern Dual-Persona Engineer Portfolio platform showcasing AI Engineering, Systems Architecture, and Physics background.
-- **Features**: Dynamic dark mode, glassmorphism, Framer Motion micro-animations, Vercel Edge performance.
-- **Tech Stack**: Next.js / Vite, React 18, TypeScript, Tailwind CSS, Vercel.
+Dual-persona engineer & photographer portfolio: AI engineering, systems architecture, physics background and a curated photography gallery.
+- **Features**: 3D scenes (Three.js / R3F), GSAP + Framer Motion animation, Arabic RTL poetry layer, Gemini AI assistant, admin gallery CMS, PWA, accessibility-tested.
+- **Tech Stack**: Vite, React, Tailwind CSS, Supabase, Cloudinary, Upstash Redis, Vercel Edge, Vitest, Playwright, Storybook.
     </td>
   </tr>
   <tr>
@@ -259,33 +261,35 @@ Autonomous agentic web browser and 360° interactive product inspection platform
     <td width="50%" valign="top">
       <h3 align="center">📑 Compliance Control Plan Generator</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS"><img src="https://img.shields.io/badge/Repo-CheckPlan--Agents-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20CDG%20Capital-grey?style=flat-square" alt="Private Repository" />
+        <a href="https://github.com/CDG-CAPITAL-FINANCE" target="_blank"><img src="https://img.shields.io/badge/Org-CDG--CAPITAL--FINANCE-00D9FF?style=flat-square&logo=github" alt="Organization Badge" /></a>
       </p>
 
-Multi-Agent AI system for automated regulatory ingestion, compliance parsing, and audit control plan synthesis.
-- **Features**: Multi-agent CrewAI orchestration, vector RAG retrieval, automated Excel/PDF report generation.
-- **Tech Stack**: Python, CrewAI, LangChain, Qdrant, FastAPI.
+Multi-agent AI system for regulatory ingestion, compliance rule extraction and audit control plan synthesis (PFA @ CDG Capital).
+- **Features**: LangGraph multi-agent orchestration, OCR parsing of *Règlements de Gestion*, automated styled Excel control plans.
+- **Tech Stack**: Python, LangGraph, LangChain, RapidOCR, Spring Boot 3, Next.js 15, MongoDB, Docker.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔒 Privacy-Preserving Federated Learning</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/federated-learning-loan-approval"><img src="https://img.shields.io/badge/Repo-Federated--Loan-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://github.com/chakorabdellatif/federated-learning-loan-approval"><img src="https://img.shields.io/badge/Repo-Federated--Loan-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://huggingface.co/datasets/bosaj/federated-loan-approval-benchmark"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Benchmark%20Dataset-FFD21E?style=flat-square" alt="HF Dataset" /></a>
       </p>
 
-Decentralized, privacy-preserving machine learning system for banking credit risk evaluation without sharing raw data.
-- **Features**: Flower federated framework, differential privacy, node aggregation, financial risk modeling.
-- **Tech Stack**: PyTorch, Flower, Scikit-learn, Python.
+Decentralized machine learning for bank loan approval: each bank trains locally, only model updates are aggregated, raw client data never leaves the node.
+- **Features**: Federated aggregation across bank nodes, centralized-vs-federated benchmark, Streamlit monitoring dashboard, CI quality gate.
+- **Tech Stack**: Python, XGBoost, Scikit-learn, Streamlit, Plotly, Docker.
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔌 FastMCP Filesystem Server</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/filesystem-mcp-with-FastMCP-server"><img src="https://img.shields.io/badge/Repo-FastMCP--Server-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://github.com/chakorabdellatif/filesystem-mcp-with-FastMCP-server"><img src="https://img.shields.io/badge/Repo-FastMCP--Server-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
       </p>
 
 High-performance Model Context Protocol (MCP) server for deep filesystem inspection, file operations, and agent tooling.
-- **Features**: FastMCP implementation, JSON-RPC protocol compliance, async tool handlers.
+- **Features**: FastMCP implementation, JSON-RPC protocol compliance, async tool handlers, path-traversal defenses.
 - **Tech Stack**: Python, FastMCP, MCP Protocol, Asyncio.
     </td>
   </tr>
@@ -294,53 +298,89 @@ High-performance Model Context Protocol (MCP) server for deep filesystem inspect
       <h3 align="center">🎯 Deep Q-Network Schedule Optimizer</h3>
       <p align="center">
         <a href="https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps"><img src="https://img.shields.io/badge/Repo-DQN--Schedule--Optimizer-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://bosaj.github.io/Assistant-Personnel-pour-la-Gestion-du-Temps/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-brightgreen?style=flat-square&logo=github" alt="Live Demo" /></a>
       </p>
 
-Reinforcement learning engine using Deep Q-Networks (DQN) for complex industrial planning and resource allocation.
-- **Features**: OpenAI Gym environment, experience replay, Q-value approximation, constraint optimization.
-- **Tech Stack**: PyTorch, Python, OpenAI Gym, NumPy.
+Reinforcement learning agent using Deep Q-Networks (DQN) that generates optimized daily schedules under time and priority constraints.
+- **Features**: Custom Gymnasium environment, experience replay, Q-value approximation, reward shaping.
+- **Tech Stack**: PyTorch, Python, Gymnasium, NumPy.
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏛️ ENIAD Academic System (.NET C#)</h3>
+      <h3 align="center">🧠 XAI Model Interpretability Suite</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/csharp-dotnet-enterprise-suite"><img src="https://img.shields.io/badge/Repo-CSharp--Enterprise-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://github.com/Bosaj/xai-model-interpretability-suite"><img src="https://img.shields.io/badge/Repo-XAI--Suite-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://bosaj-xai-model-interpretability-suite.static.hf.space"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Live%20Space-FFD21E?style=flat-square" alt="HF Space" /></a>
       </p>
 
-Enterprise .NET C# academic portal and institutional management platform built for ENIAD university operations.
-- **Features**: Student tracking, course registration, grading workflows, role-based access control.
-- **Tech Stack**: C# .NET, Entity Framework, SQL Server, ASP.NET.
+Explainable AI suite implementing local and global model explainability algorithms, with an interactive Streamlit XAI Explorer.
+- **Features**: Partial Dependence Plots (PDP), Accumulated Local Effects (ALE), KernelSHAP, LIME, Grad-CAM, saliency maps.
+- **Tech Stack**: Python, NumPy, Scikit-Learn, Matplotlib, LIME, SHAP, Streamlit.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚗 KS-Ayoub-Car Enterprise Mobility</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/ks-ayoub-car"><img src="https://img.shields.io/badge/Repo-KS--Ayoub--Car-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Client-grey?style=flat-square" alt="Private Repository" />
+        <a href="https://ks-ayoub-car.vercel.app"><img src="https://img.shields.io/badge/Live-ks--ayoub--car.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
         <img src="https://img.shields.io/badge/Tests-146%20Passed-brightgreen?style=flat-square" alt="Tests" />
       </p>
 
-Fullstack automotive rental and fleet management platform engineered with resilient transaction isolation and authentication.
-- **Features**: JWT auth, dynamic fleet catalog, automated invoicing, real-time booking calendar, 146 unit/integration tests.
-- **Tech Stack**: FastAPI, Next.js 16, React 19, SQLModel, PostgreSQL, Redis, Tailwind CSS v4.
+Trilingual (FR/EN/AR) car rental and fleet management platform with 3D vehicle showcase and resilient transaction isolation.
+- **Features**: JWT auth, dynamic fleet catalog, automated invoicing, real-time booking calendar, R3F 3D scenes, 146 unit/integration tests.
+- **Tech Stack**: FastAPI, Next.js 16, React 19, SQLModel, PostgreSQL (Supabase), Redis, Tailwind CSS v4, Render.
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 XAI Model Interpretability Suite</h3>
+      <h3 align="center">📡 Real-Time Sentiment Analysis on X</h3>
       <p align="center">
-        <a href="https://github.com/Bosaj/xai-model-interpretability-suite"><img src="https://img.shields.io/badge/Repo-XAI--Suite-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
-        <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=flat-square" alt="Coverage" />
+        <a href="https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X"><img src="https://img.shields.io/badge/Repo-Sentiment--X-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+        <a href="https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Live%20Space-FFD21E?style=flat-square" alt="HF Space" /></a>
       </p>
 
-Comprehensive Explainable AI library implementing state-of-the-art local and global model explainability algorithms.
-- **Features**: Partial Dependence Plots (PDP), Accumulated Local Effects (ALE), KernelSHAP, LIME 2D decision boundary sampling.
-- **Tech Stack**: Python, NumPy, Scikit-Learn, Matplotlib, LIME, SHAP.
+Streaming big-data pipeline that classifies the sentiment of posts on X (Twitter) in real time.
+- **Features**: Kafka ingestion, Spark Structured Streaming, transformer-based sentiment model, live dashboard.
+- **Tech Stack**: Python, Apache Kafka, PySpark, RoBERTa, Docker.
     </td>
   </tr>
 </table>
 
+### 🚀 Live Demos
+
+<div align="center">
+
+| Project | Live Link | Platform |
+|---|---|---|
+| 💼 Dual Portfolio Hub | [bosaj.vercel.app](https://bosaj.vercel.app) | Vercel |
+| 📰 Jaridtak (Gazette Digest) | [jaridtak.lovable.app](https://jaridtak.lovable.app) | Lovable + Supabase |
+| 🚗 KS-Ayoub-Car | [ks-ayoub-car.vercel.app](https://ks-ayoub-car.vercel.app) | Vercel + Render |
+| 🎓 ENIAD Assistant | [eniad-assistant-official.web.app](https://eniad-assistant-official.web.app) | Firebase |
+| 🧠 XAI Interpretability Suite | [Hugging Face Space](https://bosaj-xai-model-interpretability-suite.static.hf.space) | Hugging Face |
+| 📡 Real-Time Sentiment on X | [Hugging Face Space](https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x) | Hugging Face |
+| 🐶 VGG16 Dog vs Cat Classifier | [Hugging Face Space](https://huggingface.co/spaces/bosaj/vgg16-transfer-learning-classifier) | Hugging Face |
+| 🩺 Stroke Prediction | [bosaj.github.io/Stroke-Prediction-Project](https://bosaj.github.io/Stroke-Prediction-Project/) | GitHub Pages |
+| 🎯 DQN Schedule Optimizer | [bosaj.github.io/Assistant-Personnel-…](https://bosaj.github.io/Assistant-Personnel-pour-la-Gestion-du-Temps/) | GitHub Pages |
+| 🕹️ Reinforcement Learning Labs | [bosaj.github.io/Reinforcement-Learning-Labs](https://bosaj.github.io/Reinforcement-Learning-Labs/) | GitHub Pages |
+| 🤝 Good Ambassadors Association | [a-a-b-v.netlify.app](https://a-a-b-v.netlify.app/) | Netlify |
+| 🌱 Club Motatawi3 El-Alfia | [club-motatawi3-site-web.vercel.app](https://club-motatawi3-site-web.vercel.app) | Vercel |
+
+</div>
+
+### 🧪 Idea Lab — Open Source in Progress
+
+Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issues and milestones are open — contributions welcome.
+
+| Repository | What it will do |
+|---|---|
+| [`moroccan-law-ai`](https://github.com/Bosaj/moroccan-law-ai) | Source-cited legal Q&A grounded in Moroccan law, in Arabic, Darija and French |
+| [`quran-tarawih-display`](https://github.com/Bosaj/quran-tarawih-display) | Live Qur'an verse display on mosque screens, synced to the imam's recitation |
+| [`rtl-arabic-toolkit`](https://github.com/Bosaj/rtl-arabic-toolkit) | Toolkit + audit CLI that finds and fixes right-to-left layout bugs in web apps |
+| [`darija-money-converter`](https://github.com/Bosaj/darija-money-converter) | Converts Moroccan money slang (rial, franc, doro) to Dirham, with regional presets |
+| [`inbox-bubble-map`](https://github.com/Bosaj/inbox-bubble-map) | Visualizes your inbox as a force-directed graph of senders, then helps you clean up |
+
 <div align="center">
   <br>
   <a href="https://github.com/Bosaj?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_35%2B_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+    <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
   </a>
 </div>
 
@@ -359,7 +399,7 @@ Comprehensive Explainable AI library implementing state-of-the-art local and glo
   </tr>
   <tr>
     <td valign="top">
-      • <b>100% Automated Test Pass Rate</b> across all 35 repositories<br/>
+      • <b>100% Automated Test Pass Rate</b> across all maintained repositories<br/>
       • <b>Multi-Framework Testing</b>: Pytest, Vitest, JUnit/Maven, Gradle, .NET xUnit<br/>
       • Continuous end-to-end and integration regression suites
     </td>
@@ -511,17 +551,17 @@ Comprehensive Explainable AI library implementing state-of-the-art local and glo
 
 | Semester / Milestone | Module / Domain | Featured Repository | Technologies & Highlights |
 |---|---|---|---|
-| 🎓 **PFE (Semestre 10)** | **Enterprise Power Automate ALM & AI Monitoring** | [`GitLab/power-automate-alm`](https://gitlab.com/Bosaj/power-automate-alm) | **Circet Morocco Graduation PFE**: DEV-TEST-PROD ALM Pipelines, FlowLogger Telemetry, Claude AI Diagnostics |
+| 🎓 **PFE (Semestre 10)** | **Enterprise Power Automate ALM & AI Monitoring** | `GitLab/power-automate-alm` *(private, Circet)* | **Circet Morocco Graduation PFE**: DEV-TEST-PROD ALM Pipelines, FlowLogger Telemetry, Claude AI Diagnostics |
 | **Semestre 9** | **Explainable AI (XAI)** | [`Bosaj/xai-model-interpretability-suite`](https://github.com/Bosaj/xai-model-interpretability-suite) | PDP, ALE, KernelSHAP, LIME, Grad-CAM, Saliency Maps |
 | **Semestre 9** | **DevOps & MLOps** | [`Bosaj/DevOpsML`](https://github.com/Bosaj/DevOpsML) | CI/CD Automation, Docker, MLflow, Automated Testing |
-| **Semestre 9** | **NLP & Language Models** | [`Bosaj/LANGUAGE-MODEL`](https://github.com/CDG-CAPITAL-FINANCE/LANGUAGE-MODEL) | Tokenization, Transformers, Fine-Tuning, FastMCP |
+| **Semestre 9** | **NLP & Language Models** | `CDG-CAPITAL-FINANCE/LANGUAGE-MODEL` *(private)* | Tokenization, Transformers, Fine-Tuning, FastMCP |
 | **Semestre 9** | **Big Data Engineering** | [`Bosaj/Real-Time_Sentiment_Analysis_on_X`](https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X) | Apache Kafka, PySpark, Distributed Streaming, RoBERTa |
-| **Semestre 9** | **Advanced AI Workshops** | [`Bosaj/federated-learning-loan-approval`](https://github.com/Bosaj/federated-learning-loan-approval) | Federated Learning, PySyft, Privacy-Preserving ML |
-| 🏛️ **PFA (Semestre 8)** | **Financial Compliance AI Agents (CDG Capital)** | [`Bosaj/CHECK-PLAN-GENERATOR-AGENTS`](https://github.com/Bosaj/CHECK-PLAN-GENERATOR-AGENTS) | **CDG Capital Graduation PFA**: LangGraph Multi-Agent, OCR PDF Parsing, Automated Excel Control Plans |
-| 🏛️ **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`Bosaj/ENIAD-ASSISTANT`](https://github.com/ennajari/ENIAD-ASSISTANT) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
+| **Semestre 9** | **Advanced AI Workshops** | [`chakorabdellatif/federated-learning-loan-approval`](https://github.com/chakorabdellatif/federated-learning-loan-approval) | Federated Learning, XGBoost, Privacy-Preserving ML, Streamlit |
+| 🏛️ **PFA (Semestre 8)** | **Financial Compliance AI Agents (CDG Capital)** | `CDG-CAPITAL-FINANCE/CHECK-PLAN-GENERATOR-AGENTS` *(private)* | **CDG Capital Graduation PFA**: LangGraph Multi-Agent, OCR PDF Parsing, Automated Excel Control Plans |
+| 🏛️ **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`ennajari/ENIAD-ASSISTANT`](https://github.com/ennajari/ENIAD-ASSISTANT) • [live](https://eniad-assistant-official.web.app) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
 | **Semestre 8** | **Knowledge Engineering & Ontologies** | [`Bosaj/semantic-web-knowledge-ontologies`](https://github.com/Bosaj/semantic-web-knowledge-ontologies) | Protégé, OWL 2, RDF, SWRL Rules, SPARQL |
-| **Semestre 8** | **Multi-Agent Systems & Agentic AI** | [`Bosaj/agentic-ai-multi-agent-systems`](https://github.com/Bosaj/agentic-ai-multi-agent-systems) | JADE (Java), FIPA ACL, LangChain, RAG Pipelines |
-| **Semestre 8** | **Deep Reinforcement Learning** | [`Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps`](https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps) | DQN, Gymnasium, Reward Shaping, Policy Gradients |
+| **Semestre 8** | **Multi-Agent Systems & Agentic AI** | `Bosaj/agentic-ai-multi-agent-systems` *(private)* | JADE (Java), FIPA ACL, LangChain, RAG Pipelines |
+| **Semestre 8** | **Deep Reinforcement Learning** | [`Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps`](https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps) • [`Bosaj/Reinforcement-Learning-Labs`](https://github.com/Bosaj/Reinforcement-Learning-Labs) | DQN, Q-learning, SARSA, PPO, Gymnasium, Reward Shaping |
 | **Semestre 7** | **Agile Project Management & ML** | [`Bosaj/agile-scrum-ml-classification-service`](https://github.com/Bosaj/agile-scrum-ml-classification-service) | Scrum Ceremonies, Backlog, Deployable ML Service |
 | **Semestre 7** | **Mobile App Development** | [`Bosaj/native-android-multilingual-suite`](https://github.com/Bosaj/native-android-multilingual-suite) | Android SDK, Java, Multilingual (AR/FR/EN), Material UI |
 | **Semestre 7** | **Machine Learning 1 (ML1)** | [`Bosaj/Stroke-Prediction-Project`](https://github.com/Bosaj/Stroke-Prediction-Project) | Imbalanced Classification, SMOTE, XGBoost, Cross-Validation |
@@ -688,8 +728,8 @@ Comprehensive Explainable AI library implementing state-of-the-art local and glo
 
 </div>
 
-- **Management Team** • Club Motatawi3 El-Alfia • *Apr 2024 – Present* • Activity organization & event logistics
-- **Coordinator** • Good Ambassadors Association, Oujda • *Sep 2023 – Present* • Community development & volunteer supervision
+- **Management Team** • Club Motatawi3 El-Alfia • *Apr 2024 – Present* • Activity organization & event logistics • built the club's [trilingual website](https://club-motatawi3-site-web.vercel.app)
+- **Coordinator** • Good Ambassadors Association, Oujda • *Sep 2023 – Present* • Community development & volunteer supervision • built the association's [trilingual website](https://a-a-b-v.netlify.app/) ([`les-ambassadeurs-web`](https://github.com/Bosaj/les-ambassadeurs-web))
 - **Humanitarian Coordinator** • Marrakech Earthquake Relief • *Sep 2023* • Organized and delivered critical donations to affected mountain villages
 - **Awareness Coordinator** • Regional Blood Transfusion Center (CRTS), Oujda • *Aug 2023* • Led regional blood donation campaigns
 - **Volunteer** • Ministry of Youth, Culture & Communication • *Aug 2023* • Social & cultural event support
