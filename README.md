@@ -29,18 +29,6 @@
  <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Instagram-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<!-- Quick Navigation -->
-<p align="center">
- <a href="#about-me">About</a> &nbsp;•&nbsp;
- <a href="#professional-experience">Experience</a> &nbsp;•&nbsp;
- <a href="#featured-projects--engineering-showcase">Projects</a> &nbsp;•&nbsp;
- <a href="#live-demos">Live Demos</a> &nbsp;•&nbsp;
- <a href="#tech-stack--engineering-toolkit">Stack</a> &nbsp;•&nbsp;
- <a href="#education">Education</a> &nbsp;•&nbsp;
- <a href="#professional-certifications">Certifications</a> &nbsp;•&nbsp;
- <a href="#lets-connect--collaborate">Contact</a>
-</p>
-
 </div>
 
 <!-- Gradient Divider -->
