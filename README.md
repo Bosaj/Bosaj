@@ -46,7 +46,7 @@
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f464.svg" width="22" height="22" /> About Me
+## About Me &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f464.svg" width="20" height="20" align="top" alt="" />
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding">
 
@@ -116,7 +116,7 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bc.svg" width="22" height="22" /> Professional Experience
+## Professional Experience &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bc.svg" width="20" height="20" align="top" alt="" />
 
 <details open>
 <summary><b>AI & Automation Engineer • Circet Morocco</b> <i>Current Role</i></summary>
@@ -230,7 +230,7 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="22" height="22" /> Featured Projects & Engineering Showcase
+## Featured Projects & Engineering Showcase &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="20" height="20" align="top" alt="" />
 
 <table width="100%">
  <tr>
@@ -398,7 +398,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e1.svg" width="22" height="22" /> Engineering Rigor, Testing & Quality Standards
+## Engineering Rigor, Testing & Quality Standards &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e1.svg" width="20" height="20" align="top" alt="" />
 
 <div align="center">
 
@@ -429,7 +429,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 
 </div>
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="22" height="22" /> Tech Stack & Engineering Toolkit
+## Tech Stack & Engineering Toolkit &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="20" height="20" align="top" alt="" />
 
 <div align="center">
 
@@ -446,7 +446,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="22" height="22" /> GitHub Analytics
+## GitHub Analytics &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="20" height="20" align="top" alt="" />
 
 <div align="center">
 
@@ -476,7 +476,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="22" height="22" /> Education
+## Education &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="20" height="20" align="top" alt="" />
 
 <table>
  <tr>
@@ -545,7 +545,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4dc.svg" width="22" height="22" /> Professional Certifications
+## Professional Certifications &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4dc.svg" width="20" height="20" align="top" alt="" />
 
 <table>
  <tr>
@@ -595,7 +595,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" width="22" height="22" /> GitHub Achievements & Cloud Architecture Badges
+## GitHub Achievements & Cloud Architecture Badges &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" width="20" height="20" align="top" alt="" />
 
 <div align="center">
 
@@ -691,7 +691,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="22" height="22" /> Community & Volunteering
+## Community & Volunteering &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="20" height="20" align="top" alt="" />
 
 <div align="center">
 
@@ -708,7 +708,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f8.svg" width="22" height="22" /> Beyond the Code
+## Beyond the Code &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f8.svg" width="20" height="20" align="top" alt="" />
 
 <div align="center">
 
@@ -722,7 +722,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4eb.svg" width="22" height="22" /> Let's Connect & Collaborate
+## Let's Connect & Collaborate &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4eb.svg" width="20" height="20" align="top" alt="" />
 
 <div align="center">
 
