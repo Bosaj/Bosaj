@@ -5,40 +5,40 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI%20and%20Automation%20Engineer%20%40%20Circet%20Morocco%3BFrom%20Plasma%20Physics%20to%20Production%20AI%3BMachine%20Learning%20%7C%20Agentic%20RAG%20%7C%20Power%20Automate%20ALM%3BBuilding%20Enterprise%20Systems%20That%20Survive%20the%20Real%20World%3BReasoning%20from%20first%20principles%2C%20one%20system%20at%20a%20time" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI%20and%20Automation%20Engineer%20%40%20Circet%20Morocco%3BFrom%20Plasma%20Physics%20to%20Production%20AI%3BMachine%20Learning%20%7C%20Agentic%20RAG%20%7C%20Power%20Automate%20ALM%3BBuilding%20Enterprise%20Systems%20That%20Survive%20the%20Real%20World%3BReasoning%20from%20first%20principles%2C%20one%20system%20at%20a%20time" alt="Typing SVG" />
 </p>
 
 <!-- Profile Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bosaj&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" /></a>
-  <img src="https://img.shields.io/badge/Role-AI%20and%20Automation%20Engineer-00d9ff?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/Company-Circet%20Morocco-FF6B00?style=flat-square" alt="Company" />
-  <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-success?style=flat-square" alt="Location" />
+ <img src="https://komarev.com/ghpvc/?username=Bosaj&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
+ <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" /></a>
+ <img src="https://img.shields.io/badge/Role-AI%20and%20Automation%20Engineer-00d9ff?style=flat-square" alt="Role" />
+ <img src="https://img.shields.io/badge/Company-Circet%20Morocco-FF6B00?style=flat-square" alt="Company" />
+ <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-success?style=flat-square" alt="Location" />
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow%20%40Bosaj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" /></a>&nbsp;
-  <a href="https://gitlab.com/Bosaj" target="_blank"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
-  <a href="https://huggingface.co/bosaj" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-Follow-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>&nbsp;
+ <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+ <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+ <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+ <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow%20%40Bosaj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" /></a>&nbsp;
+ <a href="https://gitlab.com/Bosaj" target="_blank"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
+ <a href="https://huggingface.co/bosaj" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-Follow-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>&nbsp;
 
-  <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Instagram-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+ <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Instagram-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <!-- Quick Navigation -->
 <p align="center">
-  <a href="#-about-me">About</a> &nbsp;•&nbsp;
-  <a href="#-professional-experience">Experience</a> &nbsp;•&nbsp;
-  <a href="#-featured-projects--engineering-showcase">Projects</a> &nbsp;•&nbsp;
-  <a href="#-live-demos">Live Demos</a> &nbsp;•&nbsp;
-  <a href="#-tech-stack--engineering-toolkit">Stack</a> &nbsp;•&nbsp;
-  <a href="#-education">Education</a> &nbsp;•&nbsp;
-  <a href="#-professional-certifications">Certifications</a> &nbsp;•&nbsp;
-  <a href="#-lets-connect--collaborate">Contact</a>
+ <a href="#about-me">About</a> &nbsp;•&nbsp;
+ <a href="#professional-experience">Experience</a> &nbsp;•&nbsp;
+ <a href="#featured-projects--engineering-showcase">Projects</a> &nbsp;•&nbsp;
+ <a href="#live-demos">Live Demos</a> &nbsp;•&nbsp;
+ <a href="#tech-stack--engineering-toolkit">Stack</a> &nbsp;•&nbsp;
+ <a href="#education">Education</a> &nbsp;•&nbsp;
+ <a href="#professional-certifications">Certifications</a> &nbsp;•&nbsp;
+ <a href="#lets-connect--collaborate">Contact</a>
 </p>
 
 </div>
@@ -46,7 +46,7 @@
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 👤 About Me
+## About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding">
 
@@ -58,7 +58,7 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
 
 <br clear="right"/>
 
-### 🛣️ The Journey
+### The Journey
 
 ```mermaid
 graph LR
@@ -73,58 +73,58 @@ graph LR
     style E fill:#FF6B00,stroke:#fff,color:#fff
 ```
 
-### 📌 Quick Highlights
+### Quick Highlights
 
 <table>
-  <tr>
-    <td>🏢 <b>Current Role</b></td>
-    <td><b>AI & Automation Engineer @ Circet Morocco</b> (Full-time, Sep 01, 2026 – Present)</td>
-  </tr>
-  <tr>
-    <td>🎓 <b>Education</b></td>
-    <td><b>State Engineer's Degree in Artificial Intelligence</b> — ENIAD (Very Good Honors) 🎓</td>
-  </tr>
-  <tr>
-    <td>🎓 <b>PFE (Projet de Fin d'Études)</b></td>
-    <td><b>Enterprise Power Automate ALM & AI Monitoring @ Circet Morocco</b> (Mar – Aug 2026) ➔ Full-time Engineer</td>
-  </tr>
-  <tr>
-    <td>🏛️ <b>PFA (Projet de Fin d'Année)</b></td>
-    <td><b>AI Multi-Agent Financial Compliance & Control Plans @ CDG Capital</b> (Jul – Sep 2025)</td>
-  </tr>
-  <tr>
-    <td>🚀 <b>Core Specializations</b></td>
-    <td>Enterprise AI, Agentic Workflows, Power Automate ALM, RAG Architecture, Computer Vision</td>
-  </tr>
-  <tr>
-    <td>🧪 <b>Engineering Standards</b></td>
-    <td><b>100% Automated Test Pass Rate</b> across all maintained repositories • Strict Typing • Bandit Security Auditing • SLSA Build Attestations</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Engineering Edge</b></td>
-    <td>First-principles reasoning from physics applied to scalable, fault-tolerant AI production systems</td>
-  </tr>
-  <tr>
-    <td>🗣️ <b>Languages</b></td>
-    <td>Arabic (Native) 🇲🇦 • English (B2) 🇬🇧 • French (B1) 🇫🇷</td>
-  </tr>
-  <tr>
-    <td>📫 <b>Contact</b></td>
-    <td>+212 634960373 • <a href="mailto:oussousselhadji@gmail.com">oussousselhadji@gmail.com</a></td>
-  </tr>
+ <tr>
+ <td><b>Current Role</b></td>
+ <td><b>AI & Automation Engineer @ Circet Morocco</b> (Full-time, Sep 01, 2026 – Present)</td>
+ </tr>
+ <tr>
+ <td><b>Education</b></td>
+ <td><b>State Engineer's Degree in Artificial Intelligence</b> — ENIAD (Very Good Honors) </td>
+ </tr>
+ <tr>
+ <td><b>PFE (Projet de Fin d'Études)</b></td>
+ <td><b>Enterprise Power Automate ALM & AI Monitoring @ Circet Morocco</b> (Mar – Aug 2026) &rarr; Full-time Engineer</td>
+ </tr>
+ <tr>
+ <td><b>PFA (Projet de Fin d'Année)</b></td>
+ <td><b>AI Multi-Agent Financial Compliance & Control Plans @ CDG Capital</b> (Jul – Sep 2025)</td>
+ </tr>
+ <tr>
+ <td><b>Core Specializations</b></td>
+ <td>Enterprise AI, Agentic Workflows, Power Automate ALM, RAG Architecture, Computer Vision</td>
+ </tr>
+ <tr>
+ <td><b>Engineering Standards</b></td>
+ <td><b>100% Automated Test Pass Rate</b> across all maintained repositories • Strict Typing • Bandit Security Auditing • SLSA Build Attestations</td>
+ </tr>
+ <tr>
+ <td><b>Engineering Edge</b></td>
+ <td>First-principles reasoning from physics applied to scalable, fault-tolerant AI production systems</td>
+ </tr>
+ <tr>
+ <td><b>Languages</b></td>
+ <td>Arabic (Native) • English (B2) • French (B1) </td>
+ </tr>
+ <tr>
+ <td><b>Contact</b></td>
+ <td>+212 634960373 • <a href="mailto:oussousselhadji@gmail.com">oussousselhadji@gmail.com</a></td>
+ </tr>
 </table>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 💼 Professional Experience
+## Professional Experience
 
 <details open>
-<summary><b>🤖 AI & Automation Engineer • Circet Morocco</b> &nbsp;<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> <i>Current Role</i></summary>
+<summary><b>AI & Automation Engineer • Circet Morocco</b> <i>Current Role</i></summary>
 
 <br>
 
-📅 **September 01, 2026 – Present** | 📍 Casablanca, Morocco (On-site / Hybrid)
+ **September 01, 2026 – Present** | Casablanca, Morocco (On-site / Hybrid)
 
 **Scope & Responsibilities:**
 - Transitioned into full-time **AI & Automation Engineer** following successful completion of PFE graduation project.
@@ -137,16 +137,16 @@ graph LR
 </details>
 
 <details open>
-<summary><b>🎓 AI & Automation Engineering Intern (PFE) • Circet Morocco</b></summary>
+<summary><b>AI & Automation Engineering Intern (PFE) • Circet Morocco</b></summary>
 
 <br>
 
-📅 **March 04, 2026 – August 31, 2026** (6 Months) | 📍 Casablanca, Morocco
+ **March 04, 2026 – August 31, 2026** (6 Months) | Casablanca, Morocco
 
 **Project:** Enterprise Application Lifecycle Management (ALM) Framework & AI Monitoring for Low-Code Workflows.
 
 **Key Achievements & Deliverables:**
-- Designed and engineered a complete **DEV ➔ TEST ➔ PROD** ALM pipeline for Power Automate flows with strict environment isolation.
+- Designed and engineered a complete **DEV TEST PROD** ALM pipeline for Power Automate flows with strict environment isolation.
 - Built automated **CI/CD** pipelines on GitLab coupled with robust **PowerShell** deployment scripts for package management.
 - Implemented a centralized **FlowLogger** telemetry layer streaming execution metrics into SharePoint for real-time observability.
 - Integrated an **AI Diagnostic Engine** (Claude API) to analyze flow execution logs, explain errors in natural language, and flag anomalies.
@@ -157,11 +157,11 @@ graph LR
 </details>
 
 <details open>
-<summary><b>🏦 Projet de Fin d'Année (PFA) • CDG Capital — AI & Compliance Engineering</b> &nbsp;<g-emoji class="g-emoji" alias="mortarboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji></summary>
+<summary><b>Projet de Fin d'Année (PFA) • CDG Capital — AI & Compliance Engineering</b></summary>
 
 <br>
 
-📅 **July 2025 – September 2025** | 📍 Rabat, Morocco (Hybrid)
+ **July 2025 – September 2025** | Rabat, Morocco (Hybrid)
 
 **Academic Milestone:** Official **Projet de Fin d'Année (PFA)** for the State Engineering Degree in Artificial Intelligence & Digital Systems (**ENIAD Berkane**) in partnership with **CDG Capital**.
 
@@ -180,11 +180,11 @@ graph LR
 </details>
 
 <details>
-<summary><b>🤖 AI Developer Intern • Teknologiate</b></summary>
+<summary><b>AI Developer Intern • Teknologiate</b></summary>
 
 <br>
 
-📅 **July 2025** | 📍 Casablanca, Morocco (Remote)
+ **July 2025** | Casablanca, Morocco (Remote)
 
 **Project:** Intelligent AI Avatar & Interview System for HR Recruitment.
 
@@ -197,11 +197,11 @@ graph LR
 </details>
 
 <details>
-<summary><b>📊 Machine Learning Intern • Prodigy InfoTech</b></summary>
+<summary><b>Machine Learning Intern • Prodigy InfoTech</b></summary>
 
 <br>
 
-📅 **November 2024 – December 2024** | 📍 Remote
+ **November 2024 – December 2024** | Remote
 
 **Project:** Predictive Medical Diagnostic Model for Cardiovascular Risk.
 
@@ -218,11 +218,11 @@ graph LR
 </details>
 
 <details>
-<summary><b>🏃 Sport Leader • Decathlon Morocco</b></summary>
+<summary><b>Sport Leader • Decathlon Morocco</b></summary>
 
 <br>
 
-📅 **August 2024 – October 2024** | 📍 Oujda, Morocco
+ **August 2024 – October 2024** | Oujda, Morocco
 
 - Customer advisory, team leadership, sports merchandising, and logistics management under high volume.
 
@@ -231,153 +231,153 @@ graph LR
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 🛠️ Featured Projects & Engineering Showcase
+## Featured Projects & Engineering Showcase
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📰 Jaridtak / Gazette Digest</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Commercial-grey?style=flat-square" alt="Private Repository" />
-        <a href="https://jaridtak.lovable.app"><img src="https://img.shields.io/badge/Live-jaridtak.lovable.app-brightgreen?style=flat-square" alt="Live Demo" /></a>
-      </p>
+ <tr>
+ <td width="50%" valign="top">
+ <h3 align="center"> Jaridtak / Gazette Digest</h3>
+ <p align="center">
+ <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Commercial-grey?style=flat-square" alt="Private Repository" />
+ <a href="https://jaridtak.lovable.app"><img src="https://img.shields.io/badge/Live-jaridtak.lovable.app-brightgreen?style=flat-square" alt="Live Demo" /></a>
+ </p>
 
 Automated Legal Intelligence & AI Summarizer for the **Moroccan Official Gazette (الجريدة الرسمية / Bulletin Officiel)**.
 - **Features**: SGG PDF crawler, Gemini 2.0 Flash summarization, Gemini text-to-speech, split-pane PDF viewer, Economic Impact Matrix, MCP server integration.
 - **Tech Stack**: TanStack Start, React, TypeScript, Supabase PostgreSQL, Google Gemini, MCP Protocol, Tailwind CSS, shadcn/ui.
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Dual Portfolio Hub</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Proprietary-grey?style=flat-square" alt="Private Repository" />
-        <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Live-bosaj.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
-      </p>
+ </td>
+ <td width="50%" valign="top">
+ <h3 align="center"> Dual Portfolio Hub</h3>
+ <p align="center">
+ <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Proprietary-grey?style=flat-square" alt="Private Repository" />
+ <a href="https://bosaj.vercel.app"><img src="https://img.shields.io/badge/Live-bosaj.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+ </p>
 
 Dual-persona engineer & photographer portfolio: AI engineering, systems architecture, physics background and a curated photography gallery.
 - **Features**: 3D scenes (Three.js / R3F), GSAP + Framer Motion animation, Arabic RTL poetry layer, Gemini AI assistant, admin gallery CMS, PWA, accessibility-tested.
 - **Tech Stack**: Vite, React, Tailwind CSS, Supabase, Cloudinary, Upstash Redis, Vercel Edge, Vitest, Playwright, Storybook.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 360° AI Viewer with WebRover</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Code-Private%20Collaboration-orange?style=flat-square" alt="Private Collab" />
-        <a href="https://github.com/ennajari" target="_blank"><img src="https://img.shields.io/badge/Collab-%40ennajari-FF6B00?style=flat-square&logo=github" alt="Collab Badge" /></a>
-      </p>
+ </td>
+ </tr>
+ <tr>
+ <td width="50%" valign="top">
+ <h3 align="center"> 360° AI Viewer with WebRover</h3>
+ <p align="center">
+ <img src="https://img.shields.io/badge/Code-Private%20Collaboration-orange?style=flat-square" alt="Private Collab" />
+ <a href="https://github.com/ennajari" target="_blank"><img src="https://img.shields.io/badge/Collab-%40ennajari-FF6B00?style=flat-square&logo=github" alt="Collab Badge" /></a>
+ </p>
 
 Autonomous agentic web browser and 360° interactive product inspection platform powered by vision LLMs and FastMCP.
 - **Features**: Autonomous visual navigation, multi-angle product extraction, FastMCP server tools.
 - **Tech Stack**: Python, FastMCP, WebRover, Computer Vision, React.
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📑 Compliance Control Plan Generator</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20CDG%20Capital-grey?style=flat-square" alt="Private Repository" />
-        <a href="https://github.com/CDG-CAPITAL-FINANCE" target="_blank"><img src="https://img.shields.io/badge/Org-CDG--CAPITAL--FINANCE-00D9FF?style=flat-square&logo=github" alt="Organization Badge" /></a>
-      </p>
+ </td>
+ <td width="50%" valign="top">
+ <h3 align="center"> Compliance Control Plan Generator</h3>
+ <p align="center">
+ <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20CDG%20Capital-grey?style=flat-square" alt="Private Repository" />
+ <a href="https://github.com/CDG-CAPITAL-FINANCE" target="_blank"><img src="https://img.shields.io/badge/Org-CDG--CAPITAL--FINANCE-00D9FF?style=flat-square&logo=github" alt="Organization Badge" /></a>
+ </p>
 
 Multi-agent AI system for regulatory ingestion, compliance rule extraction and audit control plan synthesis (PFA @ CDG Capital).
 - **Features**: LangGraph multi-agent orchestration, OCR parsing of *Règlements de Gestion*, automated styled Excel control plans.
 - **Tech Stack**: Python, LangGraph, LangChain, RapidOCR, Spring Boot 3, Next.js 15, MongoDB, Docker.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔒 Privacy-Preserving Federated Learning</h3>
-      <p align="center">
-        <a href="https://github.com/chakorabdellatif/federated-learning-loan-approval"><img src="https://img.shields.io/badge/Repo-Federated--Loan-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
-        <a href="https://huggingface.co/datasets/bosaj/federated-loan-approval-benchmark"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Benchmark%20Dataset-FFD21E?style=flat-square" alt="HF Dataset" /></a>
-      </p>
+ </td>
+ </tr>
+ <tr>
+ <td width="50%" valign="top">
+ <h3 align="center"> Privacy-Preserving Federated Learning</h3>
+ <p align="center">
+ <a href="https://github.com/chakorabdellatif/federated-learning-loan-approval"><img src="https://img.shields.io/badge/Repo-Federated--Loan-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+ <a href="https://huggingface.co/datasets/bosaj/federated-loan-approval-benchmark"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Benchmark%20Dataset-FFD21E?style=flat-square" alt="HF Dataset" /></a>
+ </p>
 
 Decentralized machine learning for bank loan approval: each bank trains locally, only model updates are aggregated, raw client data never leaves the node.
 - **Features**: Federated aggregation across bank nodes, centralized-vs-federated benchmark, Streamlit monitoring dashboard, CI quality gate.
 - **Tech Stack**: Python, XGBoost, Scikit-learn, Streamlit, Plotly, Docker.
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔌 FastMCP Filesystem Server</h3>
-      <p align="center">
-        <a href="https://github.com/chakorabdellatif/filesystem-mcp-with-FastMCP-server"><img src="https://img.shields.io/badge/Repo-FastMCP--Server-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
-      </p>
+ </td>
+ <td width="50%" valign="top">
+ <h3 align="center"> FastMCP Filesystem Server</h3>
+ <p align="center">
+ <a href="https://github.com/chakorabdellatif/filesystem-mcp-with-FastMCP-server"><img src="https://img.shields.io/badge/Repo-FastMCP--Server-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+ </p>
 
 High-performance Model Context Protocol (MCP) server for deep filesystem inspection, file operations, and agent tooling.
 - **Features**: FastMCP implementation, JSON-RPC protocol compliance, async tool handlers, path-traversal defenses.
 - **Tech Stack**: Python, FastMCP, MCP Protocol, Asyncio.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 Deep Q-Network Schedule Optimizer</h3>
-      <p align="center">
-        <a href="https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps"><img src="https://img.shields.io/badge/Repo-DQN--Schedule--Optimizer-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
-        <a href="https://bosaj.github.io/Assistant-Personnel-pour-la-Gestion-du-Temps/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-brightgreen?style=flat-square&logo=github" alt="Live Demo" /></a>
-      </p>
+ </td>
+ </tr>
+ <tr>
+ <td width="50%" valign="top">
+ <h3 align="center"> Deep Q-Network Schedule Optimizer</h3>
+ <p align="center">
+ <a href="https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps"><img src="https://img.shields.io/badge/Repo-DQN--Schedule--Optimizer-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+ <a href="https://bosaj.github.io/Assistant-Personnel-pour-la-Gestion-du-Temps/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-brightgreen?style=flat-square&logo=github" alt="Live Demo" /></a>
+ </p>
 
 Reinforcement learning agent using Deep Q-Networks (DQN) that generates optimized daily schedules under time and priority constraints.
 - **Features**: Custom Gymnasium environment, experience replay, Q-value approximation, reward shaping.
 - **Tech Stack**: PyTorch, Python, Gymnasium, NumPy.
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 XAI Model Interpretability Suite</h3>
-      <p align="center">
-        <a href="https://github.com/Bosaj/xai-model-interpretability-suite"><img src="https://img.shields.io/badge/Repo-XAI--Suite-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
-        <a href="https://bosaj-xai-model-interpretability-suite.static.hf.space"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Live%20Space-FFD21E?style=flat-square" alt="HF Space" /></a>
-      </p>
+ </td>
+ <td width="50%" valign="top">
+ <h3 align="center"> XAI Model Interpretability Suite</h3>
+ <p align="center">
+ <a href="https://github.com/Bosaj/xai-model-interpretability-suite"><img src="https://img.shields.io/badge/Repo-XAI--Suite-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+ <a href="https://bosaj-xai-model-interpretability-suite.static.hf.space"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Live%20Space-FFD21E?style=flat-square" alt="HF Space" /></a>
+ </p>
 
 Explainable AI suite implementing local and global model explainability algorithms, with an interactive Streamlit XAI Explorer.
 - **Features**: Partial Dependence Plots (PDP), Accumulated Local Effects (ALE), KernelSHAP, LIME, Grad-CAM, saliency maps.
 - **Tech Stack**: Python, NumPy, Scikit-Learn, Matplotlib, LIME, SHAP, Streamlit.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 KS-Ayoub-Car Enterprise Mobility</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Client-grey?style=flat-square" alt="Private Repository" />
-        <a href="https://ks-ayoub-car.vercel.app"><img src="https://img.shields.io/badge/Live-ks--ayoub--car.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
-        <img src="https://img.shields.io/badge/Tests-146%20Passed-brightgreen?style=flat-square" alt="Tests" />
-      </p>
+ </td>
+ </tr>
+ <tr>
+ <td width="50%" valign="top">
+ <h3 align="center"> KS-Ayoub-Car Enterprise Mobility</h3>
+ <p align="center">
+ <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Client-grey?style=flat-square" alt="Private Repository" />
+ <a href="https://ks-ayoub-car.vercel.app"><img src="https://img.shields.io/badge/Live-ks--ayoub--car.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+ <img src="https://img.shields.io/badge/Tests-146%20Passed-brightgreen?style=flat-square" alt="Tests" />
+ </p>
 
 Trilingual (FR/EN/AR) car rental and fleet management platform with 3D vehicle showcase and resilient transaction isolation.
 - **Features**: JWT auth, dynamic fleet catalog, automated invoicing, real-time booking calendar, R3F 3D scenes, 146 unit/integration tests.
 - **Tech Stack**: FastAPI, Next.js 16, React 19, SQLModel, PostgreSQL (Supabase), Redis, Tailwind CSS v4, Render.
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📡 Real-Time Sentiment Analysis on X</h3>
-      <p align="center">
-        <a href="https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X"><img src="https://img.shields.io/badge/Repo-Sentiment--X-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
-        <a href="https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Live%20Space-FFD21E?style=flat-square" alt="HF Space" /></a>
-      </p>
+ </td>
+ <td width="50%" valign="top">
+ <h3 align="center"> Real-Time Sentiment Analysis on X</h3>
+ <p align="center">
+ <a href="https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X"><img src="https://img.shields.io/badge/Repo-Sentiment--X-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+ <a href="https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Live%20Space-FFD21E?style=flat-square" alt="HF Space" /></a>
+ </p>
 
 Streaming big-data pipeline that classifies the sentiment of posts on X (Twitter) in real time.
 - **Features**: Kafka ingestion, Spark Structured Streaming, transformer-based sentiment model, live dashboard.
 - **Tech Stack**: Python, Apache Kafka, PySpark, RoBERTa, Docker.
-    </td>
-  </tr>
+ </td>
+ </tr>
 </table>
 
-### 🚀 Live Demos
+### Live Demos
 
 <div align="center">
 
 | Project | Live Link | Platform |
 |---|---|---|
-| 💼 Dual Portfolio Hub | [bosaj.vercel.app](https://bosaj.vercel.app) | Vercel |
-| 📰 Jaridtak (Gazette Digest) | [jaridtak.lovable.app](https://jaridtak.lovable.app) | Lovable + Supabase |
-| 🚗 KS-Ayoub-Car | [ks-ayoub-car.vercel.app](https://ks-ayoub-car.vercel.app) | Vercel + Render |
-| 🎓 ENIAD Assistant | [eniad-assistant-official.web.app](https://eniad-assistant-official.web.app) | Firebase |
-| 🧠 XAI Interpretability Suite | [Hugging Face Space](https://bosaj-xai-model-interpretability-suite.static.hf.space) | Hugging Face |
-| 📡 Real-Time Sentiment on X | [Hugging Face Space](https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x) | Hugging Face |
-| 🐶 VGG16 Dog vs Cat Classifier | [Hugging Face Space](https://huggingface.co/spaces/bosaj/vgg16-transfer-learning-classifier) | Hugging Face |
-| 🩺 Stroke Prediction | [bosaj.github.io/Stroke-Prediction-Project](https://bosaj.github.io/Stroke-Prediction-Project/) | GitHub Pages |
-| 🎯 DQN Schedule Optimizer | [bosaj.github.io/Assistant-Personnel-…](https://bosaj.github.io/Assistant-Personnel-pour-la-Gestion-du-Temps/) | GitHub Pages |
-| 🕹️ Reinforcement Learning Labs | [bosaj.github.io/Reinforcement-Learning-Labs](https://bosaj.github.io/Reinforcement-Learning-Labs/) | GitHub Pages |
-| 🤝 Good Ambassadors Association | [a-a-b-v.netlify.app](https://a-a-b-v.netlify.app/) | Netlify |
-| 🌱 Club Motatawi3 El-Alfia | [club-motatawi3-site-web.vercel.app](https://club-motatawi3-site-web.vercel.app) | Vercel |
+| Dual Portfolio Hub | [bosaj.vercel.app](https://bosaj.vercel.app) | Vercel |
+| Jaridtak (Gazette Digest) | [jaridtak.lovable.app](https://jaridtak.lovable.app) | Lovable + Supabase |
+| KS-Ayoub-Car | [ks-ayoub-car.vercel.app](https://ks-ayoub-car.vercel.app) | Vercel + Render |
+| ENIAD Assistant | [eniad-assistant-official.web.app](https://eniad-assistant-official.web.app) | Firebase |
+| XAI Interpretability Suite | [Hugging Face Space](https://bosaj-xai-model-interpretability-suite.static.hf.space) | Hugging Face |
+| Real-Time Sentiment on X | [Hugging Face Space](https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x) | Hugging Face |
+| VGG16 Dog vs Cat Classifier | [Hugging Face Space](https://huggingface.co/spaces/bosaj/vgg16-transfer-learning-classifier) | Hugging Face |
+| Stroke Prediction | [bosaj.github.io/Stroke-Prediction-Project](https://bosaj.github.io/Stroke-Prediction-Project/) | GitHub Pages |
+| DQN Schedule Optimizer | [bosaj.github.io/Assistant-Personnel-…](https://bosaj.github.io/Assistant-Personnel-pour-la-Gestion-du-Temps/) | GitHub Pages |
+| Reinforcement Learning Labs | [bosaj.github.io/Reinforcement-Learning-Labs](https://bosaj.github.io/Reinforcement-Learning-Labs/) | GitHub Pages |
+| Good Ambassadors Association | [a-a-b-v.netlify.app](https://a-a-b-v.netlify.app/) | Netlify |
+| Club Motatawi3 El-Alfia | [club-motatawi3-site-web.vercel.app](https://club-motatawi3-site-web.vercel.app) | Vercel |
 
 </div>
 
-### 🧪 Idea Lab — Open Source in Progress
+### Idea Lab — Open Source in Progress
 
 Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issues and milestones are open — contributions welcome.
 
@@ -390,113 +390,73 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 | [`inbox-bubble-map`](https://github.com/Bosaj/inbox-bubble-map) | Visualizes your inbox as a force-directed graph of senders, then helps you clean up |
 
 <div align="center">
-  <br>
-  <a href="https://github.com/Bosaj?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
-  </a>
+ <br>
+ <a href="https://github.com/Bosaj?tab=repositories" target="_blank">
+ <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+ </a>
 </div>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 🛡️ Engineering Rigor, Testing & Quality Standards
+## Engineering Rigor, Testing & Quality Standards
 
 <div align="center">
 
 <table>
-  <tr>
-    <th width="33%">🧪 Verification & Testing</th>
-    <th width="33%">📐 Code Health & Type Safety</th>
-    <th width="33%">🔒 Security & Architecture</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      • <b>100% Automated Test Pass Rate</b> across all maintained repositories<br/>
-      • <b>Multi-Framework Testing</b>: Pytest, Vitest, JUnit/Maven, Gradle, .NET xUnit<br/>
-      • Continuous end-to-end and integration regression suites
-    </td>
-    <td valign="top">
-      • Strict typing enforcement via <b>Mypy</b> & <b>TypeScript Strict Mode</b><br/>
-      • Pydantic v2 runtime data contract schemas<br/>
-      • Automated linting and formatting via <b>Ruff</b> and <b>Prettier</b>
-    </td>
-    <td valign="top">
-      • Automated vulnerability auditing with <b>Bandit</b> & CodeQL<br/>
-      • <b>Path Traversal Defenses</b> in FastMCP filesystem servers<br/>
-      • Strict environment isolation & zero-hardcoded secrets policy
-    </td>
-  </tr>
+ <tr>
+ <th width="33%"> Verification & Testing</th>
+ <th width="33%"> Code Health & Type Safety</th>
+ <th width="33%"> Security & Architecture</th>
+ </tr>
+ <tr>
+ <td valign="top">
+ • <b>100% Automated Test Pass Rate</b> across all maintained repositories<br/>
+ • <b>Multi-Framework Testing</b>: Pytest, Vitest, JUnit/Maven, Gradle, .NET xUnit<br/>
+ • Continuous end-to-end and integration regression suites
+ </td>
+ <td valign="top">
+ • Strict typing enforcement via <b>Mypy</b> & <b>TypeScript Strict Mode</b><br/>
+ • Pydantic v2 runtime data contract schemas<br/>
+ • Automated linting and formatting via <b>Ruff</b> and <b>Prettier</b>
+ </td>
+ <td valign="top">
+ • Automated vulnerability auditing with <b>Bandit</b> & CodeQL<br/>
+ • <b>Path Traversal Defenses</b> in FastMCP filesystem servers<br/>
+ • Strict environment isolation & zero-hardcoded secrets policy
+ </td>
+ </tr>
 </table>
 
 </div>
 
-## 💻 Tech Stack & Engineering Toolkit
+## Tech Stack & Engineering Toolkit
 
 <div align="center">
 
-### ⚙️ Programming Languages
+### Core Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C# .NET](https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+[![skills](https://skillicons.dev/icons?i=py,ts,cs,cpp,java,mysql,pytorch,tensorflow,sklearn,fastapi,spring,react,nextjs,tailwind,vite,threejs,supabase,postgres,docker,githubactions,git,gitlab,vercel&perline=12)](https://skillicons.dev)
 
-### 🤖 AI / ML, LLMs & Data Science
+### Specialized & Enterprise Tooling
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-
-### 🔄 Automation & Power Platform
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-
-### 🌐 Web & Databases
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧪 Testing, Quality & Cloud MLOps
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastMCP](https://img.shields.io/badge/FastMCP-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white)
+`Power Automate` &nbsp; `Power Apps` &nbsp; `Power BI` &nbsp; `SharePoint` &nbsp; `PowerShell` &nbsp; `GitLab CI/CD` &nbsp; `LangChain` &nbsp; `CrewAI` &nbsp; `Hugging Face` &nbsp; `Qdrant` &nbsp; `FastMCP` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Pytest` &nbsp; `Vitest` &nbsp; `MLflow`
 
 </div>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
 <img width="49%" height="195px"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bosaj&theme=tokyonight"
-  alt="GitHub Stats" />
+ src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bosaj&theme=tokyonight"
+ alt="GitHub Stats" />
 <img width="49%" height="195px"
-  src="https://streak-stats.demolab.com/?user=Bosaj&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e"
-  alt="GitHub Streak" />
+ src="https://streak-stats.demolab.com/?user=Bosaj&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e"
+ alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -506,71 +466,71 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <br/><br/>
 
 <img width="49%" height="195px"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bosaj&theme=tokyonight"
-  alt="Most Used Languages" />
+ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bosaj&theme=tokyonight"
+ alt="Most Used Languages" />
 <img width="49%" height="195px"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bosaj&theme=tokyonight"
-  alt="Repos Per Language" />
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bosaj&theme=tokyonight"
+ alt="Repos Per Language" />
 
 </div>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 🎓 Education
+## Education
 
 <table>
-  <tr>
-    <th>📅 Period</th>
-    <th>🎓 Degree / Qualification</th>
-    <th>🏫 Institution</th>
-    <th>🏆 Distinction / Result</th>
-  </tr>
-  <tr>
-    <td>Dec 2023 – Jul 2026</td>
-    <td><b>State Engineer's Degree in Artificial Intelligence</b></td>
-    <td>ENIAD • Mohammed First University</td>
-    <td>🏅 <b>Very Good Honors</b></td>
-  </tr>
-  <tr>
-    <td>Sep 2022 – Present</td>
-    <td><b>Bachelor's Degree in Physical Sciences</b></td>
-    <td>Faculty of Sciences • Mohammed First University</td>
-    <td>In Progress</td>
-  </tr>
-  <tr>
-    <td>Sep 2019 – Feb 2022</td>
-    <td><b>DEUG in Physical Sciences</b></td>
-    <td>Faculty of Sciences • Mohammed First University</td>
-    <td>⭐ <b>Honors</b></td>
-  </tr>
-  <tr>
-    <td>Sep 2017 – Jul 2019</td>
-    <td><b>Baccalaureate in Physical Sciences</b></td>
-    <td>Zineb Ennafzaouia High School, Oujda</td>
-    <td>⭐ <b>Honors</b></td>
-  </tr>
+ <tr>
+ <th>Period</th>
+ <th>Degree / Qualification</th>
+ <th>Institution</th>
+ <th>Distinction / Result</th>
+ </tr>
+ <tr>
+ <td>Dec 2023 – Jul 2026</td>
+ <td><b>State Engineer's Degree in Artificial Intelligence</b></td>
+ <td>ENIAD • Mohammed First University</td>
+ <td><b>Very Good Honors</b></td>
+ </tr>
+ <tr>
+ <td>Sep 2022 – Present</td>
+ <td><b>Bachelor's Degree in Physical Sciences</b></td>
+ <td>Faculty of Sciences • Mohammed First University</td>
+ <td>In Progress</td>
+ </tr>
+ <tr>
+ <td>Sep 2019 – Feb 2022</td>
+ <td><b>DEUG in Physical Sciences</b></td>
+ <td>Faculty of Sciences • Mohammed First University</td>
+ <td><b>Honors</b></td>
+ </tr>
+ <tr>
+ <td>Sep 2017 – Jul 2019</td>
+ <td><b>Baccalaureate in Physical Sciences</b></td>
+ <td>Zineb Ennafzaouia High School, Oujda</td>
+ <td><b>Honors</b></td>
+ </tr>
 </table>
 
-### 🏫 Academic Engineering Curriculum & Research (ENIAD Berkane)
+### Academic Engineering Curriculum & Research (ENIAD Berkane)
 
 > **State Engineer's Degree in Artificial Intelligence & Digital Systems** • Mohammed First University
 
 <p align="center">
-  <a href="https://github.com/users/Bosaj/projects" target="_blank"><img src="https://img.shields.io/badge/Project_Board_v2-ENIAD_Academic_Curriculum-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Board v2" /></a>&nbsp;
-  <a href="https://github.com/stars/Bosaj/lists/eniad-academic-projects" target="_blank"><img src="https://img.shields.io/badge/Curated_Playlist-19_Academic_Repositories-gold?style=for-the-badge&logo=github&logoColor=black" alt="Academic List" /></a>
+ <a href="https://github.com/users/Bosaj/projects" target="_blank"><img src="https://img.shields.io/badge/Project_Board_v2-ENIAD_Academic_Curriculum-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Board v2" /></a>&nbsp;
+ <a href="https://github.com/stars/Bosaj/lists/eniad-academic-projects" target="_blank"><img src="https://img.shields.io/badge/Curated_Playlist-19_Academic_Repositories-gold?style=for-the-badge&logo=github&logoColor=black" alt="Academic List" /></a>
 </p>
 
 | Semester / Milestone | Module / Domain | Featured Repository | Technologies & Highlights |
 |---|---|---|---|
-| 🎓 **PFE (Semestre 10)** | **Enterprise Power Automate ALM & AI Monitoring** | `GitLab/power-automate-alm` *(private, Circet)* | **Circet Morocco Graduation PFE**: DEV-TEST-PROD ALM Pipelines, FlowLogger Telemetry, Claude AI Diagnostics |
+| **PFE (Semestre 10)** | **Enterprise Power Automate ALM & AI Monitoring** | `GitLab/power-automate-alm` *(private, Circet)* | **Circet Morocco Graduation PFE**: DEV-TEST-PROD ALM Pipelines, FlowLogger Telemetry, Claude AI Diagnostics |
 | **Semestre 9** | **Explainable AI (XAI)** | [`Bosaj/xai-model-interpretability-suite`](https://github.com/Bosaj/xai-model-interpretability-suite) | PDP, ALE, KernelSHAP, LIME, Grad-CAM, Saliency Maps |
 | **Semestre 9** | **DevOps & MLOps** | [`Bosaj/DevOpsML`](https://github.com/Bosaj/DevOpsML) | CI/CD Automation, Docker, MLflow, Automated Testing |
 | **Semestre 9** | **NLP & Language Models** | `CDG-CAPITAL-FINANCE/LANGUAGE-MODEL` *(private)* | Tokenization, Transformers, Fine-Tuning, FastMCP |
 | **Semestre 9** | **Big Data Engineering** | [`Bosaj/Real-Time_Sentiment_Analysis_on_X`](https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X) | Apache Kafka, PySpark, Distributed Streaming, RoBERTa |
 | **Semestre 9** | **Advanced AI Workshops** | [`chakorabdellatif/federated-learning-loan-approval`](https://github.com/chakorabdellatif/federated-learning-loan-approval) | Federated Learning, XGBoost, Privacy-Preserving ML, Streamlit |
-| 🏛️ **PFA (Semestre 8)** | **Financial Compliance AI Agents (CDG Capital)** | `CDG-CAPITAL-FINANCE/CHECK-PLAN-GENERATOR-AGENTS` *(private)* | **CDG Capital Graduation PFA**: LangGraph Multi-Agent, OCR PDF Parsing, Automated Excel Control Plans |
-| 🏛️ **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`ennajari/ENIAD-ASSISTANT`](https://github.com/ennajari/ENIAD-ASSISTANT) • [live](https://eniad-assistant-official.web.app) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
+| **PFA (Semestre 8)** | **Financial Compliance AI Agents (CDG Capital)** | `CDG-CAPITAL-FINANCE/CHECK-PLAN-GENERATOR-AGENTS` *(private)* | **CDG Capital Graduation PFA**: LangGraph Multi-Agent, OCR PDF Parsing, Automated Excel Control Plans |
+| **PFA (Semestre 8)** | **Conversational Academic Assistant (ENIAD PFA)** | [`ennajari/ENIAD-ASSISTANT`](https://github.com/ennajari/ENIAD-ASSISTANT) • [live](https://eniad-assistant-official.web.app) | **ENIAD Academic PFA**: LLaMA-3.1 8B LoRA, Qwen 2.5, Next.js Fullstack Chatbot |
 | **Semestre 8** | **Knowledge Engineering & Ontologies** | [`Bosaj/semantic-web-knowledge-ontologies`](https://github.com/Bosaj/semantic-web-knowledge-ontologies) | Protégé, OWL 2, RDF, SWRL Rules, SPARQL |
 | **Semestre 8** | **Multi-Agent Systems & Agentic AI** | `Bosaj/agentic-ai-multi-agent-systems` *(private)* | JADE (Java), FIPA ACL, LangChain, RAG Pipelines |
 | **Semestre 8** | **Deep Reinforcement Learning** | [`Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps`](https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps) • [`Bosaj/Reinforcement-Learning-Labs`](https://github.com/Bosaj/Reinforcement-Learning-Labs) | DQN, Q-learning, SARSA, PPO, Gymnasium, Reward Shaping |
@@ -586,145 +546,145 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 📜 Professional Certifications
+## Professional Certifications
 
 <table>
-  <tr>
-    <th>📜 Certification</th>
-    <th>🏢 Issuer</th>
-    <th>📅 Date</th>
-    <th>🆔 Credential ID</th>
-  </tr>
-  <tr>
-    <td><b>Data Science Fundamentals with Python and SQL</b></td>
-    <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Badge" /></td>
-    <td>Oct 2025</td>
-    <td><code>7NO5QXMVDTS1</code></td>
-  </tr>
-  <tr>
-    <td><b>Google Data Analytics Professional Certificate</b></td>
-    <td><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Badge" /></td>
-    <td>Oct 2025</td>
-    <td><code>E5EZMU8R0DRZ</code></td>
-  </tr>
-  <tr>
-    <td><b>Generative AI: Prompt Engineering Basics</b></td>
-    <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Badge" /></td>
-    <td>Apr 2025</td>
-    <td><code>8JVS8LHEI0AX</code></td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning Internship Certificate</b></td>
-    <td><img src="https://img.shields.io/badge/Prodigy_InfoTech-6B2FAE?style=flat-square&logoColor=white" alt="Prodigy Badge" /></td>
-    <td>Dec 2024</td>
-    <td><code>PIT/NOV24/20689</code></td>
-  </tr>
-  <tr>
-    <td><b>Career Essentials in Generative AI</b></td>
-    <td><img src="https://img.shields.io/badge/Microsoft_&_LinkedIn-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Badge" /></td>
-    <td>Apr 2024</td>
-    <td>Verified ✅</td>
-  </tr>
-  <tr>
-    <td><b>MIATHON 2nd Edition</b></td>
-    <td><img src="https://img.shields.io/badge/Moroccan_House_of_AI-00897B?style=flat-square&logoColor=white" alt="MIATHON Badge" /></td>
-    <td>Jul 2024</td>
-    <td>Verified ✅</td>
-  </tr>
+ <tr>
+ <th>Certification</th>
+ <th>Issuer</th>
+ <th>Date</th>
+ <th>Credential ID</th>
+ </tr>
+ <tr>
+ <td><b>Data Science Fundamentals with Python and SQL</b></td>
+ <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Badge" /></td>
+ <td>Oct 2025</td>
+ <td><code>7NO5QXMVDTS1</code></td>
+ </tr>
+ <tr>
+ <td><b>Google Data Analytics Professional Certificate</b></td>
+ <td><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Badge" /></td>
+ <td>Oct 2025</td>
+ <td><code>E5EZMU8R0DRZ</code></td>
+ </tr>
+ <tr>
+ <td><b>Generative AI: Prompt Engineering Basics</b></td>
+ <td><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM Badge" /></td>
+ <td>Apr 2025</td>
+ <td><code>8JVS8LHEI0AX</code></td>
+ </tr>
+ <tr>
+ <td><b>Machine Learning Internship Certificate</b></td>
+ <td><img src="https://img.shields.io/badge/Prodigy_InfoTech-6B2FAE?style=flat-square&logoColor=white" alt="Prodigy Badge" /></td>
+ <td>Dec 2024</td>
+ <td><code>PIT/NOV24/20689</code></td>
+ </tr>
+ <tr>
+ <td><b>Career Essentials in Generative AI</b></td>
+ <td><img src="https://img.shields.io/badge/Microsoft_&_LinkedIn-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Badge" /></td>
+ <td>Apr 2024</td>
+ <td>Verified </td>
+ </tr>
+ <tr>
+ <td><b>MIATHON 2nd Edition</b></td>
+ <td><img src="https://img.shields.io/badge/Moroccan_House_of_AI-00897B?style=flat-square&logoColor=white" alt="MIATHON Badge" /></td>
+ <td>Jul 2024</td>
+ <td>Verified </td>
+ </tr>
 </table>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 🏆 GitHub Achievements & Cloud Architecture Badges
+## GitHub Achievements & Cloud Architecture Badges
 
 <div align="center">
 
 <table>
-  <tr>
-    <th colspan="5">🎖️ Official GitHub Achievements</th>
-  </tr>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/pull-shark-gold-90985540b385.png" width="78" alt="Achievement: Pull Shark Gold x4" /><br/>
-        <b>Pull Shark</b><br/>
-        <sub>🥇 Gold (x4)<br/>1,100+ Merged PRs</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="78" alt="Achievement: Galaxy Brain Gold x4" /><br/>
-        <b>Galaxy Brain</b><br/>
-        <sub>🥇 Gold (x4)<br/>32+ Accepted Answers</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="78" alt="Achievement: YOLO" /><br/>
-        <b>YOLO</b><br/>
-        <sub>Unlocked (Single-Tier)<br/>Merged without review</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="78" alt="Achievement: Pair Extraordinaire Gold" /><br/>
-        <b>Pair Extraordinaire</b><br/>
-        <sub>🥇 Gold (x4)<br/>100+ Co-authored PRs</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/Bosaj?tab=achievements">
-        <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="78" alt="Achievement: Quickdraw" /><br/>
-        <b>Quickdraw</b><br/>
-        <sub>Unlocked (Single-Tier)<br/>Rapid resolution &lt; 5m</sub>
-      </a>
-    </td>
-  </tr>
+ <tr>
+ <th colspan="5"> Official GitHub Achievements</th>
+ </tr>
+ <tr>
+ <td align="center" width="20%">
+ <a href="https://github.com/Bosaj?tab=achievements">
+ <img src="https://github.githubassets.com/assets/pull-shark-gold-90985540b385.png" width="78" alt="Achievement: Pull Shark Gold x4" /><br/>
+ <b>Pull Shark</b><br/>
+ <sub>Gold (x4)<br/>1,100+ Merged PRs</sub>
+ </a>
+ </td>
+ <td align="center" width="20%">
+ <a href="https://github.com/Bosaj?tab=achievements">
+ <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="78" alt="Achievement: Galaxy Brain Gold x4" /><br/>
+ <b>Galaxy Brain</b><br/>
+ <sub>Gold (x4)<br/>32+ Accepted Answers</sub>
+ </a>
+ </td>
+ <td align="center" width="20%">
+ <a href="https://github.com/Bosaj?tab=achievements">
+ <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="78" alt="Achievement: YOLO" /><br/>
+ <b>YOLO</b><br/>
+ <sub>Unlocked (Single-Tier)<br/>Merged without review</sub>
+ </a>
+ </td>
+ <td align="center" width="20%">
+ <a href="https://github.com/Bosaj?tab=achievements">
+ <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="78" alt="Achievement: Pair Extraordinaire Gold" /><br/>
+ <b>Pair Extraordinaire</b><br/>
+ <sub>Gold (x4)<br/>100+ Co-authored PRs</sub>
+ </a>
+ </td>
+ <td align="center" width="20%">
+ <a href="https://github.com/Bosaj?tab=achievements">
+ <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="78" alt="Achievement: Quickdraw" /><br/>
+ <b>Quickdraw</b><br/>
+ <sub>Unlocked (Single-Tier)<br/>Rapid resolution &lt; 5m</sub>
+ </a>
+ </td>
+ </tr>
 </table>
 
 <br/>
 
 <table>
-  <tr>
-    <th colspan="4">☁️ Production Cloud & Infrastructure Stack</th>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" /><br/>
-      <sub>Compute • BigQuery • Cloud Run • Vertex AI</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
-      <sub>Containerization • Multi-stage builds • Compose</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
-      <sub>Automated Test & Deployment CI/CD Pipelines</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastMCP" /><br/>
-      <sub>Model Context Protocol • Agentic Cloud Tools</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br/>
-      <sub>Cloud PostgreSQL • Realtime DB • pgvector</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /><br/>
-      <sub>Production Cloud PaaS • Auto-Deploy CI/CD</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot 3" /><br/>
-      <sub>Enterprise Java 17 Microservices & Security</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br/>
-      <sub>Edge Network • Production Web Applications</sub>
-    </td>
-  </tr>
+ <tr>
+ <th colspan="4"> Production Cloud & Infrastructure Stack</th>
+ </tr>
+ <tr>
+ <td align="center" width="25%">
+ <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" /><br/>
+ <sub>Compute • BigQuery • Cloud Run • Vertex AI</sub>
+ </td>
+ <td align="center" width="25%">
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
+ <sub>Containerization • Multi-stage builds • Compose</sub>
+ </td>
+ <td align="center" width="25%">
+ <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
+ <sub>Automated Test & Deployment CI/CD Pipelines</sub>
+ </td>
+ <td align="center" width="25%">
+ <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastMCP" /><br/>
+ <sub>Model Context Protocol • Agentic Cloud Tools</sub>
+ </td>
+ </tr>
+ <tr>
+ <td align="center" width="25%">
+ <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br/>
+ <sub>Cloud PostgreSQL • Realtime DB • pgvector</sub>
+ </td>
+ <td align="center" width="25%">
+ <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /><br/>
+ <sub>Production Cloud PaaS • Auto-Deploy CI/CD</sub>
+ </td>
+ <td align="center" width="25%">
+ <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot 3" /><br/>
+ <sub>Enterprise Java 17 Microservices & Security</sub>
+ </td>
+ <td align="center" width="25%">
+ <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br/>
+ <sub>Edge Network • Production Web Applications</sub>
+ </td>
+ </tr>
 </table>
 
 <br/>
@@ -732,7 +692,7 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 🤝 Community & Volunteering
+## Community & Volunteering
 
 <div align="center">
 
@@ -749,39 +709,39 @@ Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 📸 Beyond the Code
+## Beyond the Code
 
 <div align="center">
 
-🥋 **Taekwondo** • Discipline, patience, and focus under pressure  
-🏋️ **Weightlifting** • The compounding-progress mindset applied to physical health  
-📷 **Photography** • Framing the world through a lens • [@catcher_sama](https://instagram.com/catcher_sama)  
-🎬 **Content Creation** • Visual storytelling and digital media editing
+ **Taekwondo** • Discipline, patience, and focus under pressure
+ **Weightlifting** • The compounding-progress mindset applied to physical health
+ **Photography** • Framing the world through a lens • [@catcher_sama](https://instagram.com/catcher_sama)
+ **Content Creation** • Visual storytelling and digital media editing
 
 </div>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 📫 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
 I am open to **strategic AI collaborations, technical research, and open-source innovation**. Feel free to reach out!
 
 <p>
-  <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Oussama%20EL%20HADJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-oussousselhadji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-  <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bosaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
+ <a href="https://www.linkedin.com/in/oussama-elhadji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Oussama%20EL%20HADJI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+ <a href="mailto:oussousselhadji@gmail.com"><img src="https://img.shields.io/badge/Email-oussousselhadji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+ <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bosaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
-<sub>📍 Casablanca / Oujda, Morocco 🇲🇦 • GMT (UTC+0) • open to remote collaboration</sub>
+<sub>Casablanca / Oujda, Morocco 🇲🇦 • GMT (UTC+0) • open to remote collaboration</sub>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=150&section=footer&text=Thanks%20for%20visiting%21&fontSize=26&animation=twinkling&fontAlignY=65" alt="Footer Banner" />
 
-⭐ *If something here caught your eye, a star on my repositories means a lot.*
+*If something here caught your eye, a star on my repositories means a lot.*
 
 *Built in Morocco 🇲🇦 • reasoning from first principles, one system at a time.*
 
