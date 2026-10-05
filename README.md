@@ -33,7 +33,7 @@
 <p align="center">
   <a href="#-about-me">About</a> &nbsp;&bull;&nbsp;
   <a href="#-professional-experience">Experience</a> &nbsp;&bull;&nbsp;
-  <a href="#-featured-projects--engineering-showcase">Projects</a> &nbsp;&bull;&nbsp;
+  <a href="#️-featured-projects--engineering-showcase">Projects</a> &nbsp;&bull;&nbsp;
   <a href="#live-demos">Live Demos</a> &nbsp;&bull;&nbsp;
   <a href="#-tech-stack--engineering-toolkit">Stack</a> &nbsp;&bull;&nbsp;
   <a href="#-education">Education</a> &nbsp;&bull;&nbsp;
