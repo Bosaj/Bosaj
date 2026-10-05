@@ -775,14 +775,7 @@ I am open to **strategic AI collaborations, technical research, and open-source 
   <a href="https://bosaj.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-bosaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
-
-
-
-<table>
-  <tr><td align="center">📍 <b>Based in</b></td><td>Casablanca / Oujda, Morocco 🇲🇦 • GMT (UTC+0)</td></tr>
-  <tr><td align="center">📞 <b>Phone</b></td><td>+212 634960373</td></tr>
-  <tr><td align="center">🗣️ <b>Languages</b></td><td>Arabic (Native) • English (B2) • French (B1)</td></tr>
-</table>
+<sub>📍 Casablanca / Oujda, Morocco 🇲🇦 • GMT (UTC+0) • open to remote collaboration</sub>
 
 <br>
 
