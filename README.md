@@ -353,6 +353,30 @@ Streaming big-data pipeline that classifies the sentiment of posts on X (Twitter
 - **Tech Stack**: Python, Apache Kafka, PySpark, RoBERTa, Docker.
  </td>
  </tr>
+ <tr>
+ <td width="50%" valign="top">
+ <h3 align="center"> Shajara · شجرة الأنبياء (Prophets Family Tree)</h3>
+ <p align="center">
+ <a href="https://github.com/Bosaj/prophets-family-tree"><img src="https://img.shields.io/badge/Repo-Prophets--Family--Tree-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+ <a href="https://shajara-prophets.vercel.app"><img src="https://img.shields.io/badge/Live-shajara--prophets.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+ </p>
+
+Interactive, source-cited genealogical tree and historical timeline of the 25 Prophets named in the Qur'an across Arabic, French, and English.
+- **Features**: Interactive SVG/Canvas lineage graph, peoples & miracles explorer, live Qur'anic verse citations, trilingual RTL/LTR interface (`AR/FR/EN`).
+- **Tech Stack**: TypeScript, React, Next.js, Tailwind CSS, Vercel.
+ </td>
+ <td width="50%" valign="top">
+ <h3 align="center"> Hsabli · حسبلي (Darija Money Converter)</h3>
+ <p align="center">
+ <a href="https://github.com/Bosaj/darija-money-converter"><img src="https://img.shields.io/badge/Repo-Darija--Money--Converter-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+ <a href="https://darija-money-converter.vercel.app"><img src="https://img.shields.io/badge/Live-darija--money--converter.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+ </p>
+
+Offline-ready progressive web app (PWA) converting Moroccan currency slang (*rial, santim, franc, doro, million, الميا*) to Dirham (MAD) and vice versa.
+- **Features**: Bidirectional Darija voice input/output, regional Moroccan presets (Casablanca/Rabat, Oujda/Berkane, Marrakech, Tangier), zero-latency offline PWA.
+- **Tech Stack**: TypeScript, React, Web Speech API, Tailwind CSS, PWA, Vercel.
+ </td>
+ </tr>
 </table>
 
 ### Live Demos
@@ -364,6 +388,9 @@ Streaming big-data pipeline that classifies the sentiment of posts on X (Twitter
 | Dual Portfolio Hub | [bosaj.vercel.app](https://bosaj.vercel.app) | Vercel |
 | Jaridtak (Gazette Digest) | [jaridtak.lovable.app](https://jaridtak.lovable.app) | Lovable + Supabase |
 | KS-Ayoub-Car | [ks-ayoub-car.vercel.app](https://ks-ayoub-car.vercel.app) | Vercel + Render |
+| Shajara · شجرة الأنبياء | [shajara-prophets.vercel.app](https://shajara-prophets.vercel.app) | Vercel |
+| Hsabli · حسبلي (Darija Money PWA) | [darija-money-converter.vercel.app](https://darija-money-converter.vercel.app) | Vercel |
+| Inbox Bubble Map | [inbox-bubble-map.vercel.app](https://inbox-bubble-map.vercel.app) | Vercel |
 | ENIAD Assistant | [eniad-assistant-official.web.app](https://eniad-assistant-official.web.app) | Firebase |
 | XAI Interpretability Suite | [Hugging Face Space](https://bosaj-xai-model-interpretability-suite.static.hf.space) | Hugging Face |
 | Real-Time Sentiment on X | [Hugging Face Space](https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x) | Hugging Face |
@@ -376,17 +403,18 @@ Streaming big-data pipeline that classifies the sentiment of posts on X (Twitter
 
 </div>
 
-### Idea Lab — Open Source in Progress
+### Idea Lab — Open Source & Live Tools
 
-Early-stage public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issues and milestones are open — contributions welcome.
+Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issues and milestones are open — contributions welcome.
 
-| Repository | What it will do |
+| Repository | Status & What It Does |
 |---|---|
+| [`prophets-family-tree`](https://github.com/Bosaj/prophets-family-tree) | **Live ([shajara-prophets.vercel.app](https://shajara-prophets.vercel.app))** — Interactive family tree and timeline of the 25 Prophets named in the Qur'an (`AR/FR/EN`) |
+| [`darija-money-converter`](https://github.com/Bosaj/darija-money-converter) | **Live ([darija-money-converter.vercel.app](https://darija-money-converter.vercel.app))** — Converts Moroccan money slang (*rial, franc, doro, million*) to Dirham with Darija voice & regional presets |
+| [`inbox-bubble-map`](https://github.com/Bosaj/inbox-bubble-map) | **Live ([inbox-bubble-map.vercel.app](https://inbox-bubble-map.vercel.app))** — Visualizes your inbox as a force-directed bubble graph of senders and unsubscribes in one click |
 | [`moroccan-law-ai`](https://github.com/Bosaj/moroccan-law-ai) | Source-cited legal Q&A grounded in Moroccan law, in Arabic, Darija and French |
 | [`quran-tarawih-display`](https://github.com/Bosaj/quran-tarawih-display) | Live Qur'an verse display on mosque screens, synced to the imam's recitation |
 | [`rtl-arabic-toolkit`](https://github.com/Bosaj/rtl-arabic-toolkit) | Toolkit + audit CLI that finds and fixes right-to-left layout bugs in web apps |
-| [`darija-money-converter`](https://github.com/Bosaj/darija-money-converter) | Converts Moroccan money slang (rial, franc, doro) to Dirham, with regional presets |
-| [`inbox-bubble-map`](https://github.com/Bosaj/inbox-bubble-map) | Visualizes your inbox as a force-directed graph of senders, then helps you clean up |
 
 <div align="center">
  <br>
