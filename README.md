@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI%20and%20Automation%20Engineer%20%40%20Circet%20Morocco%3BFrom%20Plasma%20Physics%20to%20Production%20AI%3BMachine%20Learning%20%7C%20Agentic%20RAG%20%7C%20Power%20Automate%20ALM%3BBuilding%20Enterprise%20Systems%20That%20Survive%20the%20Real%20World%3BReasoning%20from%20first%20principles%2C%20one%20system%20at%20a%20time" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI%20and%20Automation%20Engineer%20%40%20Circet%20Morocco%3BFrom%20Plasma%20Physics%20to%20Production%20AI%3BMachine%20Learning%20%7C%20Agentic%20RAG%20%7C%20Power%20Automate%20ALM%3B56%2B%20Production-Grade%20Standardized%20Repositories%3BReasoning%20from%20first%20principles%2C%20one%20system%20at%20a%20time" alt="Typing SVG" />
 </p>
 
 <!-- Profile Badges -->
@@ -14,7 +14,7 @@
  <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Bosaj?label=Followers&style=flat-square&logo=github&color=00d9ff" alt="GitHub followers" /></a>
  <img src="https://img.shields.io/badge/Role-AI%20and%20Automation%20Engineer-00d9ff?style=flat-square" alt="Role" />
  <img src="https://img.shields.io/badge/Company-Circet%20Morocco-FF6B00?style=flat-square" alt="Company" />
- <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-success?style=flat-square" alt="Location" />
+ <img src="https://img.shields.io/badge/Location-Casablanca%20%2F%20Oujda%2C%20Morocco-success?style=flat-square" alt="Location" />
 </p>
 
 <!-- Social Links -->
@@ -25,7 +25,6 @@
  <a href="https://github.com/Bosaj?tab=followers" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow%20%40Bosaj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" /></a>&nbsp;
  <a href="https://gitlab.com/Bosaj" target="_blank"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>&nbsp;
  <a href="https://huggingface.co/bosaj" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-Follow-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>&nbsp;
-
  <a href="https://www.instagram.com/catcher_sama" target="_blank"><img src="https://img.shields.io/badge/Instagram-@catcher__sama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
@@ -33,10 +32,12 @@
 <p align="center">
   <a href="#-about-me">About</a> &nbsp;&bull;&nbsp;
   <a href="#-professional-experience">Experience</a> &nbsp;&bull;&nbsp;
-  <a href="#️-featured-projects--engineering-showcase">Projects</a> &nbsp;&bull;&nbsp;
-  <a href="#live-demos">Live Demos</a> &nbsp;&bull;&nbsp;
+  <a href="#️-featured-projects--engineering-showcase">Featured</a> &nbsp;&bull;&nbsp;
+  <a href="#-open-source-ecosystem--full-repository-directory">Ecosystem (56 Repos)</a> &nbsp;&bull;&nbsp;
+  <a href="#-live-demos">Live Demos</a> &nbsp;&bull;&nbsp;
+  <a href="#-hugging-face-models--datasets">Hugging Face</a> &nbsp;&bull;&nbsp;
   <a href="#-tech-stack--engineering-toolkit">Stack</a> &nbsp;&bull;&nbsp;
-  <a href="#-education">Education</a> &nbsp;&bull;&nbsp;
+  <a href="#-education--research-journey">Education</a> &nbsp;&bull;&nbsp;
   <a href="#-professional-certifications">Certifications</a> &nbsp;&bull;&nbsp;
   <a href="#-lets-connect--collaborate">Contact</a>
 </p>
@@ -52,9 +53,11 @@
 
 Hi, I'm **Oussama EL HADJI** — an **AI & Automation Engineer at Circet Morocco**.
 
-My engineering foundation was built through **physics**. Before neural networks and generative AI, I worked with plasma equations and quantum mechanics. My academic physics background — including research in **Inertial Confinement Fusion (ICF)** — taught me to reason from first principles, rigorously validate data, and approach unsolved problems with extreme discipline.
+My engineering foundation was built through **physics**. Before neural networks and generative AI, I worked with plasma equations, laser-matter interaction, and quantum mechanics. My academic physics background — including research in **Inertial Confinement Fusion (ICF / Fusion Nucléaire par Confinement Inertiel)** at the LME Laboratory (Faculté des Sciences d'Oujda) — taught me to reason from first principles, rigorously validate data, and approach unsolved problems with extreme discipline.
 
-Today, I apply that mindset to **enterprise AI engineering, intelligent automation, NLP, and MLOps**. Having recently completed my 6-month PFE engineering internship at **Circet Morocco** (March – August 2026), I officially transitioned into a full-time **AI & Automation Engineer** role starting **September 01, 2026**, designing production ALM frameworks, intelligent agent workflows, and AI automation pipelines.
+Today, I apply that mindset to **enterprise AI engineering, intelligent automation, NLP, and MLOps**. Having completed my 6-month PFE engineering internship at **Circet Morocco** (March – August 2026), I officially transitioned into a full-time **AI & Automation Engineer** role starting **September 01, 2026**, designing production ALM frameworks, intelligent agent workflows, and AI automation pipelines.
+
+Across GitHub, GitLab, and Hugging Face, I maintain a production-grade ecosystem of **56+ standardized repositories** spanning Agentic AI, Computer Vision, MLOps, Explainable AI (XAI), Moroccan Darija NLP, and high-performance Web/Mobile systems — all verified with **100% CI pass rates, comprehensive documentation, and strict architectural standards**.
 
 <br clear="right"/>
 
@@ -81,7 +84,7 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
  </tr>
  <tr>
  <td><b>Education</b></td>
- <td><b>State Engineer's Degree in Artificial Intelligence</b> — ENIAD (Very Good Honors) </td>
+ <td><b>State Engineer's Degree in Artificial Intelligence</b> — ENIAD (Very Good Honors) • <b>DEUG & BSc in Physical Sciences</b> (Faculté des Sciences d'Oujda)</td>
  </tr>
  <tr>
  <td><b>PFE (Projet de Fin d'Études)</b></td>
@@ -93,19 +96,19 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
  </tr>
  <tr>
  <td><b>Core Specializations</b></td>
- <td>Enterprise AI, Agentic Workflows, Power Automate ALM, RAG Architecture, Computer Vision</td>
+ <td>Enterprise AI, Agentic Workflows, Power Automate ALM, RAG Architecture, Computer Vision, MLOps</td>
  </tr>
  <tr>
- <td><b>Engineering Standards</b></td>
- <td><b>100% Automated Test Pass Rate</b> across all maintained repositories • Strict Typing • Bandit Security Auditing • SLSA Build Attestations</td>
+ <td><b>Ecosystem Scale</b></td>
+ <td><b>56 Standardized Repositories</b> • <b>100% Automated Test Pass Rate</b> • Strict Typing • Bandit Security Audits • Full Wikis & Milestones</td>
  </tr>
  <tr>
  <td><b>Engineering Edge</b></td>
- <td>First-principles reasoning from physics applied to scalable, fault-tolerant AI production systems</td>
+ <td>First-principles reasoning from plasma physics applied to scalable, fault-tolerant AI production systems</td>
  </tr>
  <tr>
  <td><b>Languages</b></td>
- <td>Arabic (Native) • English (B2) • French (B1) </td>
+ <td>Arabic (Native) • English (B2) • French (B2 / Professional)</td>
  </tr>
  <tr>
  <td><b>Contact</b></td>
@@ -119,17 +122,17 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>AI & Automation Engineer • Circet Morocco</b> <i>Current Role</i></summary>
+<summary><b>AI & Automation Engineer • Circet Morocco</b> <i>(Current Full-Time Role)</i></summary>
 
 <br>
 
  **September 01, 2026 – Present** | Casablanca, Morocco (On-site / Hybrid)
 
 **Scope & Responsibilities:**
-- Transitioned into full-time **AI & Automation Engineer** following successful completion of PFE graduation project.
-- Leading enterprise-wide **AI Integration & Intelligent Automation** initiatives across telecom and network infrastructure operations.
-- Engineering end-to-end **Application Lifecycle Management (ALM)** pipelines for low-code automation workflows.
-- Architecting custom LLM integrations (Claude API, OpenAI) for automated failure diagnostics, root-cause analysis, and incident response.
+- Transitioned into full-time **AI & Automation Engineer** following successful delivery of the PFE graduation project.
+- Leading enterprise-wide **AI Integration & Intelligent Automation** initiatives across telecom, fiber optic, and network infrastructure operations.
+- Engineering end-to-end **Application Lifecycle Management (ALM)** pipelines for low-code automation workflows across DEV, TEST, and PROD environments.
+- Architecting custom LLM integrations (Claude API, OpenAI) for automated failure diagnostics, root-cause analysis, and incident alerting.
 
 **Tech Stack:** Power Automate • GitLab CI/CD • PowerShell • Python • LLM APIs • SharePoint • Power BI • Microsoft Teams
 
@@ -145,10 +148,10 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
 **Project:** Enterprise Application Lifecycle Management (ALM) Framework & AI Monitoring for Low-Code Workflows.
 
 **Key Achievements & Deliverables:**
-- Designed and engineered a complete **DEV TEST PROD** ALM pipeline for Power Automate flows with strict environment isolation.
-- Built automated **CI/CD** pipelines on GitLab coupled with robust **PowerShell** deployment scripts for package management.
+- Designed and engineered a complete **DEV &rarr; TEST &rarr; PROD** ALM pipeline for Power Automate flows with strict environment isolation and solution packaging.
+- Built automated **CI/CD** pipelines on GitLab coupled with robust **PowerShell** deployment scripts for automated solution export, unpack, and import.
 - Implemented a centralized **FlowLogger** telemetry layer streaming execution metrics into SharePoint for real-time observability.
-- Integrated an **AI Diagnostic Engine** (Claude API) to analyze flow execution logs, explain errors in natural language, and flag anomalies.
+- Integrated an **AI Diagnostic Engine** (Claude API) to analyze flow execution logs, explain errors in natural language, and flag recurring anomalies.
 - Deployed a **Power BI** executive health dashboard and automated **Teams bot** for real-time incident alerting.
 
 **Tech Stack:** Power Automate • GitLab CI/CD • PowerShell • SharePoint • Power BI • Teams Bot • Claude API • Power Platform CLI
@@ -202,7 +205,7 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
 
  **November 2024 – December 2024** | Remote
 
-**Project:** Predictive Medical Diagnostic Model for Cardiovascular Risk.
+**Project:** Predictive Medical Diagnostic Model for Cardiovascular Risk & Real Estate Valuation.
 
 **Key Achievements:**
 - Developed and evaluated supervised ML classification models (Logistic Regression, SVM, Decision Trees, Random Forest).
@@ -224,6 +227,7 @@ Today, I apply that mindset to **enterprise AI engineering, intelligent automati
  **August 2024 – October 2024** | Oujda, Morocco
 
 - Customer advisory, team leadership, sports merchandising, and logistics management under high volume.
+- Commended by Decathlon Morocco leadership for team dynamism, autonomy, and proactivity.
 
 </details>
 
@@ -259,15 +263,15 @@ Dual-persona engineer & photographer portfolio: AI engineering, systems architec
  </tr>
  <tr>
  <td width="50%" valign="top">
- <h3 align="center"> 360° AI Viewer with WebRover</h3>
+ <h3 align="center"> RAG Project — Vector Search Architecture</h3>
  <p align="center">
- <img src="https://img.shields.io/badge/Code-Private%20Collaboration-orange?style=flat-square" alt="Private Collab" />
- <a href="https://github.com/ennajari" target="_blank"><img src="https://img.shields.io/badge/Collab-%40ennajari-FF6B00?style=flat-square&logo=github" alt="Collab Badge" /></a>
+ <a href="https://github.com/Bosaj/RAG_Project"><img src="https://img.shields.io/badge/Repo-RAG__Project-00D9FF?style=flat-square&logo=github" alt="Repo Badge" /></a>
+ <img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square" alt="CI" />
  </p>
 
-Autonomous agentic web browser and 360° interactive product inspection platform powered by vision LLMs and FastMCP.
-- **Features**: Autonomous visual navigation, multi-angle product extraction, FastMCP server tools.
-- **Tech Stack**: Python, FastMCP, WebRover, Computer Vision, React.
+Modular Retrieval-Augmented Generation (RAG) Architecture with Vector Embeddings, Semantic Search, and Multi-Document Context Retrieval.
+- **Features**: Hybrid dense & sparse retrieval, cross-encoder reranking, Qdrant/Chroma vector DB abstraction, Trivy security audited.
+- **Tech Stack**: Python, LangChain, Qdrant, ChromaDB, Sentence-Transformers, FastAPI.
  </td>
  <td width="50%" valign="top">
  <h3 align="center"> Compliance Control Plan Generator</h3>
@@ -332,7 +336,7 @@ Explainable AI suite implementing local and global model explainability algorith
  <td width="50%" valign="top">
  <h3 align="center"> KS-Ayoub-Car Enterprise Mobility</h3>
  <p align="center">
- <img src="https://img.shields.io/badge/Code-Private%20%E2%80%A2%20Client-grey?style=flat-square" alt="Private Repository" />
+ <a href="https://github.com/Bosaj/ks-ayoub-car"><img src="https://img.shields.io/badge/Repo-ks--ayoub--car-00D9FF?style=flat-square&logo=github" alt="Repo" /></a>
  <a href="https://ks-ayoub-car.vercel.app"><img src="https://img.shields.io/badge/Live-ks--ayoub--car.vercel.app-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" /></a>
  <img src="https://img.shields.io/badge/Tests-146%20Passed-brightgreen?style=flat-square" alt="Tests" />
  </p>
@@ -379,48 +383,194 @@ Offline-ready progressive web app (PWA) converting Moroccan currency slang (*ria
  </tr>
 </table>
 
-### Live Demos
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-<div align="center">
+## 🌌 Open Source Ecosystem & Full Repository Directory
 
-| Project | Live Link | Platform |
-|---|---|---|
-| Dual Portfolio Hub | [bosaj.vercel.app](https://bosaj.vercel.app) | Vercel |
-| Jaridtak (Gazette Digest) | [jaridtak.lovable.app](https://jaridtak.lovable.app) | Lovable + Supabase |
-| KS-Ayoub-Car | [ks-ayoub-car.vercel.app](https://ks-ayoub-car.vercel.app) | Vercel + Render |
-| Shajara · شجرة الأنبياء | [shajara-prophets.vercel.app](https://shajara-prophets.vercel.app) | Vercel |
-| Hsabli · حسبلي (Darija Money PWA) | [darija-money-converter.vercel.app](https://darija-money-converter.vercel.app) | Vercel |
-| Inbox Bubble Map | [inbox-bubble-map.vercel.app](https://inbox-bubble-map.vercel.app) | Vercel |
-| ENIAD Assistant | [eniad-assistant-official.web.app](https://eniad-assistant-official.web.app) | Firebase |
-| XAI Interpretability Suite | [Hugging Face Space](https://bosaj-xai-model-interpretability-suite.static.hf.space) | Hugging Face |
-| Real-Time Sentiment on X | [Hugging Face Space](https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x) | Hugging Face |
-| VGG16 Dog vs Cat Classifier | [Hugging Face Space](https://huggingface.co/spaces/bosaj/vgg16-transfer-learning-classifier) | Hugging Face |
-| Stroke Prediction | [bosaj.github.io/Stroke-Prediction-Project](https://bosaj.github.io/Stroke-Prediction-Project/) | GitHub Pages |
-| DQN Schedule Optimizer | [bosaj.github.io/Assistant-Personnel-…](https://bosaj.github.io/Assistant-Personnel-pour-la-Gestion-du-Temps/) | GitHub Pages |
-| Reinforcement Learning Labs | [bosaj.github.io/Reinforcement-Learning-Labs](https://bosaj.github.io/Reinforcement-Learning-Labs/) | GitHub Pages |
-| Good Ambassadors Association | [a-a-b-v.netlify.app](https://a-a-b-v.netlify.app/) | Netlify |
-| Club Motatawi3 El-Alfia | [club-motatawi3-site-web.vercel.app](https://club-motatawi3-site-web.vercel.app) | Vercel |
+> Across my GitHub organization [`@Bosaj`](https://github.com/Bosaj), **56 repositories** are actively maintained with complete **Wikis, Milestones, Issue Templates, CI Automation, and Standard Documentation**. Below is the classified directory across engineering domains:
 
-</div>
+<details open>
+<summary><b>🤖 1. Agentic AI, RAG & Cognitive Systems</b> (7 Repositories)</summary>
 
-### Idea Lab — Open Source & Live Tools
+<br>
 
-Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issues and milestones are open — contributions welcome.
+| Repository | Description | Key Tech Stack & Capabilities |
+| :--- | :--- | :--- |
+| [`Bosaj/RAG_Project`](https://github.com/Bosaj/RAG_Project) | Modular Retrieval-Augmented Generation Architecture with semantic search & vector indexing | Python, LangChain, Qdrant, ChromaDB, Sentence-Transformers |
+| [`Bosaj/agentic-ai-multi-agent-systems`](https://github.com/Bosaj/agentic-ai-multi-agent-systems) | Multi-Agent Systems & Distributed Cognitive Architectures | Java (JADE FIPA-ACL), Python, CrewAI, AutoGen, LangGraph |
+| [`Bosaj/tars-personality-ai`](https://github.com/Bosaj/tars-personality-ai) | TARS Adaptive Personality AI Assistant with humor, sarcasm, honesty parameters & voice synthesis | Python, FastMCP, SpeechSynthesis, LLM Prompt Engineering |
+| [`Bosaj/baymax-ai-companion`](https://github.com/Bosaj/baymax-ai-companion) | Baymax Healthcare & Empathic Companion AI with clinical triage protocols & compassionate dialogue | Python, Streamlit, NLP, Clinical Triage Protocols |
+| [`Bosaj/prompt-secret-mask`](https://github.com/Bosaj/prompt-secret-mask) | Prompt Secret & PII Sanitizer CLI / Proxy intercepting LLM prompts to redact credentials & tokens | Python, Regex AST, Security Redaction, CLI |
+| [`Bosaj/ENIAD-ASSISTANT`](https://github.com/Bosaj/ENIAD-ASSISTANT) | Conversational campus assistant fine-tuned on LLaMA-3.1 8B LoRA and Qwen 2.5 with Next.js web chat | Next.js, FastAPI, LLaMA-3.1 LoRA, Firebase, Qwen 2.5 |
+| [`Bosaj/moroccan-law-ai`](https://github.com/Bosaj/moroccan-law-ai) | Source-cited legal Q&A assistant grounded in Moroccan codes, Bulletin Officiel & jurisprudence | Python, RAG, Moroccan Legal Corpus, NLP (AR/FR) |
 
-| Repository | Status & What It Does |
-|---|---|
-| [`prophets-family-tree`](https://github.com/Bosaj/prophets-family-tree) | **Live ([shajara-prophets.vercel.app](https://shajara-prophets.vercel.app))** — Interactive family tree and timeline of the 25 Prophets named in the Qur'an (`AR/FR/EN`) |
-| [`darija-money-converter`](https://github.com/Bosaj/darija-money-converter) | **Live ([darija-money-converter.vercel.app](https://darija-money-converter.vercel.app))** — Converts Moroccan money slang (*rial, franc, doro, million*) to Dirham with Darija voice & regional presets |
-| [`inbox-bubble-map`](https://github.com/Bosaj/inbox-bubble-map) | **Live ([inbox-bubble-map.vercel.app](https://inbox-bubble-map.vercel.app))** — Visualizes your inbox as a force-directed bubble graph of senders and unsubscribes in one click |
-| [`moroccan-law-ai`](https://github.com/Bosaj/moroccan-law-ai) | Source-cited legal Q&A grounded in Moroccan law, in Arabic, Darija and French |
-| [`quran-tarawih-display`](https://github.com/Bosaj/quran-tarawih-display) | Live Qur'an verse display on mosque screens, synced to the imam's recitation |
-| [`rtl-arabic-toolkit`](https://github.com/Bosaj/rtl-arabic-toolkit) | Toolkit + audit CLI that finds and fixes right-to-left layout bugs in web apps |
+</details>
+
+<details open>
+<summary><b>🔬 2. Machine Learning, Deep Learning & XAI</b> (10 Repositories)</summary>
+
+<br>
+
+| Repository | Description | Key Tech Stack & Capabilities |
+| :--- | :--- | :--- |
+| [`Bosaj/xai-model-interpretability-suite`](https://github.com/Bosaj/xai-model-interpretability-suite) | Explainable AI Suite implementing local and global model explainability algorithms | Python, SHAP, LIME, Grad-CAM, ALE, PDP, Streamlit |
+| [`Bosaj/DevOpsML`](https://github.com/Bosaj/DevOpsML) | End-to-End MLOps Pipeline with automated model training, experiment tracking & containerization | Python, Docker, MLflow, GitHub Actions, Pytest |
+| [`Bosaj/Real-Time_Sentiment_Analysis_on_X`](https://github.com/Bosaj/Real-Time_Sentiment_Analysis_on_X) | Distributed real-time stream processing classifying sentiment of posts on X (Twitter) | Python, Apache Kafka, PySpark Structured Streaming, RoBERTa |
+| [`Bosaj/Stroke-Prediction-Project`](https://github.com/Bosaj/Stroke-Prediction-Project) | Clinical stroke risk classification model handling extreme class imbalance | Python, SMOTE, XGBoost, Scikit-learn, Cross-Validation |
+| [`Bosaj/Transfer-Learning-VGG16-Dog-Cat-Classification`](https://github.com/Bosaj/Transfer-Learning-VGG16-Dog-Cat-Classification) | Computer Vision transfer learning pipeline leveraging pretrained VGG16 with fine-tuned layers | Python, TensorFlow/Keras, VGG16, Computer Vision |
+| [`Bosaj/photo-cull-ai`](https://github.com/Bosaj/photo-cull-ai) | Local-first AI photography tool automatically culling photo bursts, ranking sharpness & faces | Python, OpenCV, MediaPipe, Laplacian Sharpness, EXIF |
+| [`Bosaj/ai-emotion-interpreter`](https://github.com/Bosaj/ai-emotion-interpreter) | Research-oriented engine explaining observable facial, gaze, posture & vocal emotional cues | Python, MediaPipe Face Mesh, OpenFace, WebAudio FFT |
+| [`Bosaj/agile-scrum-ml-classification-service`](https://github.com/Bosaj/agile-scrum-ml-classification-service) | Production ML classification microservice built under strict Agile/Scrum ceremonies | Python, FastAPI, Scrum Artifacts, Automated CI Quality Gates |
+| [`Bosaj/PRODIGY_ML_01`](https://github.com/Bosaj/PRODIGY_ML_01) | Linear & Ridge regression predictive models for residential real estate valuation | Python, Scikit-learn, Pandas, GitHub Pages |
+| [`Bosaj/PRODIGY_ML_02`](https://github.com/Bosaj/PRODIGY_ML_02) | Unsupervised customer purchase segmentation via K-Means clustering & elbow optimization | Python, Scikit-learn, K-Means, Matplotlib |
+
+</details>
+
+<details open>
+<summary><b>🇲🇦 3. Cultural Tech, Moroccan Darija & Regional Innovation</b> (7 Repositories)</summary>
+
+<br>
+
+| Repository | Description | Key Tech Stack & Capabilities |
+| :--- | :--- | :--- |
+| [`Bosaj/darija-money-converter`](https://github.com/Bosaj/darija-money-converter) | **Hsabli · حسبلي** — Voice-enabled PWA converting Moroccan money slang to Dirham across regional dialects | TypeScript, React, Web Speech API, Tailwind, PWA |
+| [`Bosaj/prophets-family-tree`](https://github.com/Bosaj/prophets-family-tree) | **Shajara · شجرة الأنبياء** — Interactive genealogical tree & timeline of the 25 Quranic Prophets | TypeScript, React, Next.js, SVG Lineage Graphs, RTL/LTR |
+| [`Bosaj/quran-tarawih-display`](https://github.com/Bosaj/quran-tarawih-display) | Live Qur'an verse display for mosque projection screens synchronizing rendered ayah to recitation | Python, Whisper Speech Alignment, Quranic Font Engine |
+| [`Bosaj/rtl-arabic-toolkit`](https://github.com/Bosaj/rtl-arabic-toolkit) | Developer toolkit & automated audit CLI detecting and fixing Right-to-Left (Arabic) layout bugs | TypeScript, PostCSS, BiDi Linter, AST Parsing |
+| [`Bosaj/hijri-calendar-companion`](https://github.com/Bosaj/hijri-calendar-companion) | Astronomically accurate Hijri-Gregorian calendar toolkit with prayer times & Qibla calculation | TypeScript, Astronomy Algorithms, iCal Sync, Tailwind |
+| [`Bosaj/moroccan-law-ai`](https://github.com/Bosaj/moroccan-law-ai) | Legal intelligence platform grounded in Moroccan legislation, codes & judicial rulings | Python, Vector RAG, Arabic & French Document Parsing |
+| [`Bosaj/family-tree-archive`](https://github.com/Bosaj/family-tree-archive) | Private multimedia family genealogical archive with force-directed lineage graphs & timelines | TypeScript, D3.js Force Graphs, MediaVault, GEDCOM |
+
+</details>
+
+<details open>
+<summary><b>🌐 4. Production Web Platforms & Enterprise Applications</b> (9 Repositories)</summary>
+
+<br>
+
+| Repository | Description | Key Tech Stack & Capabilities |
+| :--- | :--- | :--- |
+| [`Bosaj/dual_portfolio_hub`](https://github.com/Bosaj/dual_portfolio_hub) | Flagship dual-persona AI Engineer & Photographer portfolio platform with 3D scenes & edge caching | Vite, React, Three.js/R3F, GSAP, Supabase, Vercel |
+| [`Bosaj/ks-ayoub-car`](https://github.com/Bosaj/ks-ayoub-car) | Trilingual car rental & fleet management SaaS platform with 146 unit & integration tests | FastAPI, Next.js 16, React 19, SQLModel, PostgreSQL |
+| [`Bosaj/Club-Motatawi3-Site-Web`](https://github.com/Bosaj/Club-Motatawi3-Site-Web) | Official trilingual platform for Club Motatawi3 Elalfia (Vite 7, React, Tailwind, Supabase) | Vite 7, React, Tailwind CSS, Supabase, Vercel |
+| [`Bosaj/gazette-digest`](https://github.com/Bosaj/gazette-digest) | **Jaridtak** — Moroccan Official Gazette automated crawler, summarization & legal intelligence | TanStack Start, React, Supabase PostgreSQL, Gemini |
+| [`Bosaj/inbox-bubble-map`](https://github.com/Bosaj/inbox-bubble-map) | Visual force-directed bubble graph of email inboxes with one-click unsubscribe automation | Next.js, D3.js Force Simulation, Gmail & Outlook API |
+| [`Bosaj/les-ambassadeurs-web`](https://github.com/Bosaj/les-ambassadeurs-web) | Trilingual platform for Good Ambassadors Association supporting community initiatives | HTML5, CSS3, JavaScript, Netlify |
+| [`Bosaj/systeme-coiffure`](https://github.com/Bosaj/systeme-coiffure) | Barber consultation & client booking platform with AI haircut visualizer & face shape analysis | TypeScript, React, Tailwind CSS, Computer Vision |
+| [`Bosaj/word-art`](https://github.com/Bosaj/word-art) | Computational typography engine generating ASCII art, generative posters & retro text layouts | TypeScript, HTML5 Canvas, Generative Typography |
+| [`Bosaj/world-of-worlds`](https://github.com/Bosaj/world-of-worlds) | Digital oral history platform turning family elders' interviews into indexed chaptered video books | TypeScript, Video Streaming, Indexed Chapters, Timeline |
+
+</details>
+
+<details open>
+<summary><b>📱 5. Mobile, Embedded & IoT Systems</b> (4 Repositories)</summary>
+
+<br>
+
+| Repository | Description | Key Tech Stack & Capabilities |
+| :--- | :--- | :--- |
+| [`Bosaj/android-update-checker`](https://github.com/Bosaj/android-update-checker) | Lightweight Android library and CLI monitoring Google Play, GitHub Releases & self-hosted APKs | Kotlin, Android SDK, Gradle, GitHub Releases API |
+| [`Bosaj/native-android-multilingual-suite`](https://github.com/Bosaj/native-android-multilingual-suite) | Native Android mobile application suite with dynamic Arabic/French/English localization | Java, Android SDK, Material Design 3, SQLite |
+| [`Bosaj/rfid-shoe-pair-tracker`](https://github.com/Bosaj/rfid-shoe-pair-tracker) | Smart inventory tracking utilizing UHF RFID tags to eliminate left/right shoe mismatches | Python, UHF RFID Protocol, Serial I/O, Warehouse DB |
+| [`Bosaj/speed-limit-eta`](https://github.com/Bosaj/speed-limit-eta) | Intelligent route travel-time calculator utilizing OpenStreetMap posted speed limits & elevations | Python, OpenStreetMap Overpass API, GIS Routing |
+
+</details>
+
+<details open>
+<summary><b>⚙️ 6. Core Systems, Architecture & Reinforcement Learning</b> (6 Repositories)</summary>
+
+<br>
+
+| Repository | Description | Key Tech Stack & Capabilities |
+| :--- | :--- | :--- |
+| [`Bosaj/csharp-dotnet-enterprise-suite`](https://github.com/Bosaj/csharp-dotnet-enterprise-suite) | Clean Architecture enterprise solution in C# & .NET 9 with CQRS, MediatR & Entity Framework | C#, .NET 9, EF Core, MediatR, xUnit, Clean Architecture |
+| [`Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps`](https://github.com/Bosaj/Assistant-Personnel-pour-la-Gestion-du-Temps) | Autonomous schedule optimization agent using Deep Q-Networks (DQN) in custom Gymnasium env | PyTorch, Python, Gymnasium, Experience Replay |
+| [`Bosaj/Reinforcement-Learning-Labs`](https://github.com/Bosaj/Reinforcement-Learning-Labs) | Comprehensive reinforcement learning benchmarks (Q-Learning, SARSA, DQN, Actor-Critic) | Python, Gymnasium, PyTorch, Matplotlib |
+| [`Bosaj/semantic-web-knowledge-ontologies`](https://github.com/Bosaj/semantic-web-knowledge-ontologies) | Semantic Web ontology engineering with OWL 2 DL, RDF triples, SWRL reasoning rules & SPARQL | Protégé, OWL 2, RDF, SWRL Rules, SPARQL |
+| [`Bosaj/interactive-systems-software-engineering`](https://github.com/Bosaj/interactive-systems-software-engineering) | Human-Computer Interaction (IHM) engineering, UML design patterns & systems architecture | React, React Native, UML, Operational Research, Compilers |
+| [`Bosaj/foundational-software-engineering-labs`](https://github.com/Bosaj/foundational-software-engineering-labs) | Core computer science foundations (OOP, Data Structures, Oracle SQL, C++, Java, Assembly) | C++, Java, Python, SQL/Oracle, Algorithms |
+
+</details>
 
 <div align="center">
  <br>
  <a href="https://github.com/Bosaj?tab=repositories" target="_blank">
- <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+ <img src="https://img.shields.io/badge/%F0%9F%94%8D_Explore_All_56_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories" />
  </a>
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+## 🌐 Live Demos
+
+<div align="center">
+
+| Project | Live Platform Link | Tech Stack & Hosting |
+|---|---|---|
+| **Dual Portfolio Hub** | [bosaj.vercel.app](https://bosaj.vercel.app) | Vite 7 • React • Three.js • Vercel Edge |
+| **Jaridtak (Gazette Digest)** | [jaridtak.lovable.app](https://jaridtak.lovable.app) | TanStack Start • Gemini 2.0 • Supabase |
+| **KS-Ayoub-Car Mobility** | [ks-ayoub-car.vercel.app](https://ks-ayoub-car.vercel.app) | FastAPI • Next.js 16 • PostgreSQL • Vercel |
+| **Club Motatawi3 El-Alfia** | [club-motatawi3-site-web.vercel.app](https://club-motatawi3-site-web.vercel.app) | React • Tailwind CSS • Supabase • Vercel |
+| **Shajara · شجرة الأنبياء** | [shajara-prophets.vercel.app](https://shajara-prophets.vercel.app) | Next.js • React • SVG Lineage • Vercel |
+| **Hsabli · حسبلي (Darija Money PWA)** | [darija-money-converter.vercel.app](https://darija-money-converter.vercel.app) | React • Web Speech API • Tailwind • Vercel |
+| **Inbox Bubble Map** | [inbox-bubble-map.vercel.app](https://inbox-bubble-map.vercel.app) | Next.js • D3.js Force Graphs • Vercel |
+| **ENIAD Academic Assistant** | [eniad-assistant-official.web.app](https://eniad-assistant-official.web.app) | LLaMA-3.1 LoRA • Next.js • Firebase |
+| **Good Ambassadors Association** | [a-a-b-v.netlify.app](https://a-a-b-v.netlify.app/) | Responsive Trilingual Web • Netlify |
+| **XAI Model Interpretability Suite** | [Hugging Face Space](https://bosaj-xai-model-interpretability-suite.static.hf.space) | Python • SHAP • LIME • Streamlit HF Space |
+| **Real-Time Sentiment on X** | [Hugging Face Space](https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x) | PySpark • Kafka • RoBERTa • HF Space |
+| **VGG16 Transfer Learning Classifier** | [Hugging Face Space](https://huggingface.co/spaces/bosaj/vgg16-transfer-learning-classifier) | Pretrained VGG16 • Gradio • HF Space |
+| **Clinical Stroke Risk Predictor** | [Hugging Face Space](https://huggingface.co/spaces/bosaj/clinical-stroke-risk-predictor) | XGBoost • Streamlit • HF Space |
+| **DQN Schedule Optimizer** | [bosaj.github.io/Assistant-Personnel-…](https://bosaj.github.io/Assistant-Personnel-pour-la-Gestion-du-Temps/) | PyTorch DQN • GitHub Pages |
+| **Reinforcement Learning Labs** | [bosaj.github.io/Reinforcement-Learning-Labs](https://bosaj.github.io/Reinforcement-Learning-Labs/) | Q-Learning & SARSA • GitHub Pages |
+| **PRODIGY ML 01 (House Prices)** | [bosaj.github.io/PRODIGY_ML_01](https://bosaj.github.io/PRODIGY_ML_01/) | Scikit-learn Regression • GitHub Pages |
+| **PRODIGY ML 02 (Customer Clusters)** | [bosaj.github.io/PRODIGY_ML_02](https://bosaj.github.io/PRODIGY_ML_02/) | K-Means Clustering • GitHub Pages |
+
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+## 🤗 Hugging Face Models, Datasets & Spaces
+
+<div align="center">
+
+<p>
+ <a href="https://huggingface.co/bosaj" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-Profile_%40bosaj-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Profile" /></a>
+</p>
+
+| Type | Asset Name & Link | Domain / Task | Highlights & Architecture |
+| :---: | :--- | :--- | :--- |
+| 🧠 **Model** | [`bosaj/eniad-llama3.1-8b-assistant-lora`](https://huggingface.co/bosaj/eniad-llama3.1-8b-assistant-lora) | Conversational Campus AI | Fine-tuned LoRA adapter on Meta-Llama-3.1-8B-Instruct for Moroccan university curriculum Q&A |
+| 📊 **Dataset** | [`bosaj/eniad-assistant-instruct-dataset`](https://huggingface.co/datasets/bosaj/eniad-assistant-instruct-dataset) | Instruction Fine-Tuning | Curated trilingual instruction dataset (AR/FR/EN) covering engineering modules & campus life |
+| 📊 **Dataset** | [`bosaj/federated-loan-approval-benchmark`](https://huggingface.co/datasets/bosaj/federated-loan-approval-benchmark) | Privacy-Preserving ML | Multi-node banking loan approval benchmark for decentralized federated learning algorithms |
+| 📊 **Dataset** | [`bosaj/stroke-prediction-dataset`](https://huggingface.co/datasets/bosaj/stroke-prediction-dataset) | Clinical Healthcare ML | Cleaned and SMOTE-balanced medical diagnostic dataset for cardiovascular stroke risk evaluation |
+| 🚀 **Space** | [`bosaj/xai-model-interpretability-suite`](https://huggingface.co/spaces/bosaj/xai-model-interpretability-suite) | Explainable AI | Interactive Streamlit app exploring PDP, ALE, KernelSHAP, LIME, Grad-CAM & Saliency Maps |
+| 🚀 **Space** | [`bosaj/real-time-sentiment-analysis-x`](https://huggingface.co/spaces/bosaj/real-time-sentiment-analysis-x) | Streaming NLP | Live sentiment classification interface demonstrating RoBERTa on streaming social media |
+| 🚀 **Space** | [`bosaj/vgg16-transfer-learning-classifier`](https://huggingface.co/spaces/bosaj/vgg16-transfer-learning-classifier) | Computer Vision | Interactive Gradio vision app showcasing fine-tuned VGG16 feature extraction |
+| 🚀 **Space** | [`bosaj/clinical-stroke-risk-predictor`](https://huggingface.co/spaces/bosaj/clinical-stroke-risk-predictor) | Healthcare Diagnostics | Web risk calculator with probability distributions and feature importance charts |
+
+</div>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+
+## 🦊 GitLab Enterprise ALM Ecosystem (Circet Morocco)
+
+<div align="center">
+
+<p>
+ <a href="https://gitlab.com/Bosaj" target="_blank"><img src="https://img.shields.io/badge/GitLab-Profile_%40Bosaj-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile" /></a>
+</p>
+
+| Repository | Purpose & Architecture | Technologies |
+| :--- | :--- | :--- |
+| `power-automate-alm` | Enterprise Application Lifecycle Management pipeline for Power Automate with DEV/TEST/PROD promotion | GitLab CI/CD, PowerShell, Power Platform CLI |
+| `power-automate-alm-core` | Core automation engine, telemetry wrappers, and validation scripts for enterprise low-code flows | PowerShell, PAC CLI, SharePoint REST API |
+| `commandes-solution` | Production order processing, automated validation, and enterprise telemetry synchronization | Power Automate, SharePoint Lists, Power BI |
+| `n8n-workflows` | Self-hosted event-driven workflow automation routines, API webhooks, and incident dispatching | n8n, Node.js, Webhooks, Docker |
+
 </div>
 
 <!-- Gradient Divider -->
@@ -438,17 +588,17 @@ Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issue
  </tr>
  <tr>
  <td valign="top">
- • <b>100% Automated Test Pass Rate</b> across all maintained repositories<br/>
+ • <b>100% Automated Test Pass Rate</b> across all 56 maintained repositories<br/>
  • <b>Multi-Framework Testing</b>: Pytest, Vitest, JUnit/Maven, Gradle, .NET xUnit<br/>
- • Continuous end-to-end and integration regression suites
+ • Continuous end-to-end and integration regression suites in GitHub Actions & GitLab CI
  </td>
  <td valign="top">
  • Strict typing enforcement via <b>Mypy</b> & <b>TypeScript Strict Mode</b><br/>
  • Pydantic v2 runtime data contract schemas<br/>
- • Automated linting and formatting via <b>Ruff</b> and <b>Prettier</b>
+ • Automated linting and formatting via <b>Ruff</b>, <b>ESLint</b>, and <b>Prettier</b>
  </td>
  <td valign="top">
- • Automated vulnerability auditing with <b>Bandit</b> & CodeQL<br/>
+ • Automated vulnerability auditing with <b>Bandit</b> & Trivy<br/>
  • <b>Path Traversal Defenses</b> in FastMCP filesystem servers<br/>
  • Strict environment isolation & zero-hardcoded secrets policy
  </td>
@@ -467,7 +617,7 @@ Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issue
 
 ### Specialized & Enterprise Tooling
 
-`Power Automate` &nbsp; `Power Apps` &nbsp; `Power BI` &nbsp; `SharePoint` &nbsp; `PowerShell` &nbsp; `GitLab CI/CD` &nbsp; `LangChain` &nbsp; `CrewAI` &nbsp; `Hugging Face` &nbsp; `Qdrant` &nbsp; `FastMCP` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Pytest` &nbsp; `Vitest` &nbsp; `MLflow`
+`Power Automate` &nbsp; `Power Apps` &nbsp; `Power BI` &nbsp; `SharePoint` &nbsp; `PowerShell` &nbsp; `GitLab CI/CD` &nbsp; `LangChain` &nbsp; `LangGraph` &nbsp; `CrewAI` &nbsp; `Hugging Face` &nbsp; `Qdrant` &nbsp; `FastMCP` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Pytest` &nbsp; `Vitest` &nbsp; `MLflow` &nbsp; `TinyML`
 
 </div>
 
@@ -504,35 +654,35 @@ Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issue
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
-## 🎓 Education
+## 🎓 Education & Research Journey
 
 <table>
  <tr>
  <th>Period</th>
  <th>Degree / Qualification</th>
  <th>Institution</th>
- <th>Distinction / Result</th>
+ <th>Distinction / Highlights</th>
  </tr>
  <tr>
  <td>Dec 2023 – Jul 2026</td>
  <td><b>State Engineer's Degree in Artificial Intelligence</b></td>
- <td>ENIAD • Mohammed First University</td>
- <td><b>Very Good Honors</b></td>
+ <td>ENIAD • Mohammed First University, Berkane</td>
+ <td><b>Very Good Honors</b> — Specialized in Autonomous Agents, Computer Vision, MLOps, Enterprise ALM</td>
  </tr>
  <tr>
- <td>Sep 2022 – Present</td>
- <td><b>Bachelor's Degree in Physical Sciences</b></td>
- <td>Faculty of Sciences • Mohammed First University</td>
- <td>In Progress</td>
+ <td>Sep 2022 – Jul 2023</td>
+ <td><b>Bachelor's Degree in Physical Sciences (Licence)</b></td>
+ <td>Faculty of Sciences • Mohammed First University, Oujda</td>
+ <td><b>Research Thesis in Inertial Confinement Fusion (ICF)</b> in collaboration with Laboratoire LME (plasma physics, laser-matter interaction, deuterium-tritium target dynamics)</td>
  </tr>
  <tr>
- <td>Sep 2019 – Feb 2022</td>
+ <td>Sep 2019 – Jun 2021</td>
  <td><b>DEUG in Physical Sciences</b></td>
- <td>Faculty of Sciences • Mohammed First University</td>
- <td><b>Honors</b></td>
+ <td>Faculty of Sciences • Mohammed First University, Oujda</td>
+ <td><b>Honors</b> — Advanced Mathematical Analysis, Thermodynamics, Electromagnetism, Quantum Mechanics</td>
  </tr>
  <tr>
- <td>Sep 2017 – Jul 2019</td>
+ <td>Sep 2017 – Jun 2019</td>
  <td><b>Baccalaureate in Physical Sciences</b></td>
  <td>Zineb Ennafzaouia High School, Oujda</td>
  <td><b>Honors</b></td>
@@ -580,7 +730,7 @@ Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issue
  <th>Certification</th>
  <th>Issuer</th>
  <th>Date</th>
- <th>Credential ID</th>
+ <th>Credential ID / Verification</th>
  </tr>
  <tr>
  <td><b>Data Science Fundamentals with Python and SQL</b></td>
@@ -593,6 +743,12 @@ Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issue
  <td><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Badge" /></td>
  <td>Oct 2025</td>
  <td><code>E5EZMU8R0DRZ</code></td>
+ </tr>
+ <tr>
+ <td><b>Introduction to Data Science</b></td>
+ <td><img src="https://img.shields.io/badge/Moroccan_Data_Association-00897B?style=flat-square&logoColor=white" alt="MDA Badge" /></td>
+ <td>Nov 2025</td>
+ <td>Verified (MDA)</td>
  </tr>
  <tr>
  <td><b>Generative AI: Prompt Engineering Basics</b></td>
@@ -610,13 +766,25 @@ Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issue
  <td><b>Career Essentials in Generative AI</b></td>
  <td><img src="https://img.shields.io/badge/Microsoft_&_LinkedIn-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Badge" /></td>
  <td>Apr 2024</td>
- <td>Verified </td>
+ <td>Verified</td>
  </tr>
  <tr>
  <td><b>MIATHON 2nd Edition</b></td>
  <td><img src="https://img.shields.io/badge/Moroccan_House_of_AI-00897B?style=flat-square&logoColor=white" alt="MIATHON Badge" /></td>
  <td>Jul 2024</td>
- <td>Verified </td>
+ <td>Verified</td>
+ </tr>
+ <tr>
+ <td><b>SQL Intermediate & SQL Fundamentals</b></td>
+ <td><img src="https://img.shields.io/badge/DataCamp_&_SoloLearn-03E1C5?style=flat-square&logoColor=black" alt="SQL Badge" /></td>
+ <td>Apr 2024</td>
+ <td>Verified</td>
+ </tr>
+ <tr>
+ <td><b>Google Analytics Certification</b></td>
+ <td><img src="https://img.shields.io/badge/Google-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA Badge" /></td>
+ <td>Apr 2024</td>
+ <td>Verified</td>
  </tr>
 </table>
 
@@ -740,10 +908,10 @@ Public projects aimed at real gaps for Moroccan and Arabic-speaking users. Issue
 
 <div align="center">
 
- **Taekwondo** • Discipline, patience, and focus under pressure
- **Weightlifting** • The compounding-progress mindset applied to physical health
- **Photography** • Framing the world through a lens • [@catcher_sama](https://instagram.com/catcher_sama)
- **Content Creation** • Visual storytelling and digital media editing
+ **Taekwondo** • Discipline, patience, and focus under pressure  
+ **Weightlifting** • The compounding-progress mindset applied to physical health  
+ **Photography** • Framing the world through a lens • [@catcher_sama](https://instagram.com/catcher_sama)  
+ **Content Creation** • Visual storytelling and digital media editing  
 
 </div>
 
@@ -770,6 +938,6 @@ I am open to **strategic AI collaborations, technical research, and open-source 
 
 *If something here caught your eye, a star on my repositories means a lot.*
 
-*Built in Morocco 🇲🇦 • reasoning from first principles, one system at a time.*
+*Built in Morocco 🇲🇦 • reasoning from first principles • 2026*
 
 </div>
